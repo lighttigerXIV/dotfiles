@@ -1,4 +1,10 @@
-# Firefox Config
+
+<div align="center">
+  
+  # Firefox Config
+  
+  <img src="firefox-preview.webp" width="600">
+</div>
 
 ## Required Extensions
 - [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
