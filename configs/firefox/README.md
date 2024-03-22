@@ -14,9 +14,13 @@
 ### Theme
 To install the theme click [here](https://color.firefox.com/?theme=XQAAAAIlAgAAAAAAAABBKYhm849SCicxcUCyhXcGHf3p79EhVPUEQrvEmu_nKXFAW1wfw7l4mmpG1B1c-QOYLNGAa-nppyAayYYdTnArT2CdBCt6tctYGj6Y3vvrplptyWaObmOFXFYu_bknvrrxVQh2hthquPkCeflgW0DUlG3oiqPhWxOCPd7G8Eq9paZj-tm_tlHkj2FrebW9rIimvmP-x20sZHuTnPlbZLQ4pNoYrDLaE3oo5Z4XWR5WJ4SrE1ZBIFRX1OgVLq5MRokcfYDeKz_GTyLGSLOY5FaXGy2Y0YGvDhRGL-ygH51qb7bm8U3uQSsTqc_7ACVwsoj-867f-A)
 
-### Others
-This config uses the user chrome css for the side tab bar to properly work. To install it copy the chrome folder into the release user in firefox directory:
+### UserChrome
+This config uses the user chrome css for the side tab bar to properly work.
 
-Linux: `~/.mozilla/firefox/{profile}-release/`
+- Go to `about:config` and set `toolkit.legacyUserProfileCustomizations.stylesheets` to true
 
-Windows: `{AppData}\Roaming\Mozilla\Firefox\Profiles\{profile}-release`
+- Next install it copy the `chrome` folder into the release user in firefox directory:
+  
+    Linux: `~/.mozilla/firefox/{profile}-release/`
+    
+    Windows: `{AppData}\Roaming\Mozilla\Firefox\Profiles\{profile}-release`
