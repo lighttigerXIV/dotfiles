@@ -1,3 +1,4 @@
 # Configs Programs
-- [Neovim](./configs/nvim/)
+- [Discord](./configs/discord/README.md)
 - [Firefox](./configs/firefox/README.md)
+- [Neovim](./configs/nvim/)
