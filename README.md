@@ -1,4 +1,4 @@
-# Configs Programs
+# Dotfiles
 - [Discord](./configs/discord/)
 - [Firefox](./configs/firefox/)
 - [Neovim](./configs/nvim/)
