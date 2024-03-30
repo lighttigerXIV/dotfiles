@@ -1,4 +1,5 @@
 # Configs Programs
-- [Discord](./configs/discord/README.md)
-- [Firefox](./configs/firefox/README.md)
+- [Discord](./configs/discord/)
+- [Firefox](./configs/firefox/)
 - [Neovim](./configs/nvim/)
+- [Starship](./configs/starship)
