@@ -20,6 +20,8 @@ sudo pacman -S stow
 | Neovim   | `stow nvim`                         |
 | Starship | `stow starship`                     |
 
+# Using stow
+
 To use stow clone this repo into the home directory:
 ```bash
 git clone https://github.com/lighttigerXIV/dotfiles.git ~
