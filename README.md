@@ -24,5 +24,5 @@ sudo pacman -S stow
 
 To use stow clone this repo into the home directory:
 ```bash
-git clone https://github.com/lighttigerXIV/dotfiles.git ~
+git clone https://github.com/lighttigerXIV/dotfiles.git ~/dotfiles
 ```
