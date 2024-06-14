@@ -1,9 +1,18 @@
-# Discord
+<div align="center">
 
-- Install vencord using 
-```sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"```
+# 🤖 Discord
+</div>
 
-- Install fake nitro plugin
+# Mod Client
 
-- Add the following url in QuickCSS:
-`@import url("https://raw.githubusercontent.com/refact0r/midnight-discord/master/flavors/midnight-catppuccin-frappe.theme.css")`
+To install **vencord** run the following command:
+```bash
+sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
+```
+
+# Theme
+[Whiskers Theme](https://github.com/Whiskers-Color-Scheme/discord)
+
+# Plugins
+- FakeNitro
+- SpotifyControls

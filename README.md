@@ -1,6 +1,9 @@
-# Dotfiles
+<div align="center">
 
-Welcome to my humble and small dotfiles 🤔
+# ⚙️ Dotfiles
+</div>
+
+Welcome to my humble dotfiles 🤔
 
 Wou will need to install stow for some of the dotfiles:
 
@@ -16,3 +19,8 @@ sudo pacman -S stow
 | Fish     | `stow fish`                         |
 | Neovim   | `stow nvim`                         |
 | Starship | `stow starship`                     |
+
+To use stow clone this repo into the home directory:
+```bash
+git clone https://github.com/lighttigerXIV/dotfiles.git ~
+```
