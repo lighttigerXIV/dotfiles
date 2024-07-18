@@ -14,12 +14,10 @@ alias update-spicetify="spicetify backup apply"
 alias dev-tauri="nvm use node; WEBKIT_DISABLE_COMPOSITING_MODE=1 bun run tauri dev"
 alias build-tauri="nvm use node; bun run tauri build"
 alias fix-nautilus="sudo sed -i 's|inode/directory=.*|inode/directory=org.gnome.Nautilus.desktop;code.desktop;|g' /usr/share/applications/mimeinfo.cache"
+alias make-wl-release="cd uninstall-cli; cargo update whiskers-launcher-rs; cargo build --release; cd ../whiskers-launcher-companion/src-tauri; cargo update whiskers-launcher-rs; build-tauri; cd ../../whiskers-launcher/src-tauri; cargo update whiskers-launcher-rs; build-tauri; cd ../../; cp ~/Rust-Target/release/whiskers-launcher ~/Rust-Target/release/whiskers-launcher-companion ~/Rust-Target/release/uninstall install-cli/files/binaries/; cd install-cli/; cargo update whiskers-launcher-rs;cargo build --release"
 
-PS1='[\u@\h \W]\$ '
-
-eval "$(starship init bash)"
-
-export PATH=$PATH:/home/lighttigerxiv/.spicetify
+#Cargo
+export PATH=$PATH:/home/lighttigerxiv/.spicetify:/home/lighttigerxiv/.cargo/bin
 
 # bun
 export BUN_INSTALL="$HOME/.bun"
@@ -31,3 +29,17 @@ export NVM_DIR="$HOME/.nvm"
 
 # Created by `pipx` on 2024-06-05 13:18:43
 export PATH="$PATH:/home/lighttigerxiv/.local/bin"
+. "$HOME/.cargo/env"
+
+
+PS1='[\u@\h \W]\$ '
+
+# Starship and fish
+
+if [[ $(ps --no-header --pid=$PPID --format=comm) != "fish" && -z ${BASH_EXECUTION_STRING} && ${SHLVL} == 1 ]]
+then
+	shopt -q login_shell && LOGIN_OPTION='--login' || LOGIN_OPTION=''
+	exec fish $LOGIN_OPTION
+fi
+
+eval "$(starship init bash)"
