@@ -50,7 +50,7 @@ config.color_schemes = {
 
 
 
-config.enable_wayland = false
+config.enable_wayland = true
 config.color_scheme = "Whiskers Panther"
 config.hide_tab_bar_if_only_one_tab = true
 config.use_fancy_tab_bar = true
@@ -85,7 +85,7 @@ config.colors = {
         },
     },
 }
-config.font = wezterm.font 'Jetbrains Mono'
+config.font = wezterm.font 'RobotoMono Nerd Font Mono'
 config.font_size = 14
 config.audible_bell = 'Disabled'
 config.default_cursor_style = 'BlinkingBar'

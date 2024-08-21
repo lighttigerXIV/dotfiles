@@ -14,8 +14,12 @@ set -Ux CARGO_TARGET_DIR "/home/lighttigerxiv/Coding/Rust/Target"
 # Path
 set -gx BUN_INSTALL "$HOME/.bun"
 set PATH $BUN_INSTALL/bin $PATH
+source "$HOME/.cargo/env.fish"
 
 # Alias
 alias paru="paru --bottomup"
 alias update="paru -Syyyu; flatpak update"
 alias vencord-installer='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
+
+
+
