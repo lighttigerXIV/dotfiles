@@ -41,5 +41,3 @@ then
 	shopt -q login_shell && LOGIN_OPTION='--login' || LOGIN_OPTION=''
 	exec fish $LOGIN_OPTION
 fi
-
-eval "$(starship init bash)"
