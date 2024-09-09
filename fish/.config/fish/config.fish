@@ -14,9 +14,7 @@ set PATH $BUN_INSTALL/bin $PATH
 source "$HOME/.cargo/env.fish"
 
 # Alias
-alias update="sudo dnf update; flatpak update"
+alias update="yay -Syyyu; flatpak update"
 alias vencord-installer='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
-alias install="sudo dnf install -y"
-alias search="dnf search"
 
 

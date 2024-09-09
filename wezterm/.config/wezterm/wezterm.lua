@@ -50,7 +50,7 @@ config.color_schemes = {
 
 
 
-config.enable_wayland = true
+config.enable_wayland = false
 config.color_scheme = "Whiskers Panther"
 config.hide_tab_bar_if_only_one_tab = true
 config.use_fancy_tab_bar = true
