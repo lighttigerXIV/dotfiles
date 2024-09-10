@@ -1,0 +1,25 @@
+*{
+    color: #FFEEE2;
+    font-weight: 600;
+}
+
+window#waybar{
+    border-radius: 99px;
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+label.module, #tray{
+    padding: 6px 16px 6px 16px;
+    margin: 8px 0 8px 0px;
+    border-radius: 99px;
+    background-color: #301300;
+    border: 2px solid #401A00;
+}
+
+#tray{
+    margin-right: 8px;
+}
+
+#clock{
+    margin-left: 8px;
+}
