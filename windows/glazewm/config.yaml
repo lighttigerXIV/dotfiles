@@ -104,6 +104,9 @@ window_rules:
       # Ignores any Zebar windows.
       - window_process: { equals: 'zebar' }
 
+      # Whiskers Launcher
+      - window_process: {equals: 'whiskers-launcher'}
+
       # Ignores picture-in-picture windows for browsers.
       - window_title: { regex: '[Pp]icture.in.[Pp]icture' }
         window_class: { regex: 'Chrome_WidgetWin_1|MozillaDialogClass' }
