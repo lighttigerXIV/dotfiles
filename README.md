@@ -1,9 +1,25 @@
-# Create environment
+Create Env.
 ```sh
-python -m venv venv; source venv/bin/activate.fish; pip install --upgrade pip; pip install json5
+python -m venv venv
 ```
 
-# Run install script
+Source Env.
+```sh
+source venv/bin/activate.fish
+```
+
+Upgrade Pip
+```sh
+pip install --upgrade pip
+```
+
+Install Dependencies
+```sh
+pip install json5
+```
+
+
+Run install script
 ```sh
 python install.py
 ```
