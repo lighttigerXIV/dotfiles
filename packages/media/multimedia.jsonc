@@ -1,5 +1,5 @@
 {
-  "packages": ["vlc", "mpv"],
+  "packages": ["vlc", "mpv", "youtube-music-bin"],
   "flatpaks": ["com.spotify.Client"],
   "commands": [
     "curl -fsSL https://raw.githubusercontent.com/spicetify/cli/main/install.sh | sh",
