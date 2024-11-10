@@ -14,6 +14,7 @@ set PATH $BUN_INSTALL/bin $PATH
 set PATH "$HOME/.local/bin" $PATH
 set PATH "$HOME/.cargo/bin" $PATH
 set PATH "$HOME/.config/hypr/scripts" $PATH
+set PATH "$HOME/.spicetify" $PATH
 
 # Alias
 alias update="yay; flatpak update -y"

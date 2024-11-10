@@ -2,12 +2,39 @@ import os
 from pathlib import Path
 import subprocess
 import json5
+import sys
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 venv_dir = Path(current_dir) / "venv"
 configs_dir = Path(current_dir) / "configs"
 packages_dir = Path(current_dir) / "packages"
 
+install_dots = True
+install_packages = True
+install_flatpaks = True
+run_commands = True
+
+args = sys.argv
+if len(args) > 1:
+    if args[1] == "dots":
+        install_packages = False
+        install_flatpaks = False
+        run_commands = False
+        
+    if args[1] == "packages":
+        install_dots = False
+        install_flatpaks = False
+        run_commands = False
+    
+    if args[1] == "flatpaks":
+        install_dots = False
+        install_packages = False
+        run_commands = False
+        
+    if args[1] == "commands":
+        install_dots = False
+        install_packages = False
+        install_flatpaks = False
 
 def install_package(package):
     process = subprocess.run(f"yay -S {package} --noconfirm", shell=True, capture_output=True, text=True)
@@ -25,10 +52,11 @@ def run_command(command):
     subprocess.run(command, shell=True, text=True)
 
 # Run Stow Commands
-for dir in configs_dir.iterdir():
-    name = dir.name
-    print(f"🫂 Symlinking {name}")
-    subprocess.run(f"stow {name} -t ~", shell=True, cwd=configs_dir)
+if install_dots:
+    for dir in configs_dir.iterdir():
+        name = dir.name
+        print(f"🫂 Symlinking {name}")
+        subprocess.run(f"stow {name} -t ~", shell=True, cwd=configs_dir)
 
 
 packages_list = []
@@ -55,16 +83,19 @@ for root, dirs, files in os.walk(packages_dir):
                 for command in content["commands"]:
                     commands_list.append(command)
 
-for package in packages_list:
-    print(f"📁 Installing {package}")
-    install_package(package)
+if install_packages:
+    for package in packages_list:
+        print(f"📁 Installing {package}")
+        install_package(package)
 
-for flatpak in flatpaks_list:
-    print(f"🏪 Installing {flatpak}")
-    install_flatpak(flatpak)
+if install_flatpaks:
+    for flatpak in flatpaks_list:
+        print(f"🏪 Installing {flatpak}")
+        install_flatpak(flatpak)
 
-for command in commands_list:
-    print(f"👓 Running command {command}")
-    run_command(command)
+if run_commands:
+    for command in commands_list:
+        print(f"👓 Running command {command}")
+        run_command(command)
 
 print("✅ Everything installed successfully")
