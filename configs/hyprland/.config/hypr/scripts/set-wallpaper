@@ -1,0 +1,19 @@
+import os
+import sys
+from pathlib import Path
+import subprocess
+
+
+if(len(sys.argv) < 2):
+    print("😞 Missing wallpaper path")
+    exit(1)
+
+wallpaper_path = Path(sys.argv[1])
+
+if os.fork() == 0:
+    subprocess.run(f"mkdir -p ~/Pictures/Wallpapers", shell=True, stdout=subprocess.DEVNULL)
+    subprocess.run(f"magick {wallpaper_path} ~/.config/hypr/hyprlock/wallpaper.png",shell=True, stdout=subprocess.DEVNULL)
+    subprocess.run("cp ~/.config/hypr/hyprlock/wallpaper.png ~/Pictures/Wallpapers/wallpaper.png",shell=True, stdout=subprocess.DEVNULL)
+    subprocess.run(f"swww img ~/Pictures/Wallpapers/wallpaper.png", shell=True, stdout=subprocess.DEVNULL)
+
+exit(0)
