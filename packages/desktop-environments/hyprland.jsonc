@@ -11,7 +11,9 @@
     "network-manager-applet",
     "nwg-look",
     "waybar",
-    "swww"
+    "swww",
+    "polkit",
+    "polkit-gnome"
   ],
   "commands": [
     // Sets Custom Blue Light Filter
