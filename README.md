@@ -15,7 +15,7 @@ pip install --upgrade pip
 
 Install Dependencies
 ```sh
-pip install json5
+pip install json5; sudo pacman -S flatpak stow --noconfirm;
 ```
 
 
