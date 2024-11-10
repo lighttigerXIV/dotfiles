@@ -1,3 +1,3 @@
 {
-  "packages":["qbittorrent", "fastfetch"]
+  "packages":["qbittorrent", "fastfetch", "brave-bin"]
 }
