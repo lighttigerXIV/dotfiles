@@ -1,0 +1,24 @@
+{
+  "packages": [
+    "hyprland",
+    "hyprlock",
+    "hypridle",
+    "hyprshot",
+    "hyprshade",
+    "mako",
+    "pamixer",
+    "blueman",
+    "network-manager-applet",
+    "nwg-look",
+    "waybar",
+    "swww"
+  ],
+  "commands": [
+    // Sets Custom Blue Light Filter
+    "hyprshade on ~/.config/hypr/shaders/custom-blue-light.glsl",
+    // Install Hyprshade Service
+    "hyprshade install",
+    // Enable Hyprshade Service
+    "systemctl --user enable --now hyprshade.timer"
+  ]
+}

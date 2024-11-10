@@ -13,6 +13,7 @@ set -gx BUN_INSTALL "$HOME/.bun"
 set PATH $BUN_INSTALL/bin $PATH
 set PATH "$HOME/.local/bin" $PATH
 set PATH "$HOME/.cargo/bin" $PATH
+set PATH "$HOME/.config/hypr/scripts" $PATH
 
 # Alias
 alias update="yay; flatpak update -y"
