@@ -1,2 +1,2 @@
-[config]
+[build]
 target-dir = "/home/lighttigerxiv/.cache/rust-target"
