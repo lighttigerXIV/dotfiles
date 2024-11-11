@@ -1,4 +1,0 @@
-{
-  "packages": ["gnome", "gnome-tweaks"],
-  "flatpaks": ["com.mattjakeman.ExtensionManager"]
-}

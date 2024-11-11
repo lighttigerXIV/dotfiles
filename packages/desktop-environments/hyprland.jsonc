@@ -13,7 +13,10 @@
     "waybar",
     "swww",
     "polkit",
-    "polkit-gnome"
+    "polkit-gnome",
+    "gnome-keyring",
+    "seahorse",
+    "sddm"
   ],
   "commands": [
     // Sets Custom Blue Light Filter

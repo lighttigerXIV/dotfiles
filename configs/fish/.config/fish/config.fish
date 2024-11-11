@@ -18,3 +18,4 @@ set PATH "$HOME/.spicetify" $PATH
 
 # Alias
 alias update="yay; flatpak update -y"
+alias download-vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
