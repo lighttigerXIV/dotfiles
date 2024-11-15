@@ -19,3 +19,14 @@ set PATH "$HOME/.spicetify" $PATH
 # Alias
 alias update="yay; flatpak update -y"
 alias download-vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
+
+# ============ Development Alias ================= #
+
+alias dev-web='nvm use latest; yarn run dev; xdg-open http://localhost:5173/'
+alias build-web="yarn run build"
+
+alias dev-tauri="nvm use latest; yarn run tauri dev"
+alias build-tauri="yarn run tauri build"
+
+alias dev-rust="cargo run"
+alias build-rust="cargo build --release"
