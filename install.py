@@ -16,25 +16,13 @@ run_commands = True
 
 args = sys.argv
 if len(args) > 1:
-    if args[1] == "dots":
-        install_packages = False
-        install_flatpaks = False
-        run_commands = False
-        
-    if args[1] == "packages":
-        install_dots = False
-        install_flatpaks = False
-        run_commands = False
+    command = args[1]
     
-    if args[1] == "flatpaks":
-        install_dots = False
-        install_packages = False
-        run_commands = False
-        
-    if args[1] == "commands":
-        install_dots = False
-        install_packages = False
-        install_flatpaks = False
+    install_dots = command == "dots"
+    install_packages = command == "packages"
+    install_flatpaks = command == "flatpaks"
+    run_commands = command == "commands"
+
 
 def install_package(package):
     process = subprocess.run(f"yay -S {package} --noconfirm", shell=True, capture_output=True, text=True)
