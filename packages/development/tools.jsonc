@@ -1,4 +1,5 @@
 {
+  "packages": ["android-tools"],
   "flatpaks": ["io.dbeaver.DBeaverCommunity", "com.getpostman.Postman"],
   "commands": [
     // Refresh Postman Keys. It fixes crash after login
