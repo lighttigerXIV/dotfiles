@@ -16,7 +16,8 @@
     "polkit-gnome",
     "gnome-keyring",
     "seahorse",
-    "sddm"
+    "sddm",
+    "brightnessctl"
   ],
   "commands": [
     // Sets Custom Blue Light Filter
