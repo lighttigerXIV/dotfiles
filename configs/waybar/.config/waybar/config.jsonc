@@ -1,35 +1,41 @@
 {
-    "layer": "top",
-    "reload_style_on_change": true,
-    "spacing": 24,
-    "modules-left": ["clock"],
-    "modules-center": [],
-    "modules-right": [ "hyprland/language", "network", "pulseaudio","battery", "tray"],
-    "pulseaudio":{
-        "format": "    {volume}",
-        "format-muted": "    {volume}"
-    },
-    "battery": {
-        "format": "{icon}    {capacity}",
-        "format-icons": ["", "", "", "", ""]
-    },
-    "tray":{
-        "icon-size": 16,
-        "spacing": 16
-    },
-    "clock":{
-        "format": "{:%H:%M}",
-        "tooltip-format": "󰃭   {:%A - %d/%m/%Y}"
-    },
-    "hyprland/language":{
-        "format": "󰌌  {}",
-        "format-en": "🇺🇸",
-        "format-pt": "🇵🇹"
-    },
-    "network":{
-        "format-ethernet": "    Ethernet",
-        "format-wifi": "󰤨    {essid}",
-        "format-disconnected": "󰤭    Off",
-        "max-length": "14"
-    }
+  "layer": "top",
+  "reload_style_on_change": true,
+  "spacing": 8,
+  "modules-left": ["clock"],
+  "modules-center": [],
+  "modules-right": ["hyprland/language", "network", "pulseaudio", "battery", "tray"],
+  "pulseaudio": {
+    "format": "<span foreground='#ffe072'></span>    {volume}%",
+    "format-muted": "<span foreground='#ffe072'></span>    {volume}%"
+  },
+  "battery": {
+    "format": "{icon}    {capacity}%",
+    "format-icons": [
+      "<span foreground='#ffe072'></span>",
+      "<span foreground='#ffe072'></span>",
+      "<span foreground='#ffe072'></span>",
+      "<span foreground='#ffe072'></span>",
+      "<span foreground='#ffe072'></span>"
+    ]
+  },
+  "tray": {
+    "icon-size": 16,
+    "spacing": 16
+  },
+  "clock": {
+    "format": "<span foreground='#ffe072'>󰥔</span>   {:%H:%M}",
+    "tooltip-format": "<span foreground='#ffe072'></span>   {:%A - %d/%m/%Y}"
+  },
+  "hyprland/language": {
+    "format": "<span foreground='#ffe072'>󰌌</span>   {}",
+    "format-en": "US",
+    "format-pt": "PT"
+  },
+  "network": {
+    "format-ethernet": "<span foreground='#ffe072'></span>   Ethernet",
+    "format-wifi": "<span foreground='#ffe072'>󰤨</span>   {essid}",
+    "format-disconnected": "<span foreground='#ffe072'>󰤭</span>   Off",
+    "max-length": "14"
+  }
 }

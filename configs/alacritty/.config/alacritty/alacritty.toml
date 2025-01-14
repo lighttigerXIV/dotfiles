@@ -1,0 +1,10 @@
+[general]
+import = ["~/.config/alacritty/themes/whiskers/whiskers_panther.toml"]
+
+[window]
+padding = { x = 16, y = 16 }
+decorations = "None"
+
+[font]
+normal = { family = "FiraCode Nerd Font Mono" }
+size = 14

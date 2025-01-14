@@ -25,8 +25,10 @@ alias download-vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vend
 alias dev-web='nvm use latest; yarn run dev; xdg-open http://localhost:5173/'
 alias build-web="yarn run build"
 
-alias dev-tauri="nvm use latest; yarn run tauri dev"
-alias build-tauri="yarn run tauri build"
+alias dev-tauri="nvm use latest; WEBKIT_DISABLE_COMPOSITING_MODE=1 yarn run tauri dev"
+alias build-tauri="nvm use latest; yarn run tauri build"
 
 alias dev-rust="cargo run"
 alias build-rust="cargo build --release"
+
+alias pull="git pull"

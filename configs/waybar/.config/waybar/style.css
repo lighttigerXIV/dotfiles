@@ -1,14 +1,15 @@
 *{
     color: #FFEEE2;
     font-weight: 600;
+    font-size: 14;
 }
 
 window#waybar{
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: transparent;
 }
 
 label.module, #tray{
-    margin: 8px 0 8px 0px;
+    margin-top: 8px;
     padding: 4px 0 4px 0px;
 }
 
@@ -18,4 +19,10 @@ label.module, #tray{
 
 #clock{
     margin-left: 8px;
+}
+
+#clock, #tray, #battery, #network, #pulseaudio, #language{
+    background-color: #1B0B00;
+    padding: 8px 12px 8px 12px;
+    border-radius: 99px;
 }
