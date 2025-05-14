@@ -1,23 +1,17 @@
-// Zed settings
-//
-// For information on how to configure Zed, see the Zed
-// documentation: https://zed.dev/docs/configuring-zed
-//
-// To see all of Zed's default settings without changing your
-// custom settings, run `zed: open default settings` from the
-// command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "ui_font_size": 16,
-  "buffer_font_size": 17,
-  "ui_font_family": "RobotoMono Nerd Font",
+  "icon_theme": "Catppuccin Macchiato",
+  "vim_mode": true,
+  "ui_font_size": 18,
+  "buffer_font_size": 18,
   "theme": {
     "mode": "system",
-    "light": "Catppuccin Macchiato - No Italics",
-    "dark": "Ayu Dark"
+    "light": "One Light",
+    "dark": "Catppuccin Macchiato - No Italics"
   },
-  "autosave": {
-    "after_delay": {
-      "milliseconds": 1000
-    }
+  "buffer_font_family": "FiraCode Nerd Font Mono",
+  "ui_font_family": "Inter",
+  "terminal": {
+    "font_family": "FiraCode Nerd Font Mono",
+    "font_size": 18
   }
 }

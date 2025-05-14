@@ -1,6 +1,0 @@
-{
-  "packages":["qbittorrent", "fastfetch", "brave-bin", "discord", "sddm"],
-  "commands":[
-    "sudo systemctl enable sddm"
-  ]
-}

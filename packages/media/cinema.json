@@ -1,4 +1,0 @@
-{
-  "packages": [ "ani-cli"],
-  "flatpaks": ["com.stremio.Stremio"]
-}
