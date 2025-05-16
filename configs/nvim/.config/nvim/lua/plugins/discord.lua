@@ -3,8 +3,9 @@ return {
 	event = "VeryLazy",
 	config = function()
 		require("neocord").setup({
-			global_time = true,
 			logo_tooltip = nil,
+			show_time = false,
+			global_timer = true,
 		})
 	end,
 }
