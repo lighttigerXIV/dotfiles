@@ -15,3 +15,7 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 		vim.hl.on_yank()
 	end,
 })
+
+-- Use normal tab width 😅
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
