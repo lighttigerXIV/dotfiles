@@ -15,10 +15,5 @@ return {
 				terminal = { enabled = true },
 			},
 		})
-
-		local terminal = require("snacks.terminal")
-
-		vim.keymap.set("n", "<leader>t", terminal.toggle, { desc = "Open Terminal" })
-		vim.keymap.set("t", "<esc>", "<C-\\><C-n>", { desc = "Open Terminal" })
 	end,
 }
