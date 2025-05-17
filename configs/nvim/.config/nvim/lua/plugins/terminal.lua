@@ -5,7 +5,10 @@ return {
 
 		terminal.setup({
 			open_mapping = [[<c-`>]],
-			border = "curved",
+			direction = "float",
+			float_opts = {
+				border = "curved",
+			},
 		})
 	end,
 }
