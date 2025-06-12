@@ -171,3 +171,5 @@ export NVM_DIR="$HOME/.nvm"
 . "/home/lighttigerxiv/.deno/env"
 # Created by `pipx` on 2025-04-27 19:45:52
 export PATH="$PATH:/home/lighttigerxiv/.local/bin"
+
+export PATH=$PATH:/home/lighttigerxiv/.spicetify

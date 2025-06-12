@@ -1,5 +1,5 @@
 *{
-    color: #FFEEE2;
+    color: #F2F2F2;
     font-weight: 600;
     font-size: 14;
 }
@@ -9,20 +9,22 @@ window#waybar{
 }
 
 label.module, #tray{
-    margin-top: 8px;
-    padding: 4px 0 4px 0px;
+    margin-top: 16px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #383838;
 }
 
 #tray{
-    margin-right: 8px;
+    margin-right: 16px;
 }
 
 #clock{
-    margin-left: 8px;
+    margin-left: 16px;
 }
 
 #clock, #tray, #battery, #network, #pulseaudio, #language{
-    background-color: #1B0B00;
+    background-color: #141414;
     padding: 8px 12px 8px 12px;
     border-radius: 99px;
 }

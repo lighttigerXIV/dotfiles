@@ -84,6 +84,7 @@ local function setupPlugins()
 	vim.api.nvim_set_hl(0, "NeoTreeFileStatsHeader", { fg = colors.t3 })
 	vim.api.nvim_set_hl(0, "NeoTreeFloatBorder", { fg = colors.n4 })
 	vim.api.nvim_set_hl(0, "NeoTreeTitleBar", { fg = colors.t0, bg = colors.n4 })
+	vim.api.nvim_set_hl(0, "NeoTreeGitDeleted", { fg = colors.red })
 end
 
 function M.setup()
