@@ -1,7 +1,8 @@
 return {
-	"IogaMaster/neocord",
-	event = "VeryLazy",
-	config = function()
-		require("neocord").setup({})
-	end,
+	"vyfor/cord.nvim",
+	build = ":Cord update",
+	opts = {
+		timestamp = { enabled = false },
+		display = { swap_icons = true },
+	},
 }
