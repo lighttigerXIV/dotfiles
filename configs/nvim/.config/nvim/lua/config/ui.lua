@@ -1,5 +1,5 @@
 -- Enable line numbers
-vim.opt.number = true
+vim.o.number = true
 
 -- Enable Nerd Font
 vim.g.have_nerd_font = true
@@ -23,3 +23,6 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 		vim.hl.on_yank()
 	end,
 })
+
+-- Close Buffer
+vim.keymap.set("n", "<leader>cb", ":bd<CR>")

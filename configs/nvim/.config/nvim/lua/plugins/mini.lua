@@ -1,12 +1,12 @@
 -- A collection of plugins from mini
 return {
 	{
-		'echasnovski/mini.nvim',
+		"echasnovski/mini.nvim",
 		version = false,
 		config = function()
-			local statusline = require "mini.statusline"
+			local statusline = require("mini.statusline")
 
-			statusline.setup { use_icons = true }
-		end
-	}
+			statusline.setup({ use_icons = true })
+		end,
+	},
 }
