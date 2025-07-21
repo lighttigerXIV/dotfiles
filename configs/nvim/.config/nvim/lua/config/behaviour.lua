@@ -3,7 +3,7 @@ vim.schedule(function()
 	vim.o.clipboard = "unnamedplus"
 end)
 
--- Case insensitive search
+-- Case insensitive builtin search
 vim.o.ignorecase = true
 vim.o.smartcase = true
 
@@ -16,6 +16,6 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 	end,
 })
 
--- Use normal tab width 😅
+-- Use normal tab width
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4

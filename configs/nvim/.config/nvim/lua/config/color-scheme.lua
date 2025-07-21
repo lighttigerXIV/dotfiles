@@ -85,6 +85,31 @@ local function setupPlugins()
 	vim.api.nvim_set_hl(0, "NeoTreeFloatBorder", { fg = colors.n4 })
 	vim.api.nvim_set_hl(0, "NeoTreeTitleBar", { fg = colors.t0, bg = colors.n4 })
 	vim.api.nvim_set_hl(0, "NeoTreeGitDeleted", { fg = colors.red })
+
+	-- BufferLine
+	vim.api.nvim_set_hl(0, "BufferLineFill", { fg = colors.n2 })
+	vim.api.nvim_set_hl(0, "BufferLineBackground", { bg = colors.n1, fg = colors.t2 })
+	vim.api.nvim_set_hl(0, "BufferLineCloseButtonSelected", { bg = colors.n2, fg = colors.t0 })
+	vim.api.nvim_set_hl(0, "BufferLineCloseButtonVisible", { bg = colors.n2, fg = colors.t0 })
+
+	vim.api.nvim_set_hl(0, "BufferLineBufferSelected", { bg = colors.n2, fg = colors.t0 })
+	vim.api.nvim_set_hl(0, "BufferLineBufferVisible", { bg = colors.n2, fg = colors.t0 })
+
+	vim.api.nvim_set_hl(0, "BufferLineIndicatorSelected", { bg = colors.n2, fg = colors.t0 })
+	vim.api.nvim_set_hl(0, "BufferLineIndicatorVisible", { bg = colors.n2, fg = colors.t0 })
+
+	vim.api.nvim_set_hl(0, "BufferLineDevIconRsSelected", { bg = colors.n2, fg = colors.orange })
+	vim.api.nvim_set_hl(0, "BufferLineDevIconRsVisible", { bg = colors.n2, fg = colors.orange })
+
+	vim.api.nvim_set_hl(0, "BufferLineDevIconDefaultSelected", { bg = colors.n2 })
+	vim.api.nvim_set_hl(0, "BufferLineDevIconDefaultVisible", { bg = colors.n2 })
+
+	vim.api.nvim_set_hl(0, "BufferLineDevIconLuaSelected", { bg = colors.n2, fg = colors.blue })
+	vim.api.nvim_set_hl(0, "BufferLineDevIconLuaVisible", { bg = colors.n2, fg = colors.blue })
+
+	vim.api.nvim_set_hl(0, "BufferLineSeperator", { bg = colors.n2 })
+	vim.api.nvim_set_hl(0, "BufferLineSeperatorSelected", { bg = colors.n2 })
+	vim.api.nvim_set_hl(0, "BufferLineSeperatorVisible", { bg = colors.n2 })
 end
 
 function M.setup()

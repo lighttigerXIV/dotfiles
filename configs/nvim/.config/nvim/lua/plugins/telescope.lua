@@ -29,6 +29,9 @@ return {
 						require("telescope.themes").get_dropdown(),
 					},
 				},
+				defaults = {
+					winblend = 0,
+				},
 			})
 
 			pcall(require("telescope").load_extension, "fzf")
