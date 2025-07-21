@@ -151,6 +151,8 @@ function M.setup()
 	vim.api.nvim_set_hl(0, "ErrorMsg", { fg = colors.red })
 
 	vim.api.nvim_set_hl(0, "TelescopeMatching", { bg = colors.yellow, fg = colors.n0 })
+
+	vim.api.nvim_set_hl(0, "Folded", { bg = colors.n3, fg = colors.t2 })
 end
 
 return M

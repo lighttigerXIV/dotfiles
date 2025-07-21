@@ -1,42 +1,51 @@
 {
   "layer": "top",
-  "position": "top",
+  "position": "bottom",
   "reload_style_on_change": true,
-  "spacing": 8,
-  "modules-left": ["clock"],
+  "spacing": 16,
+  "margin": "0",
+  "modules-left": [
+    "custom/logo",
+    "clock"
+  ],
   "modules-center": [],
-  "modules-right": ["hyprland/language", "network", "pulseaudio", "battery", "tray"],
+  "modules-right": [
+    "hyprland/language",
+    "pulseaudio",
+    "battery",
+    "tray"
+  ],
   "pulseaudio": {
-    "format": "<span foreground='#ffe072'></span>    {volume}%",
-    "format-muted": "<span foreground='#ffe072'></span>    {volume}%"
+    "format": "<span foreground='#FFDE72'></span>    {volume}%",
+    "format-muted": "<span foreground='#FFDE72'></span>    {volume}%"
   },
   "battery": {
     "format": "{icon}    {capacity}%",
     "format-icons": [
-      "<span foreground='#ffe072'></span>",
-      "<span foreground='#ffe072'></span>",
-      "<span foreground='#ffe072'></span>",
-      "<span foreground='#ffe072'></span>",
-      "<span foreground='#ffe072'></span>"
-    ]
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>"
+    ],
+    "format-charging": "<span foreground='#FFDE72'>󰂅 </span> {capacity}%"
   },
   "tray": {
     "icon-size": 16,
     "spacing": 16
   },
   "clock": {
-    "format": "<span foreground='#ffe072'>󰥔</span>   {:%H:%M}",
-    "tooltip-format": "<span foreground='#ffe072'></span>   {:%A - %d/%m/%Y}"
+    "format": "{:%H:%M}",
+    "tooltip-format": "<span foreground='#FFDE72'></span>   {:%A - %d/%m/%Y}"
   },
   "hyprland/language": {
-    "format": "<span foreground='#ffe072'>󰌌</span>   {}",
+    "format": "<span foreground='#FFDE72'>󰌌</span>   {}",
     "format-en": "US",
     "format-pt": "PT"
   },
-  "network": {
-    "format-ethernet": "<span foreground='#ffe072'></span>   Ethernet",
-    "format-wifi": "<span foreground='#ffe072'>󰤨</span>   {essid}",
-    "format-disconnected": "<span foreground='#ffe072'>󰤭</span>   Off",
-    "max-length": "14"
+  "custom/logo": {
+    "format": "   ",
+    "tooltip": false,
+    "on-click": "exec show-xeeta"
   }
 }

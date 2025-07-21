@@ -1,30 +1,36 @@
-*{
-    color: #F2F2F2;
-    font-weight: 600;
-    font-size: 14;
+* {
+	color: #F2F2F2;
+	font-weight: 600;
+	font-size: 14;
 }
 
-window#waybar{
-    background-color: transparent;
+window#waybar {
+	background-color: #141414;
+	border-top: 2px solid #383838;
 }
 
-label.module, #tray{
-    margin-top: 16px;
-	border-width: 3px;
-	border-style: solid;
-	border-color: #383838;
+#custom-logo {
+	background-image: url('/home/lighttigerxiv/Pictures/icons/logo.svg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
 }
 
-#tray{
-    margin-right: 16px;
+#clock,
+#tray,
+#battery,
+#network,
+#pulseaudio,
+#language {
+	padding-top: 16px;
+	padding-bottom: 16px;
 }
 
-#clock{
-    margin-left: 16px;
+#custom-logo {
+	margin-left: 16px;
+	font-size: 32px;
 }
 
-#clock, #tray, #battery, #network, #pulseaudio, #language{
-    background-color: #141414;
-    padding: 8px 12px 8px 12px;
-    border-radius: 99px;
+#tray {
+	margin-right: 16px;
 }

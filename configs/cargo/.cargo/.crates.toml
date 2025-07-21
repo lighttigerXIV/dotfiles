@@ -1,0 +1,9 @@
+[v1]
+"caffeine-cli 1.0.1 (registry+https://github.com/rust-lang/crates.io-index)" = ["caffeine-cli"]
+"cargo-edit 0.13.6 (registry+https://github.com/rust-lang/crates.io-index)" = [
+    "cargo-add",
+    "cargo-rm",
+    "cargo-set-version",
+    "cargo-upgrade",
+]
+"create-tauri-app 4.6.0 (registry+https://github.com/rust-lang/crates.io-index)" = ["cargo-create-tauri-app"]

@@ -223,6 +223,7 @@ return {
 				},
 			})
 
+			-- Svelte
 			require("lspconfig").svelte.setup({
 				settings = {
 					svelte = {
@@ -241,6 +242,14 @@ return {
 						end,
 					})
 				end,
+			})
+
+			-- QML
+			require("lspconfig").qmlls.setup({
+				cmd = { "qmlls" }, -- Ensure 'qmlls' is in your PATH or provide the full path
+				filetypes = { "qml", "qtquick" }, -- Or "qmljs" depending on your needs
+				root_dir = require("lspconfig.util").root_pattern("qmlls.ini", ".git", "."),
+				single_file_support = true,
 			})
 		end,
 	},
@@ -341,5 +350,17 @@ return {
 			-- Shows a signature help window while you type arguments for a function
 			signature = { enabled = true },
 		},
+	},
+	{
+		"kevinhwang91/nvim-ufo",
+		dependencies = { "kevinhwang91/promise-async" },
+		config = function()
+			require("ufo").setup()
+
+			vim.opt.foldlevel = 99
+			vim.opt.foldlevelstart = 99
+			vim.opt.foldenable = true
+			vim.opt.foldmethod = "manual"
+		end,
 	},
 }
