@@ -1,0 +1,40 @@
+#!/bin/python
+
+import subprocess
+
+try:
+    print("""1) ✨ Feature
+2) 💪 Update
+3) 🗑️ Remove
+4) 🔨 Fix
+5) ✏️ Custom
+""")
+
+    option = int(input("> "))
+
+    if not option in [1,2,3,4,5]:
+        print("Invalid Option")
+        exit(1)
+
+    main_message = input("Message: ")
+    message = ""
+
+    if option == 1:
+        message = "✨ feature: "
+    if option == 2:
+        message = "💪 update: "
+    if option == 3:
+        message = "🗑️ remove: "
+    if option == 4:
+        message = "🔨 fix: "
+
+    if option < 5:
+        message = f"{message}{main_message}"
+    else:
+        message = main_message
+
+    subprocess.run("git add -A", shell=True)
+    subprocess.run(f"git commit -m '{message}'", shell=True)
+    subprocess.run("git push", shell=True)
+except KeyboardInterrupt:
+    exit(0)
