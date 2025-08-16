@@ -1,4 +1,2 @@
-Run install script
-```sh
-python install.py
-```
+# My Dotifiles
+It uses [dotcat](https://github.com/Whiskers-Apps/dotcat) to manage them
