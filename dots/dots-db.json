@@ -58,5 +58,17 @@
     "is_dir": false,
     "target_path": "~/dotfiles/dots/zsh/.zshrc",
     "original_path": "~/.zshrc"
+  },
+  {
+    "name": "local-binaries",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/local-binaries",
+    "original_path": "~/.local/bin"
+  },
+  {
+    "name": "vencord",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/vencord",
+    "original_path": "~/.config/Vencord"
   }
 ]
