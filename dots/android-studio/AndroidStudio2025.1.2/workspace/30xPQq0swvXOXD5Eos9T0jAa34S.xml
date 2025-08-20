@@ -1,0 +1,674 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Scheme KT" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3kddx4sj3nx3q" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1754567719854
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1754567804872
+    },
+    "YAML": {
+      "usageCount": 1,
+      "lastUsed": 1754566331045
+    },
+    "Kotlin": {
+      "usageCount": 37,
+      "lastUsed": 1754574132405
+    },
+    "TOML": {
+      "usageCount": 3,
+      "lastUsed": 1754572175312
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1754571328192
+    },
+    "CLASS": {
+      "usageCount": 1,
+      "lastUsed": 1754572171475
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/jitpack.yml",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Scheme.kt",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt",
+    "/home/lighttigerxiv/.config/Google/AndroidStudio2025.1.2/studio64.vmoptions",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/gradle.properties",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/RgbValue.kt",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt",
+    "/home/lighttigerxiv/.ideavimrc",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/gradle/libs.versions.toml",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/build.gradle.kts",
+    "/home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1754567804872" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1754567719854" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="3" lastUsage="1754572175313" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="37" lastUsage="1754574132405" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1754571328192" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1754566331045" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scheme KT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scheme KT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scheme KT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scheme KT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scheme KT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/test/kotlin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Scheme KT" />
+            <item name="Scheme KT" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="scheme-kt" />
+              <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.kotlin" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text=".kotlin" />
+                <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/.kotlin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="app" />
+                <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="gradle" />
+                <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/scheme" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="scheme" />
+                <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/scheme/build" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="build" />
+                  <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/build}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/scheme/src" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="src" />
+                  <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/scheme/src/main" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="main" />
+                    <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/scheme/src/test" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="test" />
+                    <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/scheme/src/test/kotlin" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="false" text="kotlin" />
+                      <item name="dir{file:///home/lighttigerxiv/dev/monocode/scheme-kt/scheme/src/test/kotlin}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/scheme/src/test/kotlin/Tests.kt" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="Tests" />
+                        <item name="Tests" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/scheme/.gitignore" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text=".gitignore" />
+                  <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/scheme/build.gradle.kts" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="build.gradle.kts" />
+                  <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle.kts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="build.gradle.kts" />
+                <item name="build.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle.properties" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="gradle.properties" />
+                <item name="gradle.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="gradlew" />
+                <item name="gradlew" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew.bat" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="gradlew.bat" />
+                <item name="gradlew.bat" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/jitpack.yml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="jitpack.yml" />
+                <item name="jitpack.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="local.properties" />
+                <item name="local.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle.kts" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="settings.gradle.kts" />
+                <item name="settings.gradle.kts" type="24436e51:KtFileTreeNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scheme KT" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Scheme KT" />
+            <item name="Scheme KT" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
+                <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="res (generated)" />
+                <item name="res (generated)" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="scheme" />
+              <item name="scheme" type="e9137016:NonAndroidModuleNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.Tests" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests - 2025.08.07 at 14h 18m 46s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 19m 18s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 23m 57s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 26m 08s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 26m 12s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 28m 11s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 31m 01s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 31m 24s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 32m 25s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests - 2025.08.07 at 14h 32m 38s.xml">
+      <configuration name="Tests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33013323" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info id="Bookmarks" order="3" side_tool="true" weight="0.33013323" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.33034432" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33034432" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.33034432" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.27018026" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25019592" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.27018026" />
+      <unified_weights bottom="0.33034432" left="0.33013323" right="0.27018026" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>StudioBot</value>
+      <value>Run</value>
+      <value>Bookmarks</value>
+      <value>Build</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2983" y="459" width="424" height="487" key="FileChooserDialogImpl" timestamp="1754572069567">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2983" y="459" width="424" height="487" key="FileChooserDialogImpl/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754572069567" />
+    <state width="2468" height="418" key="GridCell.Tab.0.bottom" timestamp="1754574285956">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2468" height="418" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754574285956" />
+    <state width="2468" height="418" key="GridCell.Tab.0.center" timestamp="1754574285956">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2468" height="418" key="GridCell.Tab.0.center/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754574285956" />
+    <state width="2468" height="418" key="GridCell.Tab.0.left" timestamp="1754574285956">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2468" height="418" key="GridCell.Tab.0.left/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754574285956" />
+    <state width="2468" height="418" key="GridCell.Tab.0.right" timestamp="1754574285956">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2468" height="418" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754574285956" />
+    <state x="2493" y="362" width="1007" height="733" key="SettingsEditor" timestamp="1754572517209">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2493" y="362" width="1007" height="733" key="SettingsEditor/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754572517209" />
+    <state x="2933" y="409" width="524" height="587" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1754572338297">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2933" y="409" width="524" height="587" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754572338297" />
+    <state x="2863" y="312" width="718" height="710" key="search.everywhere.popup" timestamp="1754574132296">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2863" y="312" width="718" height="710" key="search.everywhere.popup/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1754574132296" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jitpack.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/studio64.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/main/java/org/monocode/scheme/scheme/Jsons.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="56">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/main/java/org/monocode/scheme/scheme/RgbValue.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="140">
+            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="28">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.2.0/a2596f4aca441c6ba0ad915501c2bfa2e3c51c0b/kotlin-stdlib-2.2.0-sources.jar!/commonMain/kotlin/text/Indent.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="426">
+            <caret line="69" column="17" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="5619">
+            <caret line="377" column="6" selection-start-line="377" selection-start-column="6" selection-end-line="377" selection-end-column="6" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="504">
+            <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/caches/8.13/kotlin-dsl/accessors/3b82c8b4b53fd85a625ee6324f13ee73/classes/org/gradle/kotlin/dsl/Accessors9lduusevit01i1zyt8g4j1zrvKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="448">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/libs.versions.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/src/test/kotlin/Tests.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="651">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <folding>
+              <element signature="e#0#277#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scheme/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

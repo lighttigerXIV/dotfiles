@@ -1,0 +1,1747 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Claw Launcher" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="REMOTE" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+        <item name="REMOTE:origin" type="9a375a70:BranchNodeDescriptor$RemoteGroup" />
+      </path>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="TAG" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DesignSurfaceV2">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/globe.xml" value="2.19" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="34bvr122jqrzv" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="839">
+                <caret line="249" column="38" selection-start-line="249" selection-start-column="38" selection-end-line="249" selection-end-column="38" />
+                <folding>
+                  <element signature="e#70#1326#0" expanded="true" />
+                  <element signature="e#1888#1920#1" expanded="true" />
+                  <element signature="e#2139#2177#1" expanded="true" />
+                  <element signature="e#8100#8146#1" expanded="true" />
+                  <element signature="e#8365#8417#1" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SelectThemeScreen.kt","foregroundColor":-5839967,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"a6e3a1"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,49,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="1035">
+                <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+                <folding>
+                  <element signature="e#70#296#0" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SelectThemeScreenVM.kt","foregroundColor":-5839967,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"a6e3a1"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,49,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/about/AboutScreenAction.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="84">
+                <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AboutScreenAction.kt","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,49,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenActions.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="390">
+                <caret line="21" selection-start-line="21" selection-end-line="21" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"BookmarksScreenActions.kt","foregroundColor":-3287308,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,49,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="252">
+                <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+                <folding>
+                  <element signature="e#71#1287#0" expanded="true" />
+                  <element signature="e#2741#2780#1" expanded="true" />
+                  <element signature="e#2999#3044#1" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SelectEngineScreen.kt","foregroundColor":-7752454,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"89b4fa"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,49,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivity.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="277">
+                <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"OnBoardingActivity.kt","foregroundColor":-7752454,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"89b4fa"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,49,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 8,
+      "lastUsed": 1753516305744
+    },
+    "Kotlin": {
+      "usageCount": 239,
+      "lastUsed": 1753991642311
+    },
+    "TOML": {
+      "usageCount": 8,
+      "lastUsed": 1753727925514
+    },
+    "APK": {
+      "usageCount": 1,
+      "lastUsed": 1753518217366
+    },
+    "SVG": {
+      "usageCount": 1,
+      "lastUsed": 1753723163208
+    },
+    "XML": {
+      "usageCount": 6,
+      "lastUsed": 1753979593532
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onboa</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/theme/Themes.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/composables/OnBoardingButton.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/welcome_screen/WelcomeScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/build.gradle.kts",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/build.gradle.kts",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/gradle/libs.versions.toml",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/BookmarkGroup.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/core/db/RealmDB.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Group.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks/BookmarksShareScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search/SearchScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks/di/BookmarksRepo.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/AddGroupDialog.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenActions.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/EditGroupDialog.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEnginesScreenState.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEnginesScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/SecuritySettings.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenState.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Bookmark.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/SearchEngine.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks/db/BookmarksDao.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search/SearchScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/build/generated/ksp/debug/kotlin/com/whiskersapps/clawlauncher/launcher/search_engines/SearchEnginesDao_Impl.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivityVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreenAction.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEnginesScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search_engines/SearchEnginesRepo.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search_engines/SearchEnginesDao.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/core/db/AppDB.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/SidePadding.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEngineCard.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/CardShape.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/composables/PagerDots.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/core/di/AppModule.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/composables/SelectableSearchEngine.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/composables/SearchEngineCard.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/CenteredLayout.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/res/values/strings.xml",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenState.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivity.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="8" lastUsage="1753516305744" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="1" lastUsage="1753723163208" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="8" lastUsage="1753727925514" />
+    </language>
+    <language id="XML">
+      <summary usageCount="6" lastUsage="1753979593534" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="239" lastUsage="1753991642311" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Claw Launcher" />
+            <item name="Claw Launcher" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="app" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
+                <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="com" />
+                  <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps" />
+                      </map>
+                    </attributes>
+                    <data isLeaf="false" text="whiskersapps" />
+                    <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher" />
+                        </map>
+                      </attributes>
+                      <data isLeaf="false" text="clawlauncher" />
+                      <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="bookmarks" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/core" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="core" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/core}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/data" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="data" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/data/settings" />
+                            </map>
+                          </attributes>
+                          <data isLeaf="false" text="settings" />
+                          <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" />
+                              </map>
+                            </attributes>
+                            <data isLeaf="true" text="SettingsValues" />
+                            <item name="SettingsValues" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                          </presentation>
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/icon_packs" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="icon_packs" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/icon_packs}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/launcher" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="launcher" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="onboarding" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="settings" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="false" text="shared" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/ui" />
+                          </map>
+                        </attributes>
+                        <data isLeaf="true" text="ui" />
+                        <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/androidTest/java/com" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="com" />
+                  <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/androidTest/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/app/src/test/java/com" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="false" text="com" />
+                  <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/test/java/com}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/generatedSource.svg" iconPlugin="com.intellij" isLeaf="false" text="java (generated)" />
+                <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="drawable" />
+                  <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap" />
+                  <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="values" />
+                  <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="xml" />
+                  <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="res (generated)" />
+                <item name="res (generated)" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'device':{'deviceId':'/home/lighttigerxiv/.android/avd/Pixel_9_Pro_Fold.avd','name':'Pixel 9 Pro Fold','serialNumber':'emulator-5554','isOnline':false,'release':'15','apiLevel':{'majorVersion':35,'minorVersion':0},'featureLevel':35,'model':'Pixel 9 Pro Fold','type':'HANDHELD','isEmulator':true},'formattingConfig':{'preset':'STANDARD'},'filter':'package:mine ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5003846" weight="0.3303852" />
+      <window_info id="Commit" order="1" show_stripe_button="false" weight="0.33011812" />
+      <window_info id="Resources Explorer" order="2" show_stripe_button="false" weight="0.33011812" />
+      <window_info id="Pull Requests" order="3" show_stripe_button="false" weight="0.33011812" />
+      <window_info id="Structure" order="4" show_stripe_button="false" sideWeight="0.49961537" side_tool="true" weight="0.33025178" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" weight="0.32980278" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33005106" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" show_stripe_button="false" weight="0.32980278" />
+      <window_info anchor="bottom" id="Logcat" order="4" weight="0.33005106" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" show_stripe_button="false" weight="0.32980278" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.33005106" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Upgrade Assistant" order="8" show_stripe_button="false" weight="0.32980278" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.3302986" />
+      <window_info anchor="bottom" id="Debug" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33064517" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.33056873" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.33064517" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.33064517" />
+      <unified_weights bottom="0.3302986" left="0.3303852" right="0.33064517" />
+    </layoutV2>
+    <recentWindows>
+      <value>Find</value>
+      <value>Project</value>
+      <value>StudioBot</value>
+      <value>Running Devices</value>
+      <value>Logcat</value>
+      <value>Notifications</value>
+      <value>Device Manager 2</value>
+      <value>Build</value>
+      <value>Terminal</value>
+      <value>Structure</value>
+      <value>Commit</value>
+      <value>Resources Explorer</value>
+      <value>Pull Requests</value>
+      <value>Version Control</value>
+      <value>Problems View</value>
+      <value>App Quality Insights</value>
+      <value>Upgrade Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="800" y="429" width="950" height="500" key="#PSD" timestamp="1753516515113">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="800" y="429" width="950" height="500" key="#PSD/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1753516515113" />
+    <state x="3013" y="557" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1753824063927">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3013" y="557" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753824063927" />
+    <state x="2681" y="515" width="505" height="454" key="AndroidCreateXmlResourceDialog" timestamp="1753826325483">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2681" y="515" width="505" height="454" key="AndroidCreateXmlResourceDialog/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753826325483" />
+    <state x="2988" y="467" key="FileChooserDialogImpl" timestamp="1753786776705">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2988" y="467" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753786776705" />
+    <state x="3814" y="1197" width="635" height="140" key="ProcessPopupWindow" timestamp="1753448806426">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3814" y="1197" width="635" height="140" key="ProcessPopupWindow/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753448806426" />
+    <state x="2701" y="344" key="SettingsEditor" timestamp="1753723888343">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2701" y="344" key="SettingsEditor/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753723888343" />
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1753516527010" />
+    <state x="2933" y="402" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1753987672415">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2933" y="402" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753987672415" />
+    <state x="1013" y="402" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1753778361887" />
+    <state x="2951" y="144" width="695" height="846" key="find.popup" timestamp="1753723943425">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2951" y="144" width="695" height="846" key="find.popup/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753723943425" />
+    <state x="2863" y="312" width="718" height="557" key="search.everywhere.popup" timestamp="1753990548673">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2863" y="312" width="718" height="557" key="search.everywhere.popup/0.0.1920.1080/1920.0.2560.1440@1920.0.2560.1440" timestamp="1753990548673" />
+    <state x="943" y="312" width="718" height="179" key="search.everywhere.popup/0.0.2560.1440/2560.0.1920.1080@0.0.2560.1440" timestamp="1753979689258" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search/SearchScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="343">
+            <caret line="239" column="48" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks/di/BookmarksRepo.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="112">
+            <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/EditGroupDialog.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="268">
+            <caret line="125" column="49" selection-start-line="125" selection-start-column="49" selection-end-line="125" selection-end-column="49" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/SecuritySettings.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="224">
+            <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/AddGroupDialog.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="2604">
+            <caret line="122" column="49" selection-start-line="122" selection-start-column="49" selection-end-line="122" selection-end-column="49" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="3444">
+            <caret line="115" column="54" selection-start-line="115" selection-start-column="54" selection-end-line="115" selection-end-column="54" />
+            <folding>
+              <element signature="e#58#401#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEnginesScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="3752">
+            <caret line="165" column="67" selection-start-line="165" selection-start-column="67" selection-end-line="165" selection-end-column="67" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEnginesScreenState.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="616">
+            <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="4816">
+            <caret line="211" column="60" selection-start-line="211" selection-start-column="60" selection-end-line="211" selection-end-column="60" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenState.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="553">
+            <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+            <folding>
+              <element signature="e#58#172#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Bookmark.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="308">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <folding>
+              <element signature="e#52#111#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search/SearchScreenVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="420">
+            <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/SearchEngine.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="140">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ksp/debug/kotlin/com/whiskersapps/clawlauncher/launcher/search_engines/SearchEnginesDao_Impl.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="475">
+            <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivityVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="588">
+            <caret line="27" selection-start-line="27" selection-end-line="27" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/bookmarks/db/BookmarksDao.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="364">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <folding>
+              <element signature="e#52#162#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.1.20/a17d644acea6159970c25bbf99ff204b03c1c0b6/kotlin-stdlib-2.1.20-sources.jar!/commonMain/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="559">
+            <caret line="176" selection-start-line="176" selection-end-line="176" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreenState.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="252">
+            <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreenAction.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="224">
+            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEnginesScreenVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="893">
+            <caret line="155" column="10" lean-forward="true" selection-start-line="155" selection-start-column="10" selection-end-line="155" selection-end-column="10" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/globe.xml">
+      <provider selected="true" editor-type-id="android-preview-designer" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.coil-kt/coil-compose/2.7.0/1baa363068477a97ae1afd6879892dad14b690f8/coil-compose-2.7.0-sources.jar!/coil/compose/SingletonAsyncImage.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="419">
+            <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.coil-kt/coil-compose/2.7.0/1baa363068477a97ae1afd6879892dad14b690f8/coil-compose-2.7.0-sources.jar!/coil/compose/SingletonSubcomposeAsyncImage.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="419">
+            <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search_engines/SearchEnginesDao.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="756">
+            <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/launcher/search_engines/SearchEnginesRepo.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="504">
+            <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/core/db/AppDB.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1005">
+            <caret line="46" column="85" selection-start-line="46" selection-start-column="85" selection-end-line="46" selection-end-column="85" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/utils/Image.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="364">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/search_engines/SearchEngineCard.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="28">
+            <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/CardShape.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1033">
+            <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            <folding>
+              <element signature="e#63#273#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/composables/PagerDots.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="644">
+            <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/SidePadding.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="168">
+            <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/SettingsScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="168">
+            <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/SettingsActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="560">
+            <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreenVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="56">
+            <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <folding>
+              <element signature="e#71#529#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="140">
+            <caret line="105" column="41" selection-start-line="105" selection-start-column="41" selection-end-line="105" selection-end-column="41" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/CenteredLayout.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="476">
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/core/di/AppModule.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="333">
+            <caret line="78" column="21" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/composables/SearchEngineCard.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-59">
+            <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="152" column="57" selection-start-line="152" selection-start-column="57" selection-end-line="152" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenActions.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="390">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/about/AboutScreenAction.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="84">
+            <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenState.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="140">
+            <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="252">
+            <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <folding>
+              <element signature="e#71#1287#0" expanded="true" />
+              <element signature="e#2741#2780#1" expanded="true" />
+              <element signature="e#2999#3044#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="277">
+            <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="923">
+            <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="2043">
+            <caret line="175" lean-forward="true" selection-start-line="175" selection-end-line="175" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="280">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="849">
+            <caret line="208" column="29" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+            <folding>
+              <element signature="e#51#678#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1035">
+            <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+            <folding>
+              <element signature="e#70#296#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="839">
+            <caret line="249" column="38" selection-start-line="249" selection-start-column="38" selection-end-line="249" selection-end-column="38" />
+            <folding>
+              <element signature="e#70#1326#0" expanded="true" />
+              <element signature="e#1888#1920#1" expanded="true" />
+              <element signature="e#2139#2177#1" expanded="true" />
+              <element signature="e#8100#8146#1" expanded="true" />
+              <element signature="e#8365#8417#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

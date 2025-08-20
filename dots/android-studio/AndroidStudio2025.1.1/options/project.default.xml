@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="NONE" />
+      </component>
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

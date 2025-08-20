@@ -1,0 +1,32 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="enableCodeCompletion" value="false" />
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1755528633653">v% it's what i was thinking of</historyEntry>
+        <historyEntry timestamp="1754833467856">how to make it popup in center</historyEntry>
+        <historyEntry timestamp="1754833440613">how to make it unresizable</historyEntry>
+        <historyEntry timestamp="1754833349069">how to give it a 800x800 size</historyEntry>
+        <historyEntry timestamp="1754833315173">how to make this window float?</historyEntry>
+        <historyEntry timestamp="1754833116294">the touch was enough</historyEntry>
+        <historyEntry timestamp="1754833012430">I'm getting the following error while syncing my project. The error is: copyNonXmlValueResourcesForJvmMain task was failed:
+```
+$ ./gradlew :composeApp:copyNonXmlValueResourcesForJvmMain
+copyNonXmlValueResourcesForJvmMain task was failed:
+org.gradle.api.GradleException: Invalid Timestamp -2147483648000 for 'file '/home/lighttigerxiv/Downloads/xeeta/composeApp/src/jvmMain/composeResources/drawable''.
+	at org.gradle.api.internal.file.AbstractFileTreeElement.validateTimeStamps(AbstractFileTreeElement.java:96)
+	at org.gradle.api.internal.file.AbstractFileTreeElement.copyTo(AbstractFileTreeElement.java:78)
+	at org.gradle.api.internal.file.copy.DefaultFileCopyDetails.copyTo(DefaultFileCopyDetails.java:137)
+	at org.gradle.api.internal.file.copy.FileCopyAction$FileCopyDetailsInternalAction.processFile(FileCopyAction.java:49)
+	at org.gradle.api.internal.file.copy.NormalizingCopyActionDecorator.maybeVisit(NormalizingCopyActionDecorator.java:104)
+	at org.gradle.api.internal.file.copy.NormalizingCopyActionDecorator.lambda$execute$0(NormalizingCopyActionDecorator.java:71)
+	at org.gradle.api.internal.file.copy.DuplicateHandlingCopyActionDecorator.lambda$execute$0(DuplicateHandlingCopyActionDecorator.java:71)
+	at org.gradle.api.internal.file.copy.CopyFileVisitorImpl.processFile(CopyFileVisitorImpl.java:68)
+```
+How do I fix this?</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

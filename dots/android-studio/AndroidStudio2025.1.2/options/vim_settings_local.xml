@@ -1,0 +1,701 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">JXMvdXJsID0vcXVlcnkgPS9n</entry>
+        <entry encoding="base64">JXMvQm9va21hcmsvU2VhcmNoRW5naW5lL2c=</entry>
+        <entry encoding="base64">d2E=</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">JXMvcG9zaXRpb24gPS9jYXI=</entry>
+        <entry encoding="base64">JXMvZ2V0UGFsbGV0TmFtZS9nZXRQYWxldHRlTmFtZS9n</entry>
+        <entry encoding="base64">dzM=</entry>
+        <entry encoding="base64">d3M=</entry>
+        <entry encoding="base64">d1w=</entry>
+        <entry encoding="base64">JXMvLnZhbHVlLy9n</entry>
+        <entry encoding="base64">cWE=</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">cXE=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-search>
+        <entry encoding="base64">aWNvblBhY2s=</entry>
+        <entry encoding="base64">dXJsID0=</entry>
+        <entry encoding="base64">Qm9va21hcms=</entry>
+        <entry encoding="base64">c2VsZWN0ZWQ=</entry>
+        <entry encoding="base64">b25jbGljbA==</entry>
+        <entry encoding="base64">b24=</entry>
+        <entry encoding="base64">ZmFsc2U=</entry>
+        <entry encoding="base64">XDxQb3NzaWJsZVw+</entry>
+        <entry encoding="base64">Z2V0UGFsbGV0TmFtZQ==</entry>
+        <entry encoding="base64">c2hvcnRjdXRz</entry>
+        <entry encoding="base64">LnNob3I=</entry>
+        <entry encoding="base64">c2hvcnRjdXQ=</entry>
+        <entry encoding="base64">LnZhbHVl</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="Droid-Icons-f9ff1242">
+      <jump line="147" column="45" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="144" column="93" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="46" column="121" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="112" column="50" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="115" column="35" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="39" column="8" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="116" column="32" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="129" column="69" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="135" column="53" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="118" column="44" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="124" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="79" column="7" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="150" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="145" column="12" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="79" column="18" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="92" column="62" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="85" column="31" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="67" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="100" column="51" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="101" column="32" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="90" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="126" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="137" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="201" column="70" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="220" column="16" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="219" column="20" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="218" column="24" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/AppIcon.kt" protocol="file" />
+      <jump line="123" column="68" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="303" column="20" filename="$USER_HOME$/Android/Sdk/sources/android-36/android/graphics/drawable/AdaptiveIconDrawable.java" protocol="file" />
+      <jump line="122" column="121" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="10" column="23" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/AppIcon.kt" protocol="file" />
+      <jump line="121" column="68" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="127" column="62" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="137" column="28" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="114" column="28" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="203" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="207" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="215" column="55" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="200" column="69" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="199" column="65" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="214" column="35" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="141" column="104" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="167" column="41" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="168" column="82" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="166" column="69" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="223" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="222" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="224" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="221" column="65" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="206" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="205" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="216" column="54" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="209" column="65" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="196" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="301" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.7.0/42cfb331db8ef737230de6164b63d52f9e4f282f/foundation-android-1.7.0-sources.jar!/commonMain/androidx/compose/foundation/lazy/grid/LazyGridDsl.kt" protocol="jar" />
+      <jump line="189" column="72" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="194" column="71" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="192" column="85" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="208" column="105" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="190" column="47" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="184" column="73" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="1" column="7" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/.gitignore" protocol="file" />
+      <jump line="217" column="51" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="210" column="50" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="212" column="30" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="176" column="19" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="235" column="59" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="233" column="29" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="242" column="42" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="77" column="58" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="248" column="47" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="254" column="56" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="193" column="77" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="180" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="4" column="3" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="13" column="16" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="3" column="4" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="53" column="30" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="36" column="61" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="6" column="29" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="14" column="34" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="187" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="72" column="12" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="2" column="11" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/IconPack.kt" protocol="file" />
+      <jump line="29" column="31" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="125" column="54" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="34" column="45" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="70" column="41" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/build.gradle.kts" protocol="file" />
+      <jump line="49" column="28" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/build.gradle.kts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/settings.gradle.kts" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/settings.gradle.kts" protocol="file" />
+      <jump line="9" column="11" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/AppIcon.kt" protocol="file" />
+      <jump line="72" column="8" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="45" column="20" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+    </project>
+    <project id="Claw Launcher-4f871bb3">
+      <jump line="77" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreen.kt" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenIntent.kt" protocol="file" />
+      <jump line="87" column="35" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreen.kt" protocol="file" />
+      <jump line="109" column="35" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="79" column="17" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreen.kt" protocol="file" />
+      <jump line="15" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenIntent.kt" protocol="file" />
+      <jump line="88" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="10" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/utils/ActivityPauseObserver.kt" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/utils/ActivityPauseObserver.kt" protocol="file" />
+      <jump line="14" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/utils/ActivityPauseObserver.kt" protocol="file" />
+      <jump line="100" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="111" column="31" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="127" column="43" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="132" column="45" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="85" column="34" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="92" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreen.kt" protocol="file" />
+      <jump line="93" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreen.kt" protocol="file" />
+      <jump line="16" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenIntent.kt" protocol="file" />
+      <jump line="91" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreen.kt" protocol="file" />
+      <jump line="128" column="18" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="135" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="130" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="137" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/StyleSettingsScreenVM.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Clock.kt" protocol="file" />
+      <jump line="90" column="13" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Clock.kt" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Clock.kt" protocol="file" />
+      <jump line="82" column="31" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="74" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="60" column="34" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="58" column="41" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="83" column="33" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="67" column="24" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="59" column="44" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="108" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/home/HomeSettingsScreen.kt" protocol="file" />
+      <jump line="104" column="36" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/home/HomeSettingsScreen.kt" protocol="file" />
+      <jump line="105" column="54" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/home/HomeSettingsScreen.kt" protocol="file" />
+      <jump line="109" column="36" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/home/HomeSettingsScreen.kt" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/HomeScreen.kt" protocol="file" />
+      <jump line="187" column="64" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/HomeScreen.kt" protocol="file" />
+      <jump line="49" column="9" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="71" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="49" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/CenteredLayout.kt" protocol="file" />
+      <jump line="57" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="54" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="62" column="5" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="52" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="76" column="47" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="80" column="21" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="78" column="28" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="64" column="13" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="75" column="24" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="65" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="75" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="40" column="9" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="61" column="43" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="60" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="58" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="38" column="46" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="41" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="59" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="55" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="53" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="56" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="95" column="45" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" protocol="file" />
+      <jump line="56" column="24" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="70" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/IconPackDialog.kt" protocol="file" />
+      <jump line="48" column="33" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="11" column="33" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="235" column="21" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/apps/AppsSettingsScreen.kt" protocol="file" />
+      <jump line="209" column="36" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/apps/AppsSettingsScreen.kt" protocol="file" />
+      <jump line="207" column="22" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/apps/AppsSettingsScreen.kt" protocol="file" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" protocol="file" />
+      <jump line="102" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" protocol="file" />
+      <jump line="43" column="34" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" protocol="file" />
+      <jump line="61" column="34" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" protocol="file" />
+      <jump line="46" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" protocol="file" />
+      <jump line="22" column="38" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="16" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="181" column="49" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt" protocol="file" />
+      <jump line="119" column="70" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt" protocol="file" />
+      <jump line="128" column="69" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt" protocol="file" />
+      <jump line="296" column="69" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt" protocol="file" />
+      <jump line="90" column="47" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="39" column="9" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="111" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="66" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="79" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/common/modifiers/Padding.kt" protocol="file" />
+      <jump line="36" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="37" column="59" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="33" column="10" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+      <jump line="34" column="94" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" protocol="file" />
+    </project>
+    <project id="Scheme KT-6a8e5b12">
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/SchemeKT/app/src/main/java/org/monocode/scheme/kt/MainActivity.kt" protocol="file" />
+      <jump line="19" column="19" filename="$USER_HOME$/AndroidStudioProjects/SchemeKT/app/src/main/java/org/monocode/scheme/kt/MainActivity.kt" protocol="file" />
+      <jump line="22" column="26" filename="$USER_HOME$/AndroidStudioProjects/SchemeKT/app/src/main/java/org/monocode/scheme/kt/MainActivity.kt" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/SchemeKT/app/src/main/java/org/monocode/scheme/kt/MainActivity.kt" protocol="file" />
+      <jump line="25" column="20" filename="$USER_HOME$/AndroidStudioProjects/SchemeKT/app/src/main/java/org/monocode/scheme/kt/MainActivity.kt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/AndroidStudioProjects/SchemeKT/app/src/main/java/org/monocode/scheme/kt/MainActivity.kt" protocol="file" />
+    </project>
+    <project id="Scheme KT-3370b880">
+      <jump line="0" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="3" column="23" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="7" column="16" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="19" column="8" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="33" column="1" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="8" column="35" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="22" column="5" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="38" column="1" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="27" column="50" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt" protocol="file" />
+      <jump line="13" column="10" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt" protocol="file" />
+      <jump line="6" column="13" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/RgbValue.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/RgbValue.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Scheme.kt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="1" column="5" filename="$APPLICATION_CONFIG_DIR$/studio64.vmoptions" protocol="file" />
+      <jump line="2" column="29" filename="$APPLICATION_CONFIG_DIR$/studio64.vmoptions" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle.properties" protocol="file" />
+      <jump line="8" column="24" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle.properties" protocol="file" />
+      <jump line="27" column="22" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle.properties" protocol="file" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/studio64.vmoptions" protocol="file" />
+      <jump line="3" column="22" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="37" column="20" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Jsons.kt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt" protocol="file" />
+      <jump line="10" column="21" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="9" column="29" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="17" column="8" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt" protocol="file" />
+      <jump line="2" column="11" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="4" column="13" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="4" column="13" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/RgbValue.kt" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorId.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="21" column="33" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="6" column="62" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="13" column="35" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="31" column="49" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="3" column="4" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="4" column="24" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="188" column="14" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="161" column="32" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="189" column="1" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="69" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.2.0/a2596f4aca441c6ba0ad915501c2bfa2e3c51c0b/kotlin-stdlib-2.2.0-sources.jar!/commonMain/kotlin/text/Indent.kt" protocol="jar" />
+      <jump line="190" column="6" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="376" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="377" column="6" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Palette.kt" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="32" column="50" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="12" column="30" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="5" column="23" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="5" column="11" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="14" column="24" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="30" column="34" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="32" column="34" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="23" column="31" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="50" column="36" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="54" column="34" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="37" column="23" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="17" column="31" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/Color.kt" protocol="file" />
+      <jump line="43" column="4" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="15" column="47" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="5" column="34" filename="$USER_HOME$/.gradle/caches/8.13/kotlin-dsl/accessors/3b82c8b4b53fd85a625ee6324f13ee73/classes/org/gradle/kotlin/dsl/Accessors9lduusevit01i1zyt8g4j1zrvKt.class" protocol="file" />
+      <jump line="12" column="25" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="19" column="96" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="11" column="23" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="10" column="21" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="9" column="28" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="25" column="61" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/main/java/org/monocode/scheme/scheme/ColorScheme.kt" protocol="file" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/gradle/libs.versions.toml" protocol="file" />
+      <jump line="48" column="27" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="55" column="45" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="63" column="46" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="56" column="33" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="62" column="37" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="65" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/src/test/kotlin/Tests.kt" protocol="file" />
+      <jump line="26" column="25" filename="$USER_HOME$/dev/monocode/scheme-kt/scheme/build.gradle.kts" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/monocode/scheme-kt/settings.gradle.kts" protocol="file" />
+      <jump line="23" column="17" filename="$USER_HOME$/dev/monocode/scheme-kt/settings.gradle.kts" protocol="file" />
+    </project>
+    <project id="MonoCodeMaterial-c1f5c008">
+      <jump line="46" column="30" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="80" column="16" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="74" column="19" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="73" column="45" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="61" column="75" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="69" column="35" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="59" column="20" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="98" column="82" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="35" column="27" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="105" column="70" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="112" column="79" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="128" column="75" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="146" column="11" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="151" column="24" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="43" column="62" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="143" column="74" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="138" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="172" column="82" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="193" column="86" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="207" column="79" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="228" column="68" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="118" column="25" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+      <jump line="33" column="41" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="116" column="20" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="240" column="47" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="245" column="51" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="242" column="28" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="351" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/TextField.kt" protocol="jar" />
+      <jump line="59" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-text-android/1.8.3/778af281269418e3884f057149dac9fdf7f3da58/ui-text-android-1.8.3-sources.jar!/commonMain/androidx/compose/ui/text/input/TextFieldValue.kt" protocol="jar" />
+      <jump line="353" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/TextField.kt" protocol="jar" />
+      <jump line="244" column="60" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="248" column="77" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="243" column="56" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="256" column="55" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="261" column="95" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="262" column="52" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="266" column="17" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="265" column="27" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="273" column="75" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="60" column="32" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="54" column="25" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="55" column="25" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="70" column="36" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="159" column="43" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="22" column="31" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+      <jump line="75" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/studio64.vmoptions" protocol="file" />
+      <jump line="1" column="4" filename="$APPLICATION_CONFIG_DIR$/studio64.vmoptions" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/gradle/libs.versions.toml" protocol="file" />
+      <jump line="68" column="20" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="40" column="37" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="272" column="53" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="279" column="53" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+      <jump line="37" column="16" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="159" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="178" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="190" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="187" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="1110" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="1114" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="845" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="900" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="906" column="71" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/Slider.kt" protocol="jar" />
+      <jump line="54" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.material3/material3-android/1.3.2/bcb5c4384b992ecfbaca794eb4d8e8b42a54010a/material3-android-1.3.2-sources.jar!/commonMain/androidx/compose/material3/tokens/SliderTokens.kt" protocol="jar" />
+      <jump line="59" column="34" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/build.gradle.kts" protocol="file" />
+      <jump line="30" column="18" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/gradle/libs.versions.toml" protocol="file" />
+      <jump line="140" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="112" column="44" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="92" column="27" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="94" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="90" column="14" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="89" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="88" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="132" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="77" column="3" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+      <jump line="154" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="105" column="22" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="129" column="40" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="95" column="19" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="36" column="27" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="102" column="3" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="23" column="30" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+      <jump line="277" column="23" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="25" column="30" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+      <jump line="60" column="40" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="36" column="51" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="26" column="19" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="82" column="34" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/src/main/java/org/monocode/lib/Themes.kt" protocol="file" />
+      <jump line="71" column="31" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/lib/build.gradle.kts" protocol="file" />
+      <jump line="41" column="43" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/MainActivity.kt" protocol="file" />
+      <jump line="24" column="30" filename="$USER_HOME$/dev/monocode/MonoCodeMaterial/app/src/main/java/org/monocode/material/ui/theme/Theme.kt" protocol="file" />
+    </project>
+    <project id="xeeta-9cec320d">
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/xeeta/composeApp/src/jvmMain/kotlin/org/example/project/main.kt" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/Downloads/xeeta/composeApp/src/jvmMain/kotlin/org/example/project/main.kt" protocol="file" />
+      <jump line="21" column="8" filename="$USER_HOME$/Downloads/xeeta/composeApp/src/jvmMain/kotlin/org/example/project/main.kt" protocol="file" />
+      <jump line="14" column="42" filename="$USER_HOME$/Downloads/xeeta/composeApp/src/jvmMain/kotlin/org/example/project/main.kt" protocol="file" />
+      <jump line="22" column="24" filename="$USER_HOME$/Downloads/xeeta/composeApp/src/jvmMain/kotlin/org/example/project/main.kt" protocol="file" />
+    </project>
+    <project id="Maneko-cb37a180">
+      <jump line="0" column="0" filename="$USER_HOME$/dev/monocode/Maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" protocol="file" />
+    </project>
+    <project id="Maneko-9aaa2143">
+      <jump line="35" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" protocol="file" />
+      <jump line="6" column="54" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="79" column="41" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="2" column="14" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="75" column="95" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="60" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="72" column="59" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="15" column="17" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="74" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="42" column="59" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="81" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="44" column="82" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="5" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="62" column="34" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="18" column="48" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/settings.gradle.kts" protocol="file" />
+      <jump line="37" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" protocol="file" />
+      <jump line="12" column="19" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt" protocol="file" />
+      <jump line="8" column="6" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt" protocol="file" />
+      <jump line="5" column="3" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/App.kt" protocol="file" />
+      <jump line="15" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/App.kt" protocol="file" />
+      <jump line="3" column="3" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="9" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="14" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/App.kt" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/App.kt" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="14" column="1" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="12" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="17" column="19" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="20" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="28" column="18" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+      <jump line="25" column="66" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml" timestamp="1755680230566">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="82" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt" timestamp="1755682395235">
+        <mark key="[" line="23" column="88" />
+        <mark key="]" line="25" column="67" />
+        <mark key="." line="25" column="66" />
+        <mark key="^" line="25" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModules.kt" timestamp="1755681304914">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/PaletteDialog.kt" timestamp="1755530060917">
+        <mark key="&quot;" line="95" column="45" />
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="59" column="45" />
+        <mark key="." line="59" column="44" />
+        <mark key="^" line="59" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/App.kt" timestamp="1755681469603">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="14" column="29" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt" timestamp="1755681145844">
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" timestamp="1755680255946">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/common/modifiers/Padding.kt" timestamp="1755530289764">
+        <mark key="&quot;" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/apps/AppsSettingsScreen.kt" timestamp="1755530060906">
+        <mark key="&quot;" line="207" column="22" />
+        <mark key="[" line="209" column="37" />
+        <mark key="]" line="209" column="37" />
+        <mark key="^" line="209" column="37" />
+        <mark key="." line="209" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" timestamp="1755681023662">
+        <mark key="&quot;" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" timestamp="1755679265645">
+        <mark key="&quot;" line="7" column="0" />
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/home/composables/Menu.kt" timestamp="1755680795827">
+        <mark key="&quot;" line="37" column="31" />
+        <mark key="[" line="34" column="66" />
+        <mark key="]" line="34" column="95" />
+        <mark key="^" line="34" column="95" />
+        <mark key="." line="34" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/ui/screens/settings/style/composables/ThemeDialog.kt" timestamp="1755530060911">
+        <mark key="&quot;" line="2" column="7" />
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/monocode/Maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" timestamp="1755554446375">
+        <mark key="&quot;" line="35" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" timestamp="1755681503212">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt" timestamp="1755530060901">
+        <mark key="&quot;" line="343" column="112" />
+        <mark key="[" line="343" column="110" />
+        <mark key="]" line="343" column="113" />
+        <mark key="^" line="343" column="113" />
+        <mark key="." line="343" column="112" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/settings.gradle.kts" timestamp="1755680386242">
+        <mark key="&quot;" line="18" column="48" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="48" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/AndroidManifest.xml" timestamp="1755681039585">
+        <mark key="&quot;" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" timestamp="1755530060891">
+        <mark key="&quot;" line="16" column="32" />
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/Layout.kt" timestamp="1755530403339">
+        <mark key="&quot;" line="83" column="37" />
+        <mark key="'" line="84" column="25" />
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="83" column="38" />
+        <mark key="." line="83" column="37" />
+        <mark key="^" line="83" column="38" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">RGF0YWJhc2U=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">LnZhbHVl</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">U2V0dGluZ3NWYWx1ZXMuQXBwc1NlYXJjaEJhclBvc2l0aW9uLlRPUA==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IEltcGxlbWVudGFyIGJhc2UgZGUgZGFkb3MgZGVmYXVsdCBhcXVpCg==</text>
+      </register>
+      <register name="3" type="CHARACTER_WISE">
+        <text encoding="base64">CmNsYXNzIERhdGFiYXNlIHsKfQ==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Y29pbENvbXBvc2UgPSAiMi43LjAiCg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">YmlvbWV0cmljID0gIjEuMS4wIgo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">YWdwID0gIjguMTIuMCIK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ZGF0YXN0b3JlUHJlZmVyZW5jZXMgPSAiMS4xLjciCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ZHJvaWRJY29ucyA9ICIwLjEuMCIK</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">c2hvcnRjdXQ=</last-search>
+      <last-substitute encoding="base64">LnZhbHVl</last-substitute>
+      <last-offset encoding="base64" />
+      <last-replace encoding="base64" />
+      <last-pattern encoding="base64">LnZhbHVl</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

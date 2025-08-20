@@ -1,0 +1,423 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">JXMvdXJsID0vcXVlcnkgPS9n</entry>
+        <entry encoding="base64">JXMvQm9va21hcmsvU2VhcmNoRW5naW5lL2c=</entry>
+        <entry encoding="base64">d2E=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-search>
+        <entry encoding="base64">aWNvblBhY2s=</entry>
+        <entry encoding="base64">dXJsID0=</entry>
+        <entry encoding="base64">Qm9va21hcms=</entry>
+        <entry encoding="base64">c2VsZWN0ZWQ=</entry>
+        <entry encoding="base64">b25jbGljbA==</entry>
+        <entry encoding="base64">b24=</entry>
+        <entry encoding="base64">ZmFsc2U=</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="Droid-Icons-f9ff1242">
+      <jump line="147" column="45" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="144" column="93" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="46" column="121" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="112" column="50" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="115" column="35" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="39" column="8" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="116" column="32" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="129" column="69" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="135" column="53" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="118" column="44" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="124" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="79" column="7" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="150" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="145" column="12" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="79" column="18" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="92" column="62" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="85" column="31" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="67" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="100" column="51" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="101" column="32" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="90" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="126" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="137" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="201" column="70" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="220" column="16" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="219" column="20" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="218" column="24" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/AppIcon.kt" protocol="file" />
+      <jump line="123" column="68" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="303" column="20" filename="$USER_HOME$/Android/Sdk/sources/android-36/android/graphics/drawable/AdaptiveIconDrawable.java" protocol="file" />
+      <jump line="122" column="121" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="10" column="23" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/AppIcon.kt" protocol="file" />
+      <jump line="121" column="68" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="127" column="62" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="137" column="28" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="114" column="28" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="203" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="207" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="215" column="55" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="200" column="69" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="199" column="65" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="214" column="35" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="141" column="104" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="167" column="41" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="168" column="82" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="166" column="69" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="223" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="222" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="224" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="221" column="65" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="206" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="205" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="216" column="54" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="209" column="65" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="196" column="40" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="301" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-android/1.7.0/42cfb331db8ef737230de6164b63d52f9e4f282f/foundation-android-1.7.0-sources.jar!/commonMain/androidx/compose/foundation/lazy/grid/LazyGridDsl.kt" protocol="jar" />
+      <jump line="189" column="72" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="194" column="71" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="192" column="85" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="208" column="105" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="190" column="47" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="184" column="73" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="1" column="7" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/.gitignore" protocol="file" />
+      <jump line="217" column="51" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="210" column="50" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="212" column="30" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="176" column="19" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="235" column="59" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="233" column="29" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="242" column="42" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="77" column="58" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="248" column="47" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="254" column="56" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="193" column="77" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="180" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="4" column="3" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="13" column="16" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="3" column="4" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="53" column="30" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="36" column="61" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="6" column="29" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="14" column="34" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="187" column="36" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="72" column="12" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="2" column="11" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/IconPack.kt" protocol="file" />
+      <jump line="29" column="31" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="125" column="54" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="34" column="45" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="70" column="41" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/app/src/main/java/org/whiskersapps/droid/icons/MainActivity.kt" protocol="file" />
+      <jump line="38" column="8" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/build.gradle.kts" protocol="file" />
+      <jump line="49" column="28" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/build.gradle.kts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/settings.gradle.kts" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/settings.gradle.kts" protocol="file" />
+      <jump line="9" column="11" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/models/AppIcon.kt" protocol="file" />
+      <jump line="72" column="8" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+      <jump line="45" column="20" filename="$USER_HOME$/AndroidStudioProjects/DroidIcons/droid-icons/src/main/java/org/whiskersapps/droid/droid_icons/IconFetcher.kt" protocol="file" />
+    </project>
+    <project id="Claw Launcher-4f871bb3">
+      <jump line="122" column="54" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="7" column="11" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="151" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="153" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="63" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="57" column="35" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="146" column="46" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="31" column="30" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="180" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="182" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="131" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="154" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="168" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="192" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="304" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="283" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="234" column="70" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="76" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt" protocol="file" />
+      <jump line="70" column="28" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt" protocol="file" />
+      <jump line="45" column="58" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenActions.kt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenActions.kt" protocol="file" />
+      <jump line="2" column="17" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/about/AboutScreenAction.kt" protocol="file" />
+      <jump line="3" column="30" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt" protocol="file" />
+      <jump line="5" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenState.kt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenState.kt" protocol="file" />
+      <jump line="35" column="18" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="8" column="62" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="21" column="49" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="150" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="157" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="181" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="161" column="65" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="159" column="23" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="169" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="32" column="22" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="37" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="4" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenState.kt" protocol="file" />
+      <jump line="73" column="39" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt" protocol="file" />
+      <jump line="32" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt" protocol="file" />
+      <jump line="38" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="42" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="3" column="3" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="28" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt" protocol="file" />
+      <jump line="63" column="60" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivity.kt" protocol="file" />
+      <jump line="175" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" protocol="file" />
+      <jump line="5" column="31" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="16" column="30" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="177" column="44" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="33" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="37" column="24" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="25" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="169" column="48" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="41" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" protocol="file" />
+      <jump line="178" column="45" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="156" column="56" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="171" column="76" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="175" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" protocol="file" />
+      <jump line="36" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt" protocol="file" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="34" column="45" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="38" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="5" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt" protocol="file" />
+      <jump line="29" column="40" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="9" column="30" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="36" column="27" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="46" column="39" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" protocol="file" />
+      <jump line="61" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="66" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="95" column="98" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="124" column="98" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="213" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="211" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="190" column="43" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="166" column="29" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="194" column="28" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="210" column="42" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="195" column="30" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="253" column="126" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="284" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="263" column="42" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="106" column="22" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="86" column="38" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="85" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="113" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="116" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="142" column="59" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="184" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="212" column="64" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="256" column="31" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="272" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="288" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="283" column="36" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="257" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+      <jump line="237" column="67" filename="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreen.kt" timestamp="1753989156879">
+        <mark key="&quot;" line="65" column="8" />
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="59" column="33" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/SettingsScreen.kt" timestamp="1753811182036">
+        <mark key="&quot;" line="24" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/di/SettingsRepo.kt" timestamp="1753991745270">
+        <mark key="&quot;" line="208" column="29" />
+        <mark key="[" line="208" column="24" />
+        <mark key="]" line="208" column="30" />
+        <mark key="." line="208" column="29" />
+        <mark key="^" line="208" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenAction.kt" timestamp="1753991646000">
+        <mark key="&quot;" line="6" column="0" />
+        <mark key="[" line="3" column="71" />
+        <mark key="]" line="5" column="82" />
+        <mark key="^" line="5" column="82" />
+        <mark key="." line="5" column="81" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/SettingsActivity.kt" timestamp="1753811203393">
+        <mark key="&quot;" line="57" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/composables/SelectableSearchEngine.kt" timestamp="1753824063923">
+        <mark key="&quot;" line="89" column="1" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/composables/SearchEngineCard.kt" timestamp="1753825619913">
+        <mark key="&quot;" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/model/Settings.kt" timestamp="1753991493624">
+        <mark key="&quot;" line="175" column="0" />
+        <mark key="'" line="58" column="35" />
+        <mark key="[" line="171" column="49" />
+        <mark key="]" line="171" column="77" />
+        <mark key="." line="171" column="76" />
+        <mark key="^" line="171" column="77" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/shared/view/composables/CenteredLayout.kt" timestamp="1753825019091">
+        <mark key="&quot;" line="24" column="0" />
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/settings/bookmarks/BookmarksScreenActions.kt" timestamp="1753987785084">
+        <mark key="&quot;" line="5" column="34" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/core/di/AppModule.kt" timestamp="1753825051034">
+        <mark key="&quot;" line="78" column="21" />
+        <mark key="[" line="78" column="28" />
+        <mark key="]" line="78" column="28" />
+        <mark key="^" line="78" column="28" />
+        <mark key="." line="78" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenState.kt" timestamp="1753989125442">
+        <mark key="&quot;" line="4" column="26" />
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_engine_screen/SelectEngineScreenVM.kt" timestamp="1753823222518">
+        <mark key="&quot;" line="2" column="7" />
+        <mark key="'" line="45" column="35" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="26" column="28" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/res/values/strings.xml" timestamp="1753979601662">
+        <mark key="&quot;" line="152" column="57" />
+        <mark key="[" line="159" column="57" />
+        <mark key="]" line="159" column="62" />
+        <mark key="^" line="159" column="62" />
+        <mark key="." line="159" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/launcher/apps/AppsScreen.kt" timestamp="1753823245040">
+        <mark key="&quot;" line="105" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/composables/PagerDots.kt" timestamp="1753811210750">
+        <mark key="&quot;" line="36" column="33" />
+        <mark key="[" line="23" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreen.kt" timestamp="1753993788166">
+        <mark key="'" line="272" column="61" />
+        <mark key="[" line="255" column="26" />
+        <mark key="]" line="255" column="37" />
+        <mark key="^" line="255" column="37" />
+        <mark key="." line="255" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/data/settings/SettingsValues.kt" timestamp="1753991004297">
+        <mark key="&quot;" line="42" column="33" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="42" column="34" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/select_theme_screen/SelectThemeScreenVM.kt" timestamp="1753991816424">
+        <mark key="&quot;" line="44" column="0" />
+        <mark key="'" line="36" column="27" />
+        <mark key="[" line="45" column="52" />
+        <mark key="]" line="46" column="40" />
+        <mark key="." line="46" column="39" />
+        <mark key="^" line="46" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/whiskers-apps/android/claw/app/src/main/java/com/whiskersapps/clawlauncher/onboarding/OnBoardingActivity.kt" timestamp="1753989165129">
+        <mark key="&quot;" line="45" column="22" />
+        <mark key="'" line="63" column="60" />
+        <mark key="[" line="63" column="62" />
+        <mark key="]" line="63" column="62" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="62" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">cGFsZXR0ZQ==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">cGFsZXR0ZQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">ZGFya1BhbGV0dGU=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">ZmFsc2U=</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0ZS5wYWxldHRlID09IFNldHRpbmdzVmFsdWVzLkRhcmtQYWxldHRlLk1PTkVULAo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWxzZSwK</text>
+      </register>
+      <register name="3" type="CHARACTER_WISE">
+        <text encoding="base64">Q29sdW1uKG1vZGlmaWVyID0gTW9kaWZpZXIudmVydGljYWxTY3JvbGwocmVtZW1iZXJTY3JvbGxTdGF0ZSgpKSkgewogICAgICAgIFRleHQoCiAgICAgICAgICAgIHRleHQgPSBzdHJpbmdSZXNvdXJjZShSLnN0cmluZy5TZWxlY3RUaGVtZVNjcmVlbl90aXRsZSksCiAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vbkJhY2tncm91bmQsCiAgICAgICAgICAgIGZvbnRXZWlnaHQgPSBGb250V2VpZ2h0Lk1lZGl1bSwKICAgICAgICAgICAgZm9udFNpemUgPSAyMC5zcAogICAgICAgICkKCiAgICAgICAgVGV4dCgKICAgICAgICAgICAgdGV4dCA9IHN0cmluZ1Jlc291cmNlKFIuc3RyaW5nLlNlbGVjdFRoZW1lU2NyZWVuX2Rlc2NyaXB0aW9uKSwKICAgICAgICAgICAgY29sb3IgPSBNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLm9uQmFja2dyb3VuZAogICAgICAgICkKCiAgICAgICAgU3BhY2VyKG1vZGlmaWVyID0gTW9kaWZpZXIuaGVpZ2h0KDguZHApKQoKICAgICAgICBSb3coCiAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAgICAgLmNhcmRTaGFwZShDYXJkU2hhcGUuVG9wKQogICAgICAgICAgICAgICAgLmJhY2tncm91bmQoTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5zdXJmYWNlVmFyaWFudCkKICAgICAgICAgICAgICAgIC5jbGlja2FibGUgeyBvbkFjdGlvbihTZWxlY3RUaGVtZVNjcmVlbkFjdGlvbi5UaGVtZVNlbGVjdChTZXR0aW5nc1ZhbHVlcy5UaGVtZS5TWVNURU0pKSB9CiAgICAgICAgICAgICAgICAucGFkZGluZyg4LmRwKSwKICAgICAgICAgICAgdmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseQogICAgICAgICkgewoKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIHRleHQgPSAiU3lzdGVtIiwKICAgICAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vbkJhY2tncm91bmQsCiAgICAgICAgICAgICAgICBzdHlsZSA9IFJFR1VMQVJfTEFCRUxfU1RZTEUKICAgICAgICAgICAgKQoKICAgICAgICAgICAgU3BhY2VyKAogICAgICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAgICAgICAgIC53ZWlnaHQoMWYsIGZpbGwgPSB0cnVlKQogICAgICAgICAgICApCgogICAgICAgICAgICBSYWRpb0J1dHRvbigKICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgb25DbGljayA9IHsgb25BY3Rpb24oU2VsZWN0VGhlbWVTY3JlZW5BY3Rpb24uVGhlbWVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuVGhlbWUuU1lTVEVNKSkgfSkKICAgICAgICB9CgogICAgICAgIFNwYWNlcihtb2RpZmllciA9IE1vZGlmaWVyLmhlaWdodCg0LmRwKSkKCiAgICAgICAgUm93KAogICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgIC5jYXJkU2hhcGUoQ2FyZFNoYXBlLk1pZGRsZSkKICAgICAgICAgICAgICAgIC5iYWNrZ3JvdW5kKE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUuc3VyZmFjZVZhcmlhbnQpCiAgICAgICAgICAgICAgICAuY2xpY2thYmxlIHsgb25BY3Rpb24oU2VsZWN0VGhlbWVTY3JlZW5BY3Rpb24uVGhlbWVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuVGhlbWUuTElHSFQpKSB9CiAgICAgICAgICAgICAgICAucGFkZGluZyg4LmRwKSwKICAgICAgICAgICAgdmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseQogICAgICAgICkgewogICAgICAgICAgICBUZXh0KAogICAgICAgICAgICAgICAgdGV4dCA9ICJMaWdodCIsCiAgICAgICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kLAogICAgICAgICAgICAgICAgc3R5bGUgPSBSRUdVTEFSX0xBQkVMX1NUWUxFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIFNwYWNlcigKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgICAgICAud2VpZ2h0KDFmLCBmaWxsID0gdHJ1ZSkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgUmFkaW9CdXR0b24oCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgIG9uQ2xpY2sgPSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLlRoZW1lU2VsZWN0KFNldHRpbmdzVmFsdWVzLlRoZW1lLkxJR0hUKSkgfSkKICAgICAgICB9CgoKICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoNC5kcCkpCgogICAgICAgIFJvdygKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAuY2FyZFNoYXBlKENhcmRTaGFwZS5Cb3R0b20pCiAgICAgICAgICAgICAgICAuYmFja2dyb3VuZChNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLnN1cmZhY2VWYXJpYW50KQogICAgICAgICAgICAgICAgLmNsaWNrYWJsZSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLlRoZW1lU2VsZWN0KFNldHRpbmdzVmFsdWVzLlRoZW1lLkRBUkspKSB9CiAgICAgICAgICAgICAgICAucGFkZGluZyg4LmRwKSwKICAgICAgICAgICAgdmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseQogICAgICAgICkgewogICAgICAgICAgICBUZXh0KAogICAgICAgICAgICAgICAgdGV4dCA9ICJEYXJrIiwKICAgICAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vbkJhY2tncm91bmQsCiAgICAgICAgICAgICAgICBzdHlsZSA9IFJFR1VMQVJfTEFCRUxfU1RZTEUKICAgICAgICAgICAgKQoKICAgICAgICAgICAgU3BhY2VyKAogICAgICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAgICAgICAgIC53ZWlnaHQoMWYsIGZpbGwgPSB0cnVlKQogICAgICAgICAgICApCgogICAgICAgICAgICBSYWRpb0J1dHRvbigKICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgb25DbGljayA9IHsgb25BY3Rpb24oU2VsZWN0VGhlbWVTY3JlZW5BY3Rpb24uVGhlbWVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuVGhlbWUuREFSSykpIH0pCiAgICAgICAgfQoKICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoMzIuZHApKQoKICAgICAgICBUZXh0KAogICAgICAgICAgICB0ZXh0ID0gc3RyaW5nUmVzb3VyY2UoUi5zdHJpbmcuU2VsZWN0VGhlbWVTY3JlZW5fbGlnaHRfY29sb3JfcGFsZXR0ZV90aXRsZSksCiAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vbkJhY2tncm91bmQsCiAgICAgICAgICAgIGZvbnRXZWlnaHQgPSBGb250V2VpZ2h0Lk1lZGl1bSwKICAgICAgICAgICAgZm9udFNpemUgPSAyMC5zcAogICAgICAgICkKCiAgICAgICAgVGV4dCgKICAgICAgICAgICAgdGV4dCA9IHN0cmluZ1Jlc291cmNlKFIuc3RyaW5nLlNlbGVjdFRoZW1lU2NyZWVuX2xpZ2h0X2NvbG9yX3BhbGV0dGVfZGVzY3JpcHRpb24pLAogICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kCiAgICAgICAgKQoKICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoOC5kcCkpCgogICAgICAgIFJvdygKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAuY2FyZFNoYXBlKENhcmRTaGFwZS5Ub3ApCiAgICAgICAgICAgICAgICAuYmFja2dyb3VuZChNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLnN1cmZhY2VWYXJpYW50KQogICAgICAgICAgICAgICAgLmNsaWNrYWJsZSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLlBhbGV0dGVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuUGFsZXR0ZS5NT05FVCkpIH0KICAgICAgICAgICAgICAgIC5wYWRkaW5nKDguZHApLAogICAgICAgICAgICB2ZXJ0aWNhbEFsaWdubWVudCA9IEFsaWdubWVudC5DZW50ZXJWZXJ0aWNhbGx5CiAgICAgICAgKSB7CiAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgICB0ZXh0ID0gIlN5c3RlbSAoTWF0ZXJpYWwgWW91KSIsCiAgICAgICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kLAogICAgICAgICAgICAgICAgc3R5bGUgPSBSRUdVTEFSX0xBQkVMX1NUWUxFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIFNwYWNlcigKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgICAgICAud2VpZ2h0KDFmLCBmaWxsID0gdHJ1ZSkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgUmFkaW9CdXR0b24oCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgIG9uQ2xpY2sgPSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLlBhbGV0dGVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuUGFsZXR0ZS5NT05FVCkpIH0pCiAgICAgICAgfQoKICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoNC5kcCkpCgogICAgICAgIFJvdygKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAuY2FyZFNoYXBlKENhcmRTaGFwZS5Cb3R0b20pCiAgICAgICAgICAgICAgICAuYmFja2dyb3VuZChNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLnN1cmZhY2VWYXJpYW50KQogICAgICAgICAgICAgICAgLmNsaWNrYWJsZSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLlBhbGV0dGVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuUGFsZXR0ZS5MWU5YKSkgfQogICAgICAgICAgICAgICAgLnBhZGRpbmcoOC5kcCksCiAgICAgICAgICAgIHZlcnRpY2FsQWxpZ25tZW50ID0gQWxpZ25tZW50LkNlbnRlclZlcnRpY2FsbHkKICAgICAgICApIHsKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIHRleHQgPSAiTW9ub0NvZGUgTHlueCIsCiAgICAgICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kLAogICAgICAgICAgICAgICAgc3R5bGUgPSBSRUdVTEFSX0xBQkVMX1NUWUxFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIFNwYWNlcigKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgICAgICAud2VpZ2h0KDFmLCBmaWxsID0gdHJ1ZSkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgUmFkaW9CdXR0b24oCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgIG9uQ2xpY2sgPSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLlBhbGV0dGVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuUGFsZXR0ZS5MWU5YKSkgfSkKICAgICAgICB9CgoKICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoMzIuZHApKQoKICAgICAgICBUZXh0KAogICAgICAgICAgICB0ZXh0ID0gc3RyaW5nUmVzb3VyY2UoUi5zdHJpbmcuU2VsZWN0VGhlbWVTY3JlZW5fY29sb3JfcGFsZXR0ZV90aXRsZSksCiAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vbkJhY2tncm91bmQsCiAgICAgICAgICAgIGZvbnRXZWlnaHQgPSBGb250V2VpZ2h0Lk1lZGl1bSwKICAgICAgICAgICAgZm9udFNpemUgPSAyMC5zcAogICAgICAgICkKCiAgICAgICAgVGV4dCgKICAgICAgICAgICAgdGV4dCA9IHN0cmluZ1Jlc291cmNlKFIuc3RyaW5nLlNlbGVjdFRoZW1lU2NyZWVuX2NvbG9yX3BhbGV0dGVfZGVzY3JpcHRpb24pLAogICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kCiAgICAgICAgKQoKICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoOC5kcCkpCgogICAgICAgIFJvdygKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAuY2FyZFNoYXBlKENhcmRTaGFwZS5Ub3ApCiAgICAgICAgICAgICAgICAuYmFja2dyb3VuZChNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLnN1cmZhY2VWYXJpYW50KQogICAgICAgICAgICAgICAgLmNsaWNrYWJsZSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLkRhcmtQYWxldHRlU2VsZWN0KFNldHRpbmdzVmFsdWVzLkRhcmtQYWxldHRlLk1PTkVUKSkgfQogICAgICAgICAgICAgICAgLnBhZGRpbmcoOC5kcCksCiAgICAgICAgICAgIHZlcnRpY2FsQWxpZ25tZW50ID0gQWxpZ25tZW50LkNlbnRlclZlcnRpY2FsbHkKICAgICAgICApIHsKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIHRleHQgPSAiU3lzdGVtIChNYXRlcmlhbCBZb3UpIiwKICAgICAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vbkJhY2tncm91bmQsCiAgICAgICAgICAgICAgICBzdHlsZSA9IFJFR1VMQVJfTEFCRUxfU1RZTEUKICAgICAgICAgICAgKQoKICAgICAgICAgICAgU3BhY2VyKAogICAgICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAgICAgICAgIC53ZWlnaHQoMWYsIGZpbGwgPSB0cnVlKQogICAgICAgICAgICApCgogICAgICAgICAgICBSYWRpb0J1dHRvbigKICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgb25DbGljayA9IHsgb25BY3Rpb24oU2VsZWN0VGhlbWVTY3JlZW5BY3Rpb24uRGFya1BhbGV0dGVTZWxlY3QoU2V0dGluZ3NWYWx1ZXMuRGFya1BhbGV0dGUuTU9ORVQpKSB9KQogICAgICAgIH0KCiAgICAgICAgU3BhY2VyKG1vZGlmaWVyID0gTW9kaWZpZXIuaGVpZ2h0KDQuZHApKQoKICAgICAgICBSb3coCiAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgIC5maWxsTWF4V2lkdGgoKQogICAgICAgICAgICAgICAgLmNhcmRTaGFwZShDYXJkU2hhcGUuQm90dG9tKQogICAgICAgICAgICAgICAgLmJhY2tncm91bmQoTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5zdXJmYWNlVmFyaWFudCkKICAgICAgICAgICAgICAgIC5jbGlja2FibGUgeyBvbkFjdGlvbihTZWxlY3RUaGVtZVNjcmVlbkFjdGlvbi5EYXJrUGFsZXR0ZVNlbGVjdChTZXR0aW5nc1ZhbHVlcy5EYXJrUGFsZXR0ZS5QQU5USEVSKSkgfQogICAgICAgICAgICAgICAgLnBhZGRpbmcoOC5kcCksCiAgICAgICAgICAgIHZlcnRpY2FsQWxpZ25tZW50ID0gQWxpZ25tZW50LkNlbnRlclZlcnRpY2FsbHkKICAgICAgICApIHsKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIHRleHQgPSAiTW9ub0NvZGUgTHlueCIsCiAgICAgICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kLAogICAgICAgICAgICAgICAgc3R5bGUgPSBSRUdVTEFSX0xBQkVMX1NUWUxFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIFNwYWNlcigKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgICAgICAud2VpZ2h0KDFmLCBmaWxsID0gdHJ1ZSkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgUmFkaW9CdXR0b24oCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgIG9uQ2xpY2sgPSB7IG9uQWN0aW9uKFNlbGVjdFRoZW1lU2NyZWVuQWN0aW9uLkRhcmtQYWxldHRlU2VsZWN0KFNldHRpbmdzVmFsdWVzLkRhcmtQYWxldHRlLlBBTlRIRVIpKSB9KQogICAgICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="4" type="CHARACTER_WISE">
+        <text encoding="base64">CgogICAgICAgIFNwYWNlcihtb2RpZmllciA9IE1vZGlmaWVyLmhlaWdodCg0LmRwKSkKCiAgICAgICAgUm93KAogICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgIC5jYXJkU2hhcGUoQ2FyZFNoYXBlLkJvdHRvbSkKICAgICAgICAgICAgICAgIC5iYWNrZ3JvdW5kKE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUuc3VyZmFjZVZhcmlhbnQpCiAgICAgICAgICAgICAgICAuY2xpY2thYmxlIHsgfQogICAgICAgICAgICAgICAgLnBhZGRpbmcoOC5kcCksCiAgICAgICAgICAgIHZlcnRpY2FsQWxpZ25tZW50ID0gQWxpZ25tZW50LkNlbnRlclZlcnRpY2FsbHkKICAgICAgICApIHsKICAgICAgICAgICAgVGV4dCgKICAgICAgICAgICAgICAgIHRleHQgPSAiTW9ub0NvZGUgUGFudGhlciIsCiAgICAgICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUub25CYWNrZ3JvdW5kLAogICAgICAgICAgICAgICAgc3R5bGUgPSBSRUdVTEFSX0xBQkVMX1NUWUxFCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIFNwYWNlcigKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIKICAgICAgICAgICAgICAgICAgICAuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgICAgICAgICAud2VpZ2h0KDFmLCBmaWxsID0gdHJ1ZSkKICAgICAgICAgICAgKQoKICAgICAgICAgICAgUmFkaW9CdXR0b24oZmFsc2UsIG9uQ2xpY2sgPSB7fSkKICAgICAgICB9</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBTcGFjZXIobW9kaWZpZXIgPSBNb2RpZmllci5oZWlnaHQoNC5kcCkpCg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="CHARACTER_WISE">
+        <text encoding="base64">IFJvdygKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllcgogICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAuY2FyZFNoYXBlKENhcmRTaGFwZS5Cb3R0b20pCiAgICAgICAgICAgICAgICAuYmFja2dyb3VuZChNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLnN1cmZhY2VWYXJpYW50KQogICAgICAgICAgICAgICAgLmNsaWNrYWJsZSB7IH0KICAgICAgICAgICAgICAgIC5wYWRkaW5nKDguZHApLAogICAgICAgICAgICB2ZXJ0aWNhbEFsaWdubWVudCA9IEFsaWdubWVudC5DZW50ZXJWZXJ0aWNhbGx5CiAgICAgICAgKSB7CiAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgICB0ZXh0ID0gIk1vbm9Db2RlIFBhbnRoZXIiLAogICAgICAgICAgICAgICAgY29sb3IgPSBNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLm9uQmFja2dyb3VuZCwKICAgICAgICAgICAgICAgIHN0eWxlID0gUkVHVUxBUl9MQUJFTF9TVFlMRQogICAgICAgICAgICApCgogICAgICAgICAgICBTcGFjZXIoCiAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyCiAgICAgICAgICAgICAgICAgICAgLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICAgICAgICAgLndlaWdodCgxZiwgZmlsbCA9IHRydWUpCiAgICAgICAgICAgICkKCiAgICAgICAgICAgIFJhZGlvQnV0dG9uKGZhbHNlLCBvbkNsaWNrID0ge30pCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgREVGQVVMVF9DTE9DS19QTEFDRU1FTlQgPSAidG9wIgo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">ZmFsc2U=</last-search>
+      <last-substitute encoding="base64">Qm9va21hcms=</last-substitute>
+      <last-offset encoding="base64" />
+      <last-replace encoding="base64">U2VhcmNoRW5naW5l</last-replace>
+      <last-pattern encoding="base64">ZmFsc2U=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

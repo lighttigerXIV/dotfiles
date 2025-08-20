@@ -1,0 +1,22 @@
+<application>
+  <component name="ContributorsLocalSummary">
+    <e id="ActionSearchEverywhereContributor">
+      <i a="10" c="1755682550973" />
+    </e>
+    <e id="ClassSearchEverywhereContributor">
+      <i a="23" c="1755527182857" />
+    </e>
+    <e id="FileSearchEverywhereContributor">
+      <i a="23" c="1755681031522" />
+    </e>
+    <e id="RecentFilesSEContributor">
+      <i a="137" c="1755681448969" />
+    </e>
+    <e id="SymbolSearchEverywhereContributor">
+      <i a="4" c="1754740026837" />
+    </e>
+    <e id="TextSearchContributor">
+      <i a="3" c="1754649156319" />
+    </e>
+  </component>
+</application>

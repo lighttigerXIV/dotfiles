@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/DroidIcons">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Droid-Icons – libs.versions.toml [Droid-Icons]" projectWorkspaceId="30JlBFrrzjByZGC6xZH9futWFpR">
+              <option name="activationTimestamp" value="1753449977955" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.25410.109.2511.13752376" />
+              <option name="buildTimestamp" value="1752024960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1930" y="10" width="2540" height="1369" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1753449893813" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/whiskers-apps/android/claw">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Claw Launcher – SelectThemeScreen.kt [Claw_Launcher.app.main]" opened="true" projectWorkspaceId="30KWxaWKWGeK9WfVQ8lAfebkU5D">
+              <option name="activationTimestamp" value="1753993889495" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.25410.109.2511.13752376" />
+              <option name="buildTimestamp" value="1752024960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1928" y="8" width="2544" height="1373" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1753722972892" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/dev/whiskers-apps/android/claw" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>
