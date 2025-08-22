@@ -66,22 +66,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/dev/whiskers-apps/android/maneko">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Maneko" opened="true" projectWorkspaceId="31Tgn6uKM7gLtEdWXocQR2kIAVg">
-              <option name="activationTimestamp" value="1755682611193" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-251.26094.121.2512.13930704" />
-              <option name="buildTimestamp" value="1755129000000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="1924" y="4" width="2552" height="1394" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1755678801097" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/dev/whiskers-apps/android/claw">
           <value>
             <RecentProjectMetaInfo frameTitle="Claw Launcher – Menu.kt [Claw_Launcher.app.main]" projectWorkspaceId="30KWxaWKWGeK9WfVQ8lAfebkU5D">
@@ -95,6 +79,38 @@
               <frame x="3202" y="4" width="1274" height="1394" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1755680746667" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/personal/layout-scaffold">
+          <value>
+            <RecentProjectMetaInfo frameTitle="LayoutScaffold" projectWorkspaceId="31bB0FArNTS39O6DQkbmle71lQ6">
+              <option name="activationTimestamp" value="1755851813023" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.26094.121.2512.13930704" />
+              <option name="buildTimestamp" value="1755129000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1924" y="4" width="2552" height="1394" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1755785556934" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/whiskers-apps/android/maneko">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Maneko – MainScreen.kt [Maneko.app.main]" opened="true" projectWorkspaceId="31Tgn6uKM7gLtEdWXocQR2kIAVg">
+              <option name="activationTimestamp" value="1755863256082" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.26094.121.2512.13930704" />
+              <option name="buildTimestamp" value="1755129000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1924" y="4" width="2552" height="1394" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1755858972657" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -1,4 +1,9 @@
 <application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="ToggleCompactMode" />
+    </ids>
+  </component>
   <component name="FileEditorProviderManager">{
   &quot;selectedProviders&quot;: {
     &quot;text-editor,android-manifest&quot;: &quot;text-editor&quot;
@@ -8,7 +13,7 @@
     <option name="installedItems">
       <installed-jdk>
         <option name="fullText" value="Oracle OpenJDK 24.0.2" />
-        <option name="installDir" value="/home/lighttigerxiv/.jdks/openjdk-24.0.2" />
+        <option name="installDir" value="$USER_HOME$/.jdks/openjdk-24.0.2" />
         <option name="sha256" value="635050717feab0e4c283c8e90e79e944a2b65a3b6b21f1d37dcaadad4cc29548" />
         <option name="url" value="https://download.java.net/java/GA/jdk24.0.2/fdc5d0102fe0414db21410ad5834341f/12/GPL/openjdk-24.0.2_linux-x64_bin.tar.gz" />
         <option name="versionText" value="24.0.2" />
@@ -47,8 +52,8 @@
     "GEMINI_INTELLIJ_INSTALLATION_ID": "c70df9c3-cfb3-4bbc-8c50-597d16d5ad3e",
     "GradleSupport.showInternalTestNodes": "false",
     "InstalledPluginsSearchHistory": "bel\nformat on save\nformat on sa\nformat on\nformat",
-    "KEYMAP": "new\npackage\noverride\nimplement",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "KEYMAP": "directory\nfile\nnew\npackage\noverride",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
     "MarketplacePluginsSearchHistory": "/tag:Theme\ncatppuccin\ncatppu\ncatpp\nca",
     "MemberChooser.copyJavadoc": "false",
     "MemberChooser.showClasses": "true",
@@ -68,9 +73,10 @@
     "SAVED_ANDROID_PACKAGE": "org.whiskersapps",
     "SAVED_BYTECODE_LEVEL": "11",
     "SPLIT_EDITOR_MODE_/home/lighttigerxiv/dev/whiskers-apps/android/claw/app/src/main/res/drawable/globe.xml": "DEACTIVATED",
-    "SettingsSearchHistory": "keymap\nkeymaps\nformat on save\nsave\ngemini",
+    "SPLIT_EDITOR_MODE_/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/graph.xml": "SPLIT",
+    "SettingsSearchHistory": "preview\ngemini\nheap\nkeymap\nforma",
     "Source Code Editor With PreviewLayout": "Editor only",
-    "TextEditorWithPreview.SplitterProportionKey": "0.71632653",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6046234",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -80,7 +86,7 @@
     "decompiler.legal.notice.accepted": "true",
     "enter_selection_count": "5",
     "experimental.ui.used.version": "251.26094.121.2512.13930704",
-    "file.gist.reindex.count": "6",
+    "file.gist.reindex.count": "8",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "18.0",
     "fontSizeToResetEditor": "18.0",
@@ -88,16 +94,16 @@
     "ideavim.statistics.timestamp": "1754503479916",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "251.26094.121.2512.13930704-AS",
-    "kotlin.lastUpdateCheck": "1755678846551",
+    "kotlin.lastUpdateCheck": "1755782544887",
     "kotlin.updates.whats.new.shown.for": "2.1.10",
-    "last_opened_file_path": "/home/lighttigerxiv/dev/whiskers-apps/android/maneko",
+    "last_opened_file_path": "/home/lighttigerxiv/Downloads/graph-svgrepo-com.svg",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Catppuccin Mocha",
     "registry.to.advanced.settings.migration.build": "AI-251.26094.121.2512.13930704",
     "studiobot.clear.history.do.not.ask": "true",
     "terminal.gen.one.option.visible": "false",
-    "toolwindow.showToolWindowsNames.ts": "2025-08-20T09:34:53.96249721"
+    "toolwindow.showToolWindowsNames.ts": "2025-08-22T12:32:05.94943392"
   },
   "keyToStringList": {
     "DAILY_ACTION_TIMESTAMPS": [
@@ -113,9 +119,15 @@
       "2025-08-09T10:55:31.827688133Z",
       "2025-08-10T13:35:11.384144861Z",
       "2025-08-18T14:18:27.298313674Z",
-      "2025-08-20T08:33:20.461495817Z"
+      "2025-08-20T08:33:20.461495817Z",
+      "2025-08-21T13:08:59.513763013Z"
     ],
     "file.chooser.recent.files": [
+      "/home/lighttigerxiv/Downloads/graph-svgrepo-com.svg",
+      "/home/lighttigerxiv/Downloads/dots-3-horizontal-svgrepo-com.svg",
+      "/home/lighttigerxiv/Downloads/clip-svgrepo-com.svg",
+      "/home/lighttigerxiv/Documents",
+      "/home/lighttigerxiv/dev/personal/layout-scaffold",
       "/home/lighttigerxiv/dev/whiskers-apps/android/maneko",
       "/home/lighttigerxiv/Downloads/logo.svg",
       "/home/lighttigerxiv/Downloads/logo.png",

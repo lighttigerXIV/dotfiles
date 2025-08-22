@@ -5,6 +5,88 @@
     <option name="onboardedVersion" value="3" />
     <option name="queryHistory">
       <list>
+        <historyEntry timestamp="1755858842936">what rules should i have for progurard to keep all object with @Serializable</historyEntry>
+        <historyEntry timestamp="1755858608741">but if i use minify it will change package names and screw everything</historyEntry>
+        <historyEntry timestamp="1755858509106">where the fuck did you take the getCurrentNavigationRoute from?</historyEntry>
+        <historyEntry timestamp="1755858450840">jeez. i need to know tha active so i can tint the damn icon</historyEntry>
+        <historyEntry timestamp="1755858374857">then how the f i know which route i am to make my navigation bar?</historyEntry>
+        <historyEntry timestamp="1755857860499">but how could i get it as a NavigationRoute object?</historyEntry>
+        <historyEntry timestamp="1755857815759">how to get current navigation route?</historyEntry>
+        <historyEntry timestamp="1755856763481">it's an object not a class</historyEntry>
+        <historyEntry timestamp="1755786389188">I'm getting the following error while syncing my project. The error is: Unresolved reference: consumerProguardFiles
+
+[Incubating] Problems report is available at: file:///home/lighttigerxiv/dev/personal/layout-scaffold/build/reports/problems/problems-report.html
+```
+e: file:///home/lighttigerxiv/dev/personal/layout-scaffold/layout-scaffold/build.gradle.kts:20:9: Unresolved reference: consumerProguardFiles
+
+[Incubating] Problems report is available at: file:///home/lighttigerxiv/dev/personal/layout-scaffold/build/reports/problems/problems-report.html
+
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1755786282704">but i don't want dynamic features. i just need to import my module</historyEntry>
+        <historyEntry timestamp="1755785812490">but i have them in settings gradle
+include ':app'
+include ':layout-scaffold'</historyEntry>
+        <historyEntry timestamp="1755785720030">I'm getting the following error while building my project. The error is: This application (com.lighttigerxiv.layoutscaffold) is not configured to use dynamic features
+```
+Execution failed for task ':app:processDebugResources'.
+&gt; A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction
+   &gt; This application (com.lighttigerxiv.layoutscaffold) is not configured to use dynamic features.
+     Please ensure dynamic features are configured in the build file.
+     Refer to https://developer.android.com/guide/playcore/feature-delivery#base_feature_relationship
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+...
+Caused by: java.lang.IllegalStateException: This application (com.lighttigerxiv.layoutscaffold) is not configured to use dynamic features.
+Please ensure dynamic features are configured in the build file.
+Refer to https://developer.android.com/guide/playcore/feature-delivery#base_feature_relationship
+	at com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction.run(LinkApplicationAndroidResourcesTask.kt:430)
+	at com.android.build.gradle.internal.profile.ProfileAwareWorkAction.execute(ProfileAwareWorkAction.kt:74)
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1755785389256">I'm getting the following error while syncing my project. The error is: SoftwareComponent with name 'release' not found
+```
+A problem occurred configuring project ':layout-scaffold'.
+&gt; SoftwareComponent with name 'release' not found.
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+org.gradle.api.ProjectConfigurationException: A problem occurred configuring project ':layout-scaffold'.
+...
+Caused by: org.gradle.api.UnknownDomainObjectException: SoftwareComponent with name 'release' not found.
+	at org.gradle.api.internal.DefaultNamedDomainObjectCollection.createNotFoundException(DefaultNamedDomainObjectCollection.java:530)
+	at org.gradle.api.internal.DefaultNamedDomainObjectCollection.getByName(DefaultNamedDomainObjectCollection.java:359)
+	at org.gradle.kotlin.dsl.NamedDomainObjectCollectionExtensionsKt.get(NamedDomainObjectCollectionExtensions.kt:401)
+	at Build_gradle$3$1$1$1.invoke(build.gradle.kts:57)
+```
+How do I fix this?</historyEntry>
+        <historyEntry timestamp="1755685281569">I'm getting the following error while building my project. The error is: KSP failed with exit code: PROCESSING_ERROR
+```
+Execution failed for task ':app:kspDebugKotlin'.
+&gt; A failure occurred while executing com.google.devtools.ksp.gradle.KspAAWorkerAction
+   &gt; KSP failed with exit code: PROCESSING_ERROR
+
+* Try:
+&gt; Run with --info or --debug option to get more log output.
+&gt; Run with --scan to get full insights.
+&gt; Get more help at https://help.gradle.org.
+
+* Exception is:
+...
+Caused by: java.lang.Exception: KSP failed with exit code: PROCESSING_ERROR
+	at com.google.devtools.ksp.gradle.KspAAWorkerAction.execute(KspAATask.kt:643)
+	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+```
+How do I fix this?</historyEntry>
         <historyEntry timestamp="1755528633653">v% it's what i was thinking of</historyEntry>
         <historyEntry timestamp="1754833467856">how to make it popup in center</historyEntry>
         <historyEntry timestamp="1754833440613">how to make it unresizable</historyEntry>
