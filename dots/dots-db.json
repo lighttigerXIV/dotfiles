@@ -70,11 +70,5 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/vencord",
     "original_path": "~/.config/Vencord"
-  },
-  {
-    "name": "android-studio",
-    "is_dir": true,
-    "target_path": "~/dotfiles/dots/android-studio",
-    "original_path": "~/.config/Google"
   }
 ]

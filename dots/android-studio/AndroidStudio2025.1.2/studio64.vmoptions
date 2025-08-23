@@ -1,4 +1,0 @@
--Xms4g
--Xmx5120m
--XX:ReservedCodeCacheSize=512m
--Didea.kotlin.plugin.use.k2=true
