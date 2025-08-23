@@ -3,45 +3,7 @@
 import subprocess
 
 try:
-    print("""1) Feature
-2) Update
-3) Add
-4) Remove
-5) Fix
-6) Custom
-""")
-
-    option = int(input("> "))
-
-    if not option in [1,2,3,4,5,6]:
-        print("Invalid Option")
-        exit(1)
-
-    files = input("\nFiles changed:\n> ")
-
-    main_message = input("\nMessage:\n> ")
-    message = ""
-
-    if option == 1:
-        message = f"feature({files}): "
-    
-    if option == 2:
-        message = f"update({files}): "
-    
-    if option == 3:
-        message = f"add({files}): "
-    
-    if option == 4:
-        message = f"remove({files}): "
-
-    if option == 5:
-        message = f"fix({files}): "
-
-    if option > 6:
-        message = f"{message}{main_message}"
-    else:
-        message = main_message
-
+    message = str("Message:\n")
     subprocess.run("git add -A", shell=True)
     subprocess.run(f"git commit -m '{message}'", shell=True)
     subprocess.run("git push", shell=True)

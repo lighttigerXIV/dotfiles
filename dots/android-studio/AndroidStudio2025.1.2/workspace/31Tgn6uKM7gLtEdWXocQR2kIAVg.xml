@@ -9,12 +9,15 @@
   <component name="DesignSurfaceV2">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Dialogs.kt" value="2.0099511718749996" />
         <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" value="9.995122070312501" />
         <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" value="9.995122070312501" />
         <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" value="9.995122070312501" />
         <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" value="1.3660644531249997" />
         <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/OtherCard.kt" value="2.0" />
         <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" value="2.0" />
+        <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreen.kt" value="1.5" />
+        <entry key="app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables/AccentColorDialog.kt" value="1.25" />
         <entry key="app/src/main/res/drawable/clip.xml" value="2.232" />
         <entry key="app/src/main/res/drawable/dots_filled.xml" value="2.232" />
         <entry key="app/src/main/res/drawable/dots_three_circle_fill_svgrepo_com.xml" value="2.232" />
@@ -24,19 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf ideFingerprint="c269itnn5eqw" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file>
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreen.kt">
           <provider editor-type-id="android-source-code" selected="true">
-            <state selected-layout="SHOW_EDITOR">
-              <editor-state relative-caret-position="28">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+              <editor-state relative-caret-position="332">
+                <caret line="103" column="88" selection-start-line="103" selection-start-column="88" selection-end-line="103" selection-end-column="88" />
               </editor-state>
               <multi-preview-state selected="Compose">
                 <representations>
                   <list>
                     <representation name="Compose">
                       <settings>
-                        <setting name="previewLayout" value="Grid" />
+                        <setting name="previewLayout" value="Focus" />
                         <setting name="selectedGroup" value="" />
                       </settings>
                     </representation>
@@ -46,38 +49,14 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"ThemeScreen.kt","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
-      </file>
-      <file current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt">
-          <provider editor-type-id="android-source-code" selected="true">
-            <state selected-layout="SHOW_EDITOR">
-              <editor-state relative-caret-position="112">
-                <caret line="4" selection-start-line="4" selection-end-line="4" />
-              </editor-state>
-              <multi-preview-state selected="Compose">
-                <representations>
-                  <list>
-                    <representation name="Compose">
-                      <settings>
-                        <setting name="previewLayout" value="Grid" />
-                        <setting name="selectedGroup" value="" />
-                      </settings>
-                    </representation>
-                  </list>
-                </representations>
-              </multi-preview-state>
-            </state>
-          </provider>
-        </entry>
-        <tab><![CDATA[{"tabTitle":"ThemeScreenState.kt","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}},{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"fa6675"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"ThemeScreen.kt","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
       </file>
       <file>
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt">
           <provider editor-type-id="android-source-code" selected="true">
             <state selected-layout="SHOW_EDITOR">
-              <editor-state relative-caret-position="196">
-                <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+              <editor-state relative-caret-position="1026">
+                <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
               </editor-state>
               <multi-preview-state selected="Compose">
                 <representations>
@@ -94,14 +73,90 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"ThemeScreenAction.kt","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"Settings.kt","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="364">
+                <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"MainActivity.kt","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="522">
+                <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Theme.kt","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables/AccentColorDialog.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+              <editor-state relative-caret-position="1368">
+                <caret line="80" column="73" selection-start-line="80" selection-start-column="73" selection-end-line="80" selection-end-column="73" />
+                <folding>
+                  <element signature="e#65#1566#0" expanded="true" />
+                  <element signature="e#3491#3504#1" expanded="true" />
+                </folding>
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="Grid" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AccentColorDialog.kt","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
       </file>
       <file>
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenVM.kt">
           <provider editor-type-id="android-source-code" selected="true">
             <state selected-layout="SHOW_EDITOR">
-              <editor-state relative-caret-position="252">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <editor-state relative-caret-position="634">
+                <caret line="39" column="75" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
                 <folding>
                   <element signature="e#53#155#0" expanded="true" />
                 </folding>
@@ -121,15 +176,15 @@
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"ThemeScreenVM.kt","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"ThemeScreenVM.kt","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-90,1,10,-93,1,106,97,114,58,102,105,108,101,58,47,104,111,109,101,47,108,105,103,104,116,116,105,103,101,114,120,105,118,47,46,108,111,99,97,108,47,115,104,97,114,101,47,71,111,111,103,108,101,47,65,110,100,114,111,105,100,83,116,117,100,105,111,50,48,50,53,46,49,46,50,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,47,108,105,98,47,67,97,116,112,112,117,99,99,105,110,37,50,48,73,99,111,110,115,45,49,46,49,50,46,48,46,106,97,114,33,47,106,101,116,98,114,97,105,110,115,95,105,99,111,110,115,47,105,99,111,110,115,47,109,111,99,104,97,95,107,111,116,108,105,110,46,115,118,103]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Kotlin": {
-      "usageCount": 185,
-      "lastUsed": 1755942022315
+      "usageCount": 199,
+      "lastUsed": 1755948101064
     },
     "TOML": {
       "usageCount": 5,
@@ -152,8 +207,8 @@
       "lastUsed": 1755858984326
     },
     "DIFF": {
-      "usageCount": 8,
-      "lastUsed": 1755896131694
+      "usageCount": 10,
+      "lastUsed": 1755946029770
     },
     "GitIgnore file": {
       "usageCount": 2,
@@ -162,61 +217,61 @@
   }
 }]]></component>
   <component name="GitSEFilterConfiguration">{}</component>
-  <component name="IdeDocumentHistory">{
-  &quot;changedPaths&quot;: [
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/settings/Settings.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/gradle.properties&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/Catergory.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/Category.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategory.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/CategoryDao.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategoryDao.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/accounts/AccountEntity.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/accounts/AccountDao.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/movements/MovementDao.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategoryEntity.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Converters.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/movements/MovementEntity.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/settings/SettingsRepo.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/AndroidManifest.xml&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavigationBar.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Routes.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoutes.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoute.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/build.gradle.kts&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/build.gradle.kts&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/proguard-rules.pro&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Type.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/graph.xml&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/.gitignore&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/.gitignore&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreenAction.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Utils.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Padding.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Cards.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Layouts.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/OtherCard.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenAction.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenVM.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt&quot;,
-    &quot;/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt&quot;
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/Category.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategory.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/CategoryDao.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategoryDao.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/accounts/AccountEntity.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/accounts/AccountDao.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/movements/MovementDao.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategoryEntity.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Converters.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/movements/MovementEntity.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/db/Database.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/AndroidManifest.xml",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/gradle/libs.versions.toml",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavigationBar.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Routes.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoutes.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoute.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/build.gradle.kts",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/build.gradle.kts",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/proguard-rules.pro",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Type.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/graph.xml",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/.gitignore",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/.gitignore",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreenAction.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Utils.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Padding.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Cards.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/OtherCard.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenAction.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Layouts.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/settings/SettingsRepo.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Dialogs.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenVM.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables/AccentColorDialog.kt",
+    "/home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreen.kt"
   ]
-}</component>
+}]]></component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -241,7 +296,7 @@
       <summary usageCount="6" lastUsage="1755876525206" />
     </language>
     <language id="kotlin">
-      <summary usageCount="185" lastUsage="1755942022315" />
+      <summary usageCount="199" lastUsage="1755948101064" />
     </language>
   </component>
   <component name="ProjectView">
@@ -529,8 +584,7 @@
               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Maneko" type="1abcf292:AndroidViewProjectNode" />
@@ -541,6 +595,7 @@
               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Maneko" type="1abcf292:AndroidViewProjectNode" />
@@ -580,6 +635,19 @@
             <path>
               <item name="Maneko" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maneko" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
@@ -600,12 +668,12 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <presentation>
                 <attributes />
-                <data iconPath="modules/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
                 <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="modules/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="kotlin+java" />
                 <item name="kotlin+java" type="edd41e36:AndroidSourceTypeNode" />
                 <presentation>
                   <attributes>
@@ -664,42 +732,6 @@
                             </attributes>
                             <data isLeaf="false" text="composables" />
                             <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables}" type="462c0819:PsiDirectoryNode" />
-                            <presentation>
-                              <attributes>
-                                <map>
-                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Cards.kt" />
-                                </map>
-                              </attributes>
-                              <data isLeaf="true" text="Cards.kt" />
-                              <item name="Cards.kt" type="24436e51:KtFileTreeNode" />
-                            </presentation>
-                            <presentation>
-                              <attributes>
-                                <map>
-                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Layouts.kt" />
-                                </map>
-                              </attributes>
-                              <data isLeaf="true" text="Layouts.kt" />
-                              <item name="Layouts.kt" type="24436e51:KtFileTreeNode" />
-                            </presentation>
-                            <presentation>
-                              <attributes>
-                                <map>
-                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Padding.kt" />
-                                </map>
-                              </attributes>
-                              <data isLeaf="true" text="Padding.kt" />
-                              <item name="Padding.kt" type="24436e51:KtFileTreeNode" />
-                            </presentation>
-                            <presentation>
-                              <attributes>
-                                <map>
-                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Utils.kt" />
-                                </map>
-                              </attributes>
-                              <data isLeaf="true" text="Utils.kt" />
-                              <item name="Utils.kt" type="24436e51:KtFileTreeNode" />
-                            </presentation>
                           </presentation>
                           <presentation>
                             <attributes>
@@ -727,6 +759,42 @@
                             </attributes>
                             <data isLeaf="false" text="composables" />
                             <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables}" type="462c0819:PsiDirectoryNode" />
+                            <presentation>
+                              <attributes>
+                                <map>
+                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" />
+                                </map>
+                              </attributes>
+                              <data isLeaf="true" text="Buttons.kt" />
+                              <item name="Buttons.kt" type="24436e51:KtFileTreeNode" />
+                            </presentation>
+                            <presentation>
+                              <attributes>
+                                <map>
+                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" />
+                                </map>
+                              </attributes>
+                              <data isLeaf="true" text="NavBar.kt" />
+                              <item name="NavBar.kt" type="24436e51:KtFileTreeNode" />
+                            </presentation>
+                            <presentation>
+                              <attributes>
+                                <map>
+                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" />
+                                </map>
+                              </attributes>
+                              <data isLeaf="true" text="NavBarIcon.kt" />
+                              <item name="NavBarIcon.kt" type="24436e51:KtFileTreeNode" />
+                            </presentation>
+                            <presentation>
+                              <attributes>
+                                <map>
+                                  <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavigationBar.kt" />
+                                </map>
+                              </attributes>
+                              <data isLeaf="true" text="NavigationBar.kt" />
+                              <item name="NavigationBar.kt" type="24436e51:KtFileTreeNode" />
+                            </presentation>
                           </presentation>
                           <presentation>
                             <attributes>
@@ -825,6 +893,24 @@
                               </attributes>
                               <data isLeaf="false" text="theme" />
                               <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme}" type="462c0819:PsiDirectoryNode" />
+                              <presentation>
+                                <attributes>
+                                  <map>
+                                    <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables" />
+                                  </map>
+                                </attributes>
+                                <data isLeaf="false" text="composables" />
+                                <item name="dir{file:///home/lighttigerxiv/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables}" type="462c0819:PsiDirectoryNode" />
+                                <presentation>
+                                  <attributes>
+                                    <map>
+                                      <entry key="filePath" value="$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables/AccentColorDialog.kt" />
+                                    </map>
+                                  </attributes>
+                                  <data isLeaf="true" text="AccentColorDialog.kt" />
+                                  <item name="AccentColorDialog.kt" type="24436e51:KtFileTreeNode" />
+                                </presentation>
+                              </presentation>
                               <presentation>
                                 <attributes>
                                   <map>
@@ -934,20 +1020,20 @@
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="modules/generatedSourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java (generated)" />
+                <data iconPath="expui/nodes/generatedSource.svg" iconPlugin="com.intellij" isLeaf="false" text="java (generated)" />
                 <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="modules/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
                 <item name="res" type="d4f16f75:AndroidResFolderNode" />
                 <presentation>
                   <attributes />
-                  <data iconPath="nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="drawable" />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="drawable" />
                   <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
                   <presentation>
                     <attributes />
-                    <data iconPath="nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="ic_launcher_foreground" />
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="ic_launcher_foreground" />
                     <item name="ic_launcher_foreground" type="c431d0b8:AndroidResGroupNode" />
                   </presentation>
                   <presentation>
@@ -1052,29 +1138,29 @@
                 </presentation>
                 <presentation>
                   <attributes />
-                  <data iconPath="nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap" />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap" />
                   <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
                 </presentation>
                 <presentation>
                   <attributes />
-                  <data iconPath="nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="values" />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="values" />
                   <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
                 </presentation>
                 <presentation>
                   <attributes />
-                  <data iconPath="nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="xml" />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="xml" />
                   <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
                 </presentation>
               </presentation>
               <presentation>
                 <attributes />
-                <data iconPath="modules/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="res (generated)" />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="res (generated)" />
                 <item name="res (generated)" type="d4f16f75:AndroidResFolderNode" />
               </presentation>
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="icons/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </presentation>
           </presentation>
@@ -1122,7 +1208,7 @@
       <window_info id="StudioBot" order="3" side_tool="true" weight="0.3195533" />
       <window_info id="Bookmarks" order="4" show_stripe_button="false" side_tool="true" weight="0.16477272" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.321736" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.321736" />
       <window_info anchor="bottom" id="Problems" order="2" />
       <window_info anchor="bottom" id="Problems View" order="3" weight="0.33034432" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.321736" />
@@ -1140,13 +1226,13 @@
       <unified_weights bottom="0.321736" left="0.3195533" right="0.25019592" />
     </layoutV2>
     <recentWindows>
-      <value>Device Manager 2</value>
-      <value>Project</value>
-      <value>StudioBot</value>
       <value>Terminal</value>
-      <value>Logcat</value>
-      <value>Run</value>
+      <value>Project</value>
       <value>Build</value>
+      <value>StudioBot</value>
+      <value>Logcat</value>
+      <value>Device Manager 2</value>
+      <value>Run</value>
       <value>Problems View</value>
       <value>Bookmarks</value>
       <value>Upgrade Assistant</value>
@@ -1158,10 +1244,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="3008" y="417" width="374" height="571" key="#com.intellij.ide.util.MemberChooser/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755682134187" />
-    <state x="2942" y="459" width="505" height="487" key="AndroidCreateXmlResourceDialog" timestamp="1755894232812">
+    <state x="2942" y="459" width="511" height="487" key="AndroidCreateXmlResourceDialog" timestamp="1755946148183">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2942" y="459" width="505" height="487" key="AndroidCreateXmlResourceDialog/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755894232812" />
+    <state x="2942" y="459" width="511" height="487" key="AndroidCreateXmlResourceDialog/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755946148183" />
     <state x="2841" y="460" width="553" height="487" key="FileChooserDialogImpl" timestamp="1755894965165">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
@@ -1182,110 +1268,20 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state width="2509" height="406" key="GridCell.Tab.0.right/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755895230903" />
-    <state x="2696" y="336" width="1007" height="733" key="SettingsEditor" timestamp="1755941666125">
+    <state x="2696" y="336" width="1007" height="733" key="SettingsEditor" timestamp="1755947876676">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2696" y="336" width="1007" height="733" key="SettingsEditor/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755941666125" />
+    <state x="2696" y="336" width="1007" height="733" key="SettingsEditor/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755947876676" />
     <state x="2800" y="401" key="conflicts.dialog" timestamp="1755703657101">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="2800" y="401" key="conflicts.dialog/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755703657101" />
-    <state x="2863" y="312" width="723" height="692" key="search.everywhere.popup" timestamp="1755941938312">
+    <state x="2863" y="312" width="723" height="692" key="search.everywhere.popup" timestamp="1755948101004">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2863" y="312" width="723" height="692" key="search.everywhere.popup/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755941938312" />
+    <state x="2863" y="312" width="723" height="692" key="search.everywhere.popup/1920.0.2560.1440/0.0.1920.1080@1920.0.2560.1440" timestamp="1755948101004" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/core/features/categories/CategoryEntity.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="168">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-            <folding>
-              <element signature="e#58#117#0" expanded="true" />
-            </folding>
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/core/features/categories/SubCategoryEntity.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="224">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-            <folding>
-              <element signature="e#58#181#0" expanded="true" />
-            </folding>
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/core/features/settings/SettingsRepo.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="538">
-            <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/core/features/settings/SettingsValues.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="700">
-            <caret line="20" selection-start-line="20" selection-end-line="20" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1388,27 +1384,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/graph.xml">
       <provider selected="true" editor-type-id="android-preview-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="566">
-            <caret line="91" column="31" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/clip.xml">
       <provider selected="true" editor-type-id="android-preview-designer" />
@@ -1581,30 +1556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Layouts.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="616">
-            <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-            <folding>
-              <element signature="e#56#688#0" expanded="true" />
-            </folding>
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lighttigerXIV/layout-scaffold/2.0.2/2c36be7f1335e27a18b6e48f3414e3cc6c8d7f18/layout-scaffold-2.0.2-sources.jar!/com/lighttigerxiv/layout_scaffold/LayoutScaffold.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
@@ -1619,27 +1570,6 @@
         <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
           <editor-state relative-caret-position="308">
             <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="672">
-            <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           </editor-state>
           <multi-preview-state selected="Compose">
             <representations>
@@ -1854,48 +1784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
-          <editor-state relative-caret-position="980">
-            <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="504">
-            <caret line="26" selection-start-line="26" selection-end-line="26" />
-          </editor-state>
-          <multi-preview-state selected="Compose">
-            <representations>
-              <list>
-                <representation name="Compose">
-                  <settings>
-                    <setting name="previewLayout" value="Grid" />
-                    <setting name="selectedGroup" value="" />
-                  </settings>
-                </representation>
-              </list>
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
@@ -1941,11 +1829,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreen.kt">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.10.2/dd509cf554e712ac6b4c8c0b773be93d0142ec71/kotlinx-coroutines-core-jvm-1.10.2-sources.jar!/commonMain/flow/StateFlow.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="426">
+            <caret line="228" column="42" selection-start-line="228" selection-start-column="42" selection-end-line="228" selection-end-column="42" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+          <editor-state relative-caret-position="672">
+            <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Layouts.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="28">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <editor-state relative-caret-position="998">
+            <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            <folding>
+              <element signature="e#56#632#0" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/composables/Dialogs.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+          <editor-state relative-caret-position="186">
+            <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <folding>
+              <element signature="e#56#820#0" expanded="true" />
+              <element signature="e#1512#1527#1" expanded="true" />
+            </folding>
           </editor-state>
           <multi-preview-state selected="Compose">
             <representations>
@@ -1965,8 +1911,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="112">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <editor-state relative-caret-position="196">
+            <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
           </editor-state>
           <multi-preview-state selected="Compose">
             <representations>
@@ -1986,8 +1932,71 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="196">
-            <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+          <editor-state relative-caret-position="308">
+            <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/core/features/settings/SettingsRepo.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="364">
+            <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="1026">
+            <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="364">
+            <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           </editor-state>
           <multi-preview-state selected="Compose">
             <representations>
@@ -2007,8 +2016,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenVM.kt">
       <provider selected="true" editor-type-id="android-source-code">
         <state selected-layout="SHOW_EDITOR">
-          <editor-state relative-caret-position="252">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <editor-state relative-caret-position="634">
+            <caret line="39" column="75" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
             <folding>
               <element signature="e#53#155#0" expanded="true" />
             </folding>
@@ -2019,6 +2028,73 @@
                 <representation name="Compose">
                   <settings>
                     <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="522">
+            <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/composables/AccentColorDialog.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+          <editor-state relative-caret-position="1368">
+            <caret line="80" column="73" selection-start-line="80" selection-start-column="73" selection-end-line="80" selection-end-column="73" />
+            <folding>
+              <element signature="e#65#1566#0" expanded="true" />
+              <element signature="e#3491#3504#1" expanded="true" />
+            </folding>
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Grid" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreen.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR_AND_PREVIEW">
+          <editor-state relative-caret-position="332">
+            <caret line="103" column="88" selection-start-line="103" selection-start-column="88" selection-end-line="103" selection-end-column="88" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="Focus" />
                     <setting name="selectedGroup" value="" />
                   </settings>
                 </representation>
