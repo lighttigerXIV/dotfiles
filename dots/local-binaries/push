@@ -3,7 +3,7 @@
 import subprocess
 
 try:
-    message = str("Message:\n")
+    message = input("Message:\n")
     subprocess.run("git add -A", shell=True)
     subprocess.run(f"git commit -m '{message}'", shell=True)
     subprocess.run("git push", shell=True)
