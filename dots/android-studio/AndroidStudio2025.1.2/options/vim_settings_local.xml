@@ -14,10 +14,10 @@
         <entry encoding="base64">d1w=</entry>
         <entry encoding="base64">JXMvLnZhbHVlLy9n</entry>
         <entry encoding="base64">cXE=</entry>
-        <entry encoding="base64">cWE=</entry>
         <entry encoding="base64">JXMvJy8iL2c=</entry>
-        <entry encoding="base64" />
+        <entry encoding="base64">cWE=</entry>
         <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64" />
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-search>
@@ -466,106 +466,106 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/monocode/Maneko/app/src/main/java/org/whiskersapps/maneko/MainActivity.kt" protocol="file" />
     </project>
     <project id="Maneko-9aaa2143">
-      <jump line="7" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" protocol="file" />
-      <jump line="5" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="30" column="21" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="1146" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-android/2.9.3/6203fe07fc57c3b294fec0964ee90add58b7fadb/navigation-runtime-android-2.9.3-sources.jar!/androidMain/androidx/navigation/NavController.android.kt" protocol="jar" />
-      <jump line="26" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="43" column="70" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common-android/2.9.3/2372539b974046fd53d36da2997adf60c6ecb583/navigation-common-android-2.9.3-sources.jar!/androidMain/androidx/navigation/NavBackStackEntry.android.kt" protocol="jar" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="33" column="35" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="34" column="23" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="35" column="65" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="36" column="77" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="37" column="83" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="38" column="80" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="41" column="41" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" protocol="file" />
-      <jump line="16" column="14" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="21" column="9" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="18" column="27" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="5" column="17" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoute.kt" protocol="file" />
-      <jump line="43" column="39" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="25" column="51" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="27" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="31" column="13" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="39" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Type.kt" protocol="file" />
-      <jump line="42" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Type.kt" protocol="file" />
-      <jump line="391" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-text-android/1.9.0/f592ad9468887fe84a0e4387ff88b00d2dd2c164/ui-text-android-1.9.0-sources.jar!/commonMain/androidx/compose/ui/text/TextStyle.kt" protocol="jar" />
-      <jump line="32" column="51" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Type.kt" protocol="file" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt" protocol="file" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt" protocol="file" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/graph.xml" protocol="file" />
-      <jump line="4" column="32" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/graph.xml" protocol="file" />
-      <jump line="45" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="91" column="31" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt" protocol="file" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="28" column="59" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="30" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="29" column="54" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="46" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="47" column="17" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="55" column="42" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="44" column="14" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="36" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="54" column="19" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="65" column="18" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="7" column="23" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="23" column="21" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="38" column="60" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/clip.xml" protocol="file" />
-      <jump line="51" column="54" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="15" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="31" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="28" column="40" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="15" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="33" column="6" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="40" column="33" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="19" column="55" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="20" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="28" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="46" column="47" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="44" column="63" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="11" column="63" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="14" column="9" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" protocol="file" />
-      <jump line="47" column="73" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="35" column="42" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="123" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="116" column="43" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="111" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="107" column="60" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="98" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="89" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="80" column="65" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="71" column="62" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="50" column="93" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="63" column="13" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="44" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="95" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="73" column="48" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="72" column="31" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="103" column="54" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
       <jump line="19" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
-      <jump line="33" column="58" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="36" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="1" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/.gitignore" protocol="file" />
-      <jump line="14" column="15" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/.gitignore" protocol="file" />
-      <jump line="44" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="56" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="16" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="34" column="67" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="33" column="19" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="28" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="18" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="336" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.9.0/59f899b03e2bc8e62b3d3cdfc1ecffab0efbcba7/foundation-layout-android-1.9.0-sources.jar!/commonMain/androidx/compose/foundation/layout/WindowInsetsPadding.kt" protocol="jar" />
-      <jump line="37" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
-      <jump line="31" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="37" column="34" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
-      <jump line="38" column="39" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
+      <jump line="31" column="10" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" protocol="file" />
+      <jump line="53" column="36" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" protocol="file" />
+      <jump line="76" column="36" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="82" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="79" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="50" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.9.0/59f899b03e2bc8e62b3d3cdfc1ecffab0efbcba7/foundation-layout-android-1.9.0-sources.jar!/commonMain/androidx/compose/foundation/layout/Intrinsic.kt" protocol="jar" />
+      <jump line="77" column="20" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="20" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
+      <jump line="33" column="41" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" protocol="file" />
+      <jump line="51" column="21" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="52" column="61" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="68" column="66" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="110" column="51" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" protocol="file" />
+      <jump line="6" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="6" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" protocol="file" />
+      <jump line="30" column="22" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" protocol="file" />
+      <jump line="16" column="14" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" protocol="file" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" protocol="file" />
+      <jump line="7" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="4" column="19" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="18" column="18" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="5" column="65" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="4" column="43" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="3" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="19" column="26" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="48" column="12" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="54" column="25" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="5" column="17" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoute.kt" protocol="file" />
+      <jump line="47" column="21" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="12" column="10" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="7" column="16" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="22" column="1" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="29" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="21" column="6" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="19" column="41" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="26" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="25" column="14" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="22" column="38" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt" protocol="file" />
+      <jump line="22" column="45" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="24" column="49" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="30" column="60" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="38" column="70" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="16" column="52" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" protocol="file" />
+      <jump line="17" column="8" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="20" column="2" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="8" column="22" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreen.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt" protocol="file" />
+      <jump line="25" column="4" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenVM.kt" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt" protocol="file" />
+      <jump line="6" column="69" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt" protocol="file" />
     </project>
     <project id="LayoutScaffold-65fd74d8">
       <jump line="44" column="80" filename="$USER_HOME$/dev/personal/layout-scaffold/layout-scaffold/build.gradle.kts" protocol="file" />
@@ -673,169 +673,175 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoute.kt" timestamp="1755859608939">
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/NavigationRoute.kt" timestamp="1755941234364">
         <mark key="&quot;" line="5" column="17" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/graph.xml" timestamp="1755860665104">
-        <mark key="&quot;" line="4" column="32" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/OtherScreen.kt" timestamp="1755941234351">
+        <mark key="&quot;" line="47" column="21" />
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="48" column="37" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/res/drawable/clip.xml" timestamp="1755861379667">
-        <mark key="&quot;" line="0" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenAction.kt" timestamp="1755895383289">
+        <mark key="&quot;" line="4" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" timestamp="1755863229805">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="38" column="40" />
-        <mark key="." line="38" column="39" />
-        <mark key="^" line="38" column="40" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainScreen.kt" timestamp="1755894753726">
+        <mark key="&quot;" line="53" column="36" />
+        <mark key="'" line="53" column="30" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="36" />
+        <mark key="^" line="53" column="37" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-android/2.9.3/6203fe07fc57c3b294fec0964ee90add58b7fadb/navigation-runtime-android-2.9.3-sources.jar!/androidMain/androidx/navigation/NavController.android.kt" timestamp="1755857991819">
-        <mark key="&quot;" line="1146" column="27" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.9.0/59f899b03e2bc8e62b3d3cdfc1ecffab0efbcba7/foundation-layout-android-1.9.0-sources.jar!/commonMain/androidx/compose/foundation/layout/Intrinsic.kt" timestamp="1755894539772">
+        <mark key="&quot;" line="50" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/.gitignore" timestamp="1755862516979">
-        <mark key="&quot;" line="14" column="15" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/Settings.kt" timestamp="1755941234327">
+        <mark key="&quot;" line="26" column="0" />
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="50" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" timestamp="1755856839435">
-        <mark key="&quot;" line="96" column="50" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenAction.kt" timestamp="1755941866673">
+        <mark key="[" line="6" column="70" />
+        <mark key="]" line="6" column="70" />
+        <mark key="^" line="6" column="70" />
+        <mark key="." line="6" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" timestamp="1755863216839">
-        <mark key="&quot;" line="37" column="26" />
-        <mark key="'" line="36" column="36" />
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="37" column="26" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt" timestamp="1755896537304">
+        <mark key="&quot;" line="20" column="8" />
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Type.kt" timestamp="1755860356375">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" timestamp="1755894753739">
+        <mark key="&quot;" line="33" column="41" />
+        <mark key="[" line="33" column="42" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/.gitignore" timestamp="1755862514461">
-        <mark key="&quot;" line="1" column="7" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/MainActivity.kt" timestamp="1755878097053">
+        <mark key="&quot;" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/build.gradle.kts" timestamp="1755856822074">
-        <mark key="&quot;" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" timestamp="1755941426529">
+        <mark key="&quot;" line="26" column="0" />
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/features/navigation/Navigator.kt" timestamp="1755862198964">
-        <mark key="&quot;" line="14" column="9" />
-        <mark key="[" line="11" column="48" />
-        <mark key="]" line="11" column="64" />
-        <mark key="^" line="11" column="64" />
-        <mark key="." line="11" column="63" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenVM.kt" timestamp="1755941430462">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/TextStyle.kt" timestamp="1755860402269">
-        <mark key="&quot;" line="13" column="0" />
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="13" column="1" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lighttigerXIV/layout-scaffold/2.0.2/2c36be7f1335e27a18b6e48f3414e3cc6c8d7f18/layout-scaffold-2.0.2-sources.jar!/com/lighttigerxiv/layout_scaffold/LayoutScaffold.kt" timestamp="1755877995389">
+        <mark key="&quot;" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-text-android/1.9.0/f592ad9468887fe84a0e4387ff88b00d2dd2c164/ui-text-android-1.9.0-sources.jar!/commonMain/androidx/compose/ui/text/TextStyle.kt" timestamp="1755860308863">
-        <mark key="&quot;" line="391" column="8" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/theme/ThemeScreenState.kt" timestamp="1755941877964">
+        <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/globals/theme/Theme.kt" timestamp="1755860708527">
-        <mark key="&quot;" line="91" column="31" />
-        <mark key="'" line="76" column="20" />
-        <mark key="[" line="91" column="33" />
-        <mark key="]" line="91" column="32" />
-        <mark key="^" line="91" column="32" />
-        <mark key="." line="91" column="31" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/build.gradle.kts" timestamp="1755894753748">
+        <mark key="&quot;" line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/proguard-rules.pro" timestamp="1755859196819">
-        <mark key="&quot;" line="41" column="41" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/composables/OtherCard.kt" timestamp="1755878047994">
+        <mark key="&quot;" line="26" column="54" />
+        <mark key="'" line="36" column="41" />
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="55" />
+        <mark key="^" line="26" column="55" />
+        <mark key="." line="26" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBarIcon.kt" timestamp="1755861003922">
-        <mark key="&quot;" line="68" column="0" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="65" column="19" />
-        <mark key="." line="65" column="18" />
-        <mark key="^" line="65" column="19" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreenVM.kt" timestamp="1755941234334">
+        <mark key="&quot;" line="23" column="0" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/core/app/AppModule.kt" timestamp="1755860983999">
-        <mark key="&quot;" line="16" column="0" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/NavBar.kt" timestamp="1755894753681">
+        <mark key="&quot;" line="114" column="0" />
+        <mark key="'" line="47" column="36" />
+        <mark key="[" line="110" column="52" />
+        <mark key="]" line="110" column="52" />
+        <mark key="^" line="110" column="52" />
+        <mark key="." line="110" column="51" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.foundation/foundation-layout-android/1.9.0/59f899b03e2bc8e62b3d3cdfc1ecffab0efbcba7/foundation-layout-android-1.9.0-sources.jar!/commonMain/androidx/compose/foundation/layout/WindowInsetsPadding.kt" timestamp="1755863117297">
-        <mark key="&quot;" line="336" column="20" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/other/about/AboutScreen.kt" timestamp="1755941234307">
+        <mark key="&quot;" line="16" column="52" />
+        <mark key="'" line="16" column="52" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="53" />
+        <mark key="^" line="20" column="53" />
+        <mark key="." line="20" column="52" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common-android/2.9.3/2372539b974046fd53d36da2997adf60c6ecb583/navigation-common-android-2.9.3-sources.jar!/androidMain/androidx/navigation/NavBackStackEntry.android.kt" timestamp="1755858062371">
-        <mark key="&quot;" line="43" column="70" />
+      <file name="$USER_HOME$/dev/whiskers-apps/android/maneko/app/src/main/java/org/whiskersapps/maneko/ui/main/composables/Buttons.kt" timestamp="1755941234371">
+        <mark key="&quot;" line="22" column="4" />
+        <mark key="[" line="35" column="57" />
+        <mark key="]" line="35" column="61" />
+        <mark key="^" line="35" column="61" />
+        <mark key="." line="35" column="60" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYWRkaW5nKDguZHApCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgb2JqZWN0IEJhY2tDbGljazogVGhlbWVTY3JlZW5BY3Rpb24K</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYWRkaW5nKDguZHApCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgb2JqZWN0IEJhY2tDbGljazogVGhlbWVTY3JlZW5BY3Rpb24K</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">TmF2aWdhdGlvblJvdXRlLk1vdmVtZW50cw==</text>
+        <text encoding="base64">YXBw</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">LnRzdGF0c3VzQmFyc1BhZGRpbmcoKWltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LnN0YXR1c0JhcnNQYWRkaW5n</text>
+        <text encoding="base64" />
       </register>
       <register name="/" type="CHARACTER_WISE">
         <text encoding="base64">Jw==</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfY3VycmVudFJvdXRlLnVwZGF0ZSB7IE5hdmlnYXRpb25Sb3V0ZS5UaGVtZX0K</text>
+        <text encoding="base64">ICAgIGRhdGEgb2JqZWN0IEJhY2tDbGljazogVGhlbWVTY3JlZW5BY3Rpb24K</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYWRkaW5nKDguZHApCg==</text>
+        <text encoding="base64">ICAgIGRhdGEgb2JqZWN0IEJhY2tDbGljazogVGhlbWVTY3JlZW5BY3Rpb24K</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgLnN5c3RlbUJhcnNQYWRkaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">YXBwLXJlbGVhc2UuYXBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWJvdXRTY3JlZW5BY3Rpb24uQmFja0NsaWNrIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Um91dGUgPSBOYXZpZ2F0aW9uUm91dGUuQWJvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWJvdXRTY3JlZW5BY3Rpb24uUmVwb0NsaWNrIC0+IFRPRE8oKQo=</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Um91dGUgPSBOYXZpZ2F0aW9uUm91dGUuVGhlbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Um91dGUgPSBOYXZpZ2F0aW9uUm91dGUuSW1wb3J0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Um91dGUgPSBOYXZpZ2F0aW9uUm91dGUuQmFja3VwCg==</text>
+      <register name="7" type="CHARACTER_WISE">
+        <text encoding="base64">VGV4dFNldHRpbmcodGl0bGUgPSAiVmVyc2lvbiIsIGRlc2NyaXB0aW9uID0gdmVyc2lvbk5hbWUpCgogICAgICAgIFRleHRTZXR0aW5nKHRpdGxlID0gIkxpY2Vuc2UiLCBkZXNjcmlwdGlvbiA9ICJNSVQiKQoKICAgICAgICBUZXh0U2V0dGluZyh0aXRsZSA9ICJSZXBvc2l0b3J5IiwgZGVzY3JpcHRpb24gPSAiaHR0cHM6Ly9naXRodWIuY29tL1doaXNrZXJzLUFwcHMvbWFuZWtvIikgewogICAgICAgICAgICBvbkFjdGlvbihBYm91dFNjcmVlbkFjdGlvbi5SZXBvQ2xpY2spCiAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Um91dGUgPSBOYXZpZ2F0aW9uUm91dGUuQ2F0ZWdvcmllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50Um91dGUgPSBOYXZpZ2F0aW9uUm91dGUuQWNjb3VudHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>

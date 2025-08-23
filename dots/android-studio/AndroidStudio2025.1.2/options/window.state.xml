@@ -3,10 +3,10 @@
     <location key="WELCOME_SCREEN.2560.0.1920.1080" x="3520" y="504" />
     <location key="find.popup.1920.0.2560.1440" x="2951" y="144" />
     <size key="find.popup.1920.0.2560.1440" width="695" height="846" />
-    <size key="GridCell.Tab.0.left.1920.0.2560.1440" width="2509" height="418" />
-    <size key="GridCell.Tab.0.center.1920.0.2560.1440" width="2509" height="418" />
-    <size key="GridCell.Tab.0.right.1920.0.2560.1440" width="2509" height="418" />
-    <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2509" height="418" />
+    <size key="GridCell.Tab.0.left.1920.0.2560.1440" width="2509" height="406" />
+    <size key="GridCell.Tab.0.center.1920.0.2560.1440" width="2509" height="406" />
+    <size key="GridCell.Tab.0.right.1920.0.2560.1440" width="2509" height="406" />
+    <size key="GridCell.Tab.0.bottom.1920.0.2560.1440" width="2509" height="406" />
     <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2450" height="418" />
     <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2450" height="418" />
     <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2450" height="418" />
