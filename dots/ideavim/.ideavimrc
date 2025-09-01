@@ -1,0 +1,4 @@
+set clipboard=unnamedplus
+set highlightedyank
+set visualbell
+set noerrorbells
