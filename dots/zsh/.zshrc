@@ -22,6 +22,9 @@ fi
 # Source your static plugins file. This is the main performance benefit.
 source ${zsh_plugins}.zsh
 
+# Source antidote
+source ~/.antidote/antidote.zsh
+
 # Enable Ctrl Arrow
 bindkey '^[[1;5D' backward-word # For Ctrl+Left
 bindkey '^[[1;5C' forward-word  # For Ctrl+Right
@@ -65,6 +68,9 @@ export PATH="$HOME/.local/bin:$PATH"
 
 export QML_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
 export QML2_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
+
+# Load Antidote
+antidote load
 
 # Enable Starship Prompt
 eval "$(starship init zsh)"
