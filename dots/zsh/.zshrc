@@ -69,6 +69,8 @@ export PATH="$HOME/.local/bin:$PATH"
 export QML_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
 export QML2_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
 
+export PATH="/opt/nvim/bin:$PATH"
+
 # Load Antidote
 antidote load
 
