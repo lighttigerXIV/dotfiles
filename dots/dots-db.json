@@ -76,5 +76,11 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/alacritty",
     "original_path": "~/.config/alacritty"
+  },
+  {
+    "name": "konsole",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/konsole",
+    "original_path": "~/.local/share/konsole"
   }
 ]
