@@ -1,0 +1,17 @@
+{
+  "icon_theme": "Catppuccin Macchiato",
+  "vim_mode": true,
+  "ui_font_size": 18,
+  "buffer_font_size": 18,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Catppuccin Macchiato - No Italics"
+  },
+  "buffer_font_family": "FiraCode Nerd Font Mono",
+  "ui_font_family": "Inter",
+  "terminal": {
+    "font_family": "FiraCode Nerd Font Mono",
+    "font_size": 18
+  }
+}

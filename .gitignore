@@ -1,0 +1,6 @@
+venv
+install.log
+configs/cargo/.cargo/git
+configs/cargo/.cargo/bin
+configs/cargo/.cargo/registry
+configs/cargo/.cargo/env

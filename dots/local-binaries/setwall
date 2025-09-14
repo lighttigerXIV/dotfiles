@@ -1,0 +1,20 @@
+#!/bin/python
+
+import subprocess
+import argparse
+from pathlib import Path
+
+parser = argparse.ArgumentParser(description="Set Wallpaper")
+parser.add_argument("wallpaper", type=Path)
+
+args = parser.parse_args()
+
+if not args.wallpaper.exists():
+    print("😿 Invalid Path")
+    exit(1)
+
+wallpaper_path = args.wallpaper.resolve()
+
+subprocess.run(f"magick {wallpaper_path} ~/Pictures/wallpapers/wallpaper.png", shell=True)
+subprocess.run("killall hyprpaper", shell=True)
+subprocess.run("hyprpaper &", shell=True)

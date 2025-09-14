@@ -1,0 +1,11 @@
+#!/bin/python
+
+import subprocess
+
+try:
+    message = input("Message:\n")
+    subprocess.run("git add -A", shell=True)
+    subprocess.run(f"git commit -m '{message}'", shell=True)
+    subprocess.run("git push", shell=True)
+except KeyboardInterrupt:
+    exit(0)

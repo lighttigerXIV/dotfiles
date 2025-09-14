@@ -1,0 +1,110 @@
+[
+  {
+    "name": "fontconfig",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/fontconfig",
+    "original_path": "~/.config/fontconfig"
+  },
+  {
+    "name": "nvim",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/nvim",
+    "original_path": "~/.config/nvim"
+  },
+  {
+    "name": "waybar",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/waybar",
+    "original_path": "~/.config/waybar"
+  },
+  {
+    "name": "zed",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/zed",
+    "original_path": "~/.config/zed"
+  },
+  {
+    "name": "cargo",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/cargo/config.toml",
+    "original_path": "~/.cargo/config.toml"
+  },
+  {
+    "name": "bash",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/bash/.bashrc",
+    "original_path": "~/.bashrc"
+  },
+  {
+    "name": "zsh",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/zsh/.zshrc",
+    "original_path": "~/.zshrc"
+  },
+  {
+    "name": "local-binaries",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/local-binaries",
+    "original_path": "~/.local/bin"
+  },
+  {
+    "name": "vencord",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/vencord",
+    "original_path": "~/.config/Vencord"
+  },
+  {
+    "name": "ideavim",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/ideavim/.ideavimrc",
+    "original_path": "~/.ideavimrc"
+  },
+  {
+    "name": "starship",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/starship",
+    "original_path": "~/.config/starship"
+  },
+  {
+    "name": "zsh-plugins",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/zsh-plugins/.zsh_plugins.txt",
+    "original_path": "~/.zsh_plugins.txt"
+  },
+  {
+    "name": "alacritty",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/alacritty",
+    "original_path": "~/.config/alacritty"
+  },
+  {
+    "name": "konsole",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/konsole",
+    "original_path": "~/.local/share/konsole"
+  },
+  {
+    "name": "hypr",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/hypr",
+    "original_path": "~/.config/hypr"
+  },
+  {
+    "name": "dunst",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/dunst",
+    "original_path": "~/.config/dunst"
+  },
+  {
+    "name": "samsung-g5-color",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/samsung-g5-color/samsung-g5-color-profile.icm",
+    "original_path": "~/.config/samsung-g5-color-profile.icm"
+  },
+  {
+    "name": "legion-5-color",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/legion-5-color/legion5-color-profile.icm",
+    "original_path": "~/.config/legion5-color-profile.icm"
+  }
+]

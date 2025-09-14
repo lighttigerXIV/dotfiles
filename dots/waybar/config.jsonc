@@ -1,0 +1,54 @@
+{
+  "layer": "top",
+  "position": "bottom",
+  "reload_style_on_change": true,
+  "spacing": 16,
+"margin-top": 0,
+"margin-right": 16,
+"margin-bottom": 16,
+"margin-left": 16,
+  "modules-left": [
+    "custom/logo",
+    "clock"
+  ],
+  "modules-center": [],
+  "modules-right": [
+    "hyprland/language",
+    "pulseaudio",
+    "battery",
+    "tray"
+  ],
+  "pulseaudio": {
+    "format": "<span foreground='#FFDE72'></span>    {volume}%",
+    "format-muted": "<span foreground='#FFDE72'></span>    {volume}%"
+  },
+  "battery": {
+    "format": "{icon}    {capacity}%",
+    "format-icons": [
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>",
+      "<span foreground='#FFDE72'></span>"
+    ],
+    "format-charging": "<span foreground='#FFDE72'>󰂅 </span> {capacity}%"
+  },
+  "tray": {
+    "icon-size": 16,
+    "spacing": 16
+  },
+  "clock": {
+    "format": "{:%H:%M}",
+    "tooltip-format": "<span foreground='#FFDE72'></span>   {:%A - %d/%m/%Y}"
+  },
+  "hyprland/language": {
+    "format": "<span foreground='#FFDE72'>󰌌</span>   {}",
+    "format-en": "US",
+    "format-pt": "PT"
+  },
+  "custom/logo": {
+    "format": "   ",
+    "tooltip": false,
+    "on-click": "exec wofi --show drun"
+  }
+}

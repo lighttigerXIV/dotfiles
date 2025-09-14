@@ -1,0 +1,19 @@
+[global]
+font = Noto Sans 10
+corner_radius = 16
+follow = mouse
+transparency = 0
+frame_width = 2
+frame_color = "#383838"
+alignment = left
+origin = top-center
+
+[urgency_normal]
+background = "#1F1F1F"
+foreground = "#F2F2F2"
+timeout = 5
+
+[urgency_critical]
+background = "#FFAD72"
+foreground = "#000"
+frame_color = "#FFAD72"
