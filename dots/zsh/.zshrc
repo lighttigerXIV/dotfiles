@@ -55,6 +55,8 @@ alias bluetooth-battery="gobbl"
 alias ac="aurcat"
 alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
 alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+alias update="yay -Syyu; flatpak update"
+alias logout-hypr="hyprctl dispatch exit"
 
 # ================================================================
 # Programs

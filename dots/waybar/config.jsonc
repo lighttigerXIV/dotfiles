@@ -2,19 +2,21 @@
   "layer": "top",
   "position": "bottom",
   "reload_style_on_change": true,
-  "spacing": 16,
-"margin-top": 0,
-"margin-right": 16,
-"margin-bottom": 16,
-"margin-left": 16,
+  "spacing": 8,
+  "margin-top": 0,
+  "margin-right": 16,
+  "margin-bottom": 16,
+  "margin-left": 16,
   "modules-left": [
     "custom/logo",
+  ],
+  "modules-center": [
     "clock"
   ],
-  "modules-center": [],
   "modules-right": [
     "hyprland/language",
     "pulseaudio",
+    "bluetooth",
     "battery",
     "tray"
   ],
@@ -39,7 +41,8 @@
   },
   "clock": {
     "format": "{:%H:%M}",
-    "tooltip-format": "<span foreground='#FFDE72'></span>   {:%A - %d/%m/%Y}"
+    "tooltip-format": "<span foreground='#FFDE72'></span>   {:%A - %d/%m/%Y}",
+    "on-click": "merkuro-calendar"
   },
   "hyprland/language": {
     "format": "<span foreground='#FFDE72'>󰌌</span>   {}",
@@ -50,5 +53,10 @@
     "format": "   ",
     "tooltip": false,
     "on-click": "exec wofi --show drun"
+  },
+  "bluetooth": {
+    "format": "<span foreground='#FFDE72'></span>",
+    "format-connected": "<span foreground='#FFDE72'>󰂯</span>  On",
+    "format-disabled": "<span foreground='#FFDE72'>󰂲</span>  Off"
   }
 }

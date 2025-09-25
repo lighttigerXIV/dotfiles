@@ -5,9 +5,9 @@
 }
 
 window#waybar {
-	background-color: #141414;
+	background-color: rgba(20,20,20,0.99);
 	border-top: 1px solid #383838;
-	border-radius: 999px;
+	border-radius: 16px;
 }
 
 #custom-logo {
@@ -22,16 +22,19 @@ window#waybar {
 #battery,
 #network,
 #pulseaudio,
+#bluetooth,
 #language {
-	padding-top: 16px;
-	padding-bottom: 16px;
+	padding: 8px;
+	background-color: #1f1f1f;
+	margin: 8px 0 8px 0;
+	border-radius: 8px;
 }
 
 #custom-logo {
-	margin-left: 16px;
+	margin-left: 10px;
 	font-size: 32px;
 }
 
 #tray {
-	margin-right: 16px;
+	margin-right: 8px;
 }

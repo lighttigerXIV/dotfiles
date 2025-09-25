@@ -106,5 +106,11 @@
     "is_dir": false,
     "target_path": "~/dotfiles/dots/legion-5-color/legion5-color-profile.icm",
     "original_path": "~/.config/legion5-color-profile.icm"
+  },
+  {
+    "name": "discord",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/discord/settings.json",
+    "original_path": "~/.config/discord/settings.json"
   }
 ]
