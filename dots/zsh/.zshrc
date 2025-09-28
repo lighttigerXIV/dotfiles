@@ -74,6 +74,9 @@ export QML2_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
 
 export PATH="/opt/nvim/bin:$PATH"
 
+# Enable Sudo Colors
+export SUDO_PROMPT="$(tput setaf 3 bold)Password:$(tput sgr0) "
+
 # Load Antidote
 antidote load
 
