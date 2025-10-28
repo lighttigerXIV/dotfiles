@@ -1,14 +1,15 @@
 {
   "layer": "top",
-  "position": "bottom",
+  "position": "top",
   "reload_style_on_change": true,
-  "spacing": 8,
+  "spacing": 16,
   "margin-top": 0,
-  "margin-right": 16,
-  "margin-bottom": 16,
-  "margin-left": 16,
+  "margin-right": 0,
+  "margin-bottom": 0,
+  "margin-left": 0,
   "modules-left": [
-    "custom/logo",
+    // "custom/logo",
+    "tray"
   ],
   "modules-center": [
     "clock"
@@ -17,37 +18,38 @@
     "hyprland/language",
     "pulseaudio",
     "bluetooth",
-    "battery",
-    "tray"
+    "battery"
   ],
   "pulseaudio": {
-    "format": "<span foreground='#FFDE72'></span>    {volume}%",
-    "format-muted": "<span foreground='#FFDE72'></span>    {volume}%"
+    "format": "<span foreground='#F2F2F2'></span>    {volume}%",
+    "format-muted": "<span foreground='#F2F2F2'></span>    {volume}%",
+    "on-click": "pavucontrol"
   },
   "battery": {
     "format": "{icon}    {capacity}%",
     "format-icons": [
-      "<span foreground='#FFDE72'></span>",
-      "<span foreground='#FFDE72'></span>",
-      "<span foreground='#FFDE72'></span>",
-      "<span foreground='#FFDE72'></span>",
-      "<span foreground='#FFDE72'></span>"
+      "<span foreground='#F2F2F2'></span>",
+      "<span foreground='#F2F2F2'></span>",
+      "<span foreground='#F2F2F2'></span>",
+      "<span foreground='#F2F2F2'></span>",
+      "<span foreground='#F2F2F2'></span>"
     ],
-    "format-charging": "<span foreground='#FFDE72'>󰂅 </span> {capacity}%"
+    "format-charging": "<span foreground='#F2F2F2'>󰂅 </span> {capacity}%"
   },
   "tray": {
     "icon-size": 16,
-    "spacing": 16
+    "spacing": 8
   },
   "clock": {
-    "format": "{:%H:%M}",
-    "tooltip-format": "<span foreground='#FFDE72'></span>   {:%A - %d/%m/%Y}",
+    "format": "{:%A - %H:%M}",
+    "tooltip-format": "<span foreground='#F2F2F2'></span>   {:%A - %d/%m/%Y}",
     "on-click": "merkuro-calendar"
   },
   "hyprland/language": {
-    "format": "<span foreground='#FFDE72'>󰌌</span>   {}",
+    "format": "<span foreground='#F2F2F2'>󰌌</span>   {}",
     "format-en": "US",
-    "format-pt": "PT"
+    "format-pt": "PT",
+    "on-click": "exec hyprctl switchxkblayout current next"
   },
   "custom/logo": {
     "format": "   ",
@@ -55,8 +57,9 @@
     "on-click": "exec wofi --show drun"
   },
   "bluetooth": {
-    "format": "<span foreground='#FFDE72'></span>",
-    "format-connected": "<span foreground='#FFDE72'>󰂯</span>  On",
-    "format-disabled": "<span foreground='#FFDE72'>󰂲</span>  Off"
+    "format": "<span foreground='#F2F2F2'> </span>",
+    "format-connected": "<span foreground='#F2F2F2'>󰂯</span>  On",
+    "format-disabled": "<span foreground='#F2F2F2'>󰂲</span>  Off",
+    "on-click": "blueman-manager"
   }
 }

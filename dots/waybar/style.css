@@ -5,9 +5,9 @@
 }
 
 window#waybar {
-	background-color: rgba(20,20,20,0.99);
-	border-top: 1px solid #383838;
-	border-radius: 16px;
+	background-color: rgba(20, 20, 20, 1);
+	/* border-bottom: 1px solid #383838; */
+	border-radius: 0px;
 }
 
 #custom-logo {
@@ -24,17 +24,18 @@ window#waybar {
 #pulseaudio,
 #bluetooth,
 #language {
-	padding: 8px;
-	background-color: #1f1f1f;
-	margin: 8px 0 8px 0;
-	border-radius: 8px;
-}
-
-#custom-logo {
-	margin-left: 10px;
-	font-size: 32px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	/* background-color: #1f1f1f; */
+	margin: 4px 0 4px 0;
+	/* border-radius: 8px; */
 }
 
 #tray {
-	margin-right: 8px;
+	margin-left: 16px;
+	/* font-size: 32px; */
+}
+
+#battery {
+	margin-right: 16px;
 }

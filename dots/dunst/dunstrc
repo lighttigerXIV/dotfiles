@@ -1,5 +1,5 @@
 [global]
-font = Noto Sans 10
+font = Nunito 10
 corner_radius = 16
 follow = mouse
 transparency = 0

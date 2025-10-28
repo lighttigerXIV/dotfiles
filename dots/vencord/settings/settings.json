@@ -245,17 +245,18 @@
         },
         "LastFMRichPresence": {
             "enabled": true,
-            "hideWithActivity": false,
+            "hideWithActivity": true,
             "hideWithSpotify": true,
             "shareUsername": true,
             "shareSong": true,
             "statusName": "Music",
             "nameFormat": "artist-first",
             "useListeningStatus": true,
-            "missingArt": "placeholder",
+            "missingArt": "lastfmLogo",
             "showLastFmLogo": true,
             "apiKey": "0abcd48e6f304c62accc28026f2ba7a2",
-            "username": "lighttigerxiv"
+            "username": "lighttigerxiv",
+            "statusDisplayType": "off"
         },
         "LoadingQuotes": {
             "enabled": false
@@ -561,6 +562,9 @@
         },
         "ImageFilename": {
             "enabled": false
+        },
+        "AutoDNDWhilePlaying": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -573,6 +577,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1757357564368
+        "settingsSyncVersion": 1760346431520
     }
 }

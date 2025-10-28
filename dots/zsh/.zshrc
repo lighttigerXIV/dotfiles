@@ -57,6 +57,8 @@ alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/Ve
 alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias update="yay -Syyu; flatpak update"
 alias logout-hypr="hyprctl dispatch exit"
+alias set-lts-kernel-default="sudo touch /boot/vmlinuz-linux-lts"
+alias set-latest-kernel-default="sudo touch /boot/vmlinuz-linux-lts"
 
 # ================================================================
 # Programs
