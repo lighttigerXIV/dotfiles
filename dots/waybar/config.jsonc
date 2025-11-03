@@ -2,24 +2,46 @@
   "layer": "top",
   "position": "top",
   "reload_style_on_change": true,
-  "spacing": 16,
-  "margin-top": 0,
+  "spacing": 8,
+  "margin-top": 6,
   "margin-right": 0,
   "margin-bottom": 0,
   "margin-left": 0,
+  "width": 1700,
   "modules-left": [
-    // "custom/logo",
-    "tray"
+	"hyprland/window"
   ],
   "modules-center": [
-    "clock"
+	"hyprland/workspaces",
   ],
   "modules-right": [
     "hyprland/language",
     "pulseaudio",
     "bluetooth",
-    "battery"
+    "battery",
+	"tray",
+	"clock"
   ],
+  "hyprland/window":{
+	"format": "{}",
+	"max-length": 40
+  },
+  "hyprland/workspaces":{
+	  "format": "{icon}",
+	  "format-icons": {
+		  "1": "",
+		  "2": "",
+		  "3": "󰇘",
+		  "4": "󰍥",
+		  "5": "󰎉",
+		  "6": "",
+		  "7": "",
+		  "8": "󰇘",
+		  "9": "󰍥",
+		  "10": "󰎉"
+	  },
+	  "active-only": false
+  },
   "pulseaudio": {
     "format": "<span foreground='#F2F2F2'></span>    {volume}%",
     "format-muted": "<span foreground='#F2F2F2'></span>    {volume}%",
@@ -41,7 +63,7 @@
     "spacing": 8
   },
   "clock": {
-    "format": "{:%A - %H:%M}",
+    "format": "{:%H:%M}",
     "tooltip-format": "<span foreground='#F2F2F2'></span>   {:%A - %d/%m/%Y}",
     "on-click": "merkuro-calendar"
   },

@@ -1,13 +1,12 @@
 * {
 	color: #F2F2F2;
 	font-weight: 600;
-	font-size: 14;
+	font-size: 14px;
 }
 
 window#waybar {
 	background-color: rgba(20, 20, 20, 1);
-	/* border-bottom: 1px solid #383838; */
-	border-radius: 0px;
+	border-radius: 6px;
 }
 
 #custom-logo {
@@ -23,19 +22,34 @@ window#waybar {
 #network,
 #pulseaudio,
 #bluetooth,
-#language {
-	padding-top: 4px;
-	padding-bottom: 4px;
-	/* background-color: #1f1f1f; */
+#language,
+#window {
+	background-color: #1F1F1F;
+	padding: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
 	margin: 4px 0 4px 0;
-	/* border-radius: 8px; */
+	border-radius: 6px;
 }
 
-#tray {
-	margin-left: 16px;
-	/* font-size: 32px; */
+#window {
+	margin-left: 8px;
 }
 
-#battery {
-	margin-right: 16px;
+#clock {
+	margin-right: 8px;
+}
+
+#workspaces button {
+	margin: 4px 0 4px 0;
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+#workspaces button.active {
+	background-color: #1F1F1F;
+}
+
+window#waybar.empty #window {
+	background-color: transparent;
 }
