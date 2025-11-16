@@ -112,5 +112,11 @@
     "is_dir": false,
     "target_path": "~/dotfiles/dots/discord/settings.json",
     "original_path": "~/.config/discord/settings.json"
+  },
+  {
+    "name": "tuicher",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/tuicher",
+    "original_path": "~/.config/tuicher"
   }
 ]

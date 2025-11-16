@@ -2,24 +2,21 @@
   "layer": "top",
   "position": "top",
   "reload_style_on_change": true,
-  "spacing": 8,
-  "margin-top": 8,
-  "margin-right": 8,
+  "spacing": 4,
+  "margin-top": 0,
+  "margin-right": 0,
   "margin-bottom": 0,
-  "margin-left": 8,
+  "margin-left": 0,
   "modules-left": [
-	"hyprland/window"
+	"tray"
   ],
   "modules-center": [
-	"hyprland/workspaces",
+	  "clock"
   ],
   "modules-right": [
     "hyprland/language",
     "pulseaudio",
-    "bluetooth",
-    "battery",
-	"tray",
-	"clock"
+    "battery"
   ],
   "hyprland/window":{
 	"format": "{}",
@@ -42,12 +39,12 @@
 	  "active-only": false
   },
   "pulseaudio": {
-    "format": "<span foreground='#F2F2F2'></span>    {volume}%",
+    "format": "<span foreground='#F2F2F2'></span>   {volume}%",
     "format-muted": "<span foreground='#F2F2F2'></span>    {volume}%",
     "on-click": "pavucontrol"
   },
   "battery": {
-    "format": "{icon}    {capacity}%",
+    "format": "{icon}   {capacity}%",
     "format-icons": [
       "<span foreground='#F2F2F2'></span>",
       "<span foreground='#F2F2F2'></span>",
@@ -55,7 +52,7 @@
       "<span foreground='#F2F2F2'></span>",
       "<span foreground='#F2F2F2'></span>"
     ],
-    "format-charging": "<span foreground='#F2F2F2'>󰂅 </span> {capacity}%"
+    "format-charging": "<span foreground='#F2F2F2'>󰂅 </span>{capacity}%"
   },
   "tray": {
     "icon-size": 16,

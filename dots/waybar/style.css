@@ -5,8 +5,8 @@
 }
 
 window#waybar {
-	background-color: rgba(20, 20, 20, 0);
-	border-radius: 6px;
+	background-color: rgba(20, 20, 20, 0.90);
+	/* border-radius: 0px; */
 }
 
 #custom-logo {
@@ -24,27 +24,26 @@ window#waybar {
 #bluetooth,
 #language,
 #window {
-	background-color: #141414;
-	padding: 8px;
-	padding-left: 16px;
-	padding-right: 16px;
-	margin: 4px 0 4px 0;
-	border-radius: 99px;
+	background-color: transparent;
+	padding: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 6px;
+	padding-bottom: 6px;
 }
 
 #workspaces {
-	background-color: #141414;
 	border-radius: 99px;
 	padding-left: 4px;
 	padding-right: 4px;
 }
 
-#window {
-	margin-left: 4px;
+#tray {
+	margin-left: 8px;
 }
 
-#clock {
-	margin-right: 4px;
+#battery {
+	margin-right: 8px;
 }
 
 #workspaces button {
@@ -53,12 +52,12 @@ window#waybar {
 	padding-left: 8px;
 	min-width: 20px;
 	border-radius: 99px;
+	min-width: 20px;
 }
 
 #workspaces button.active,
 #workspaces button:hover {
 	background-color: #1F1F1F;
-	min-width: 60px;
 }
 
 window#waybar.empty #window {

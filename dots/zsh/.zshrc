@@ -48,17 +48,11 @@ setopt SHARE_HISTORY          # Share history between all sessions (recommended 
 # Aliases
 # ================================================================
 
-alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias suvim="sudo nvim"
-alias end-session="hyprctl dispatch exit"
-alias bluetooth-battery="gobbl"
-alias ac="aurcat"
 alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
 alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias update="yay -Syyu; flatpak update"
-alias logout-hypr="hyprctl dispatch exit"
-alias set-lts-kernel-default="sudo touch /boot/vmlinuz-linux-lts"
-alias set-latest-kernel-default="sudo touch /boot/vmlinuz-linux-lts"
+alias sennheiser-info="bluetoothctl info 00:1B:66:EA:8F:98"
 
 # ================================================================
 # Programs
