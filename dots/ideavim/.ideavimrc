@@ -1,4 +1,4 @@
 set clipboard=unnamedplus
 set highlightedyank
 set visualbell
-set noerrorbells
+set noerrorbellsset clipboard^=ideaput
