@@ -118,5 +118,11 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/tuicher",
     "original_path": "~/.config/tuicher"
+  },
+  {
+    "name": "fastfetch",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/fastfetch",
+    "original_path": "~/.config/fastfetch"
   }
 ]

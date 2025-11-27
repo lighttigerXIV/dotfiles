@@ -53,6 +53,7 @@ alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/Ve
 alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias update="yay -Syyu; flatpak update"
 alias sennheiser-info="bluetoothctl info 00:1B:66:EA:8F:98"
+alias get-window-class="qdbus6 org.kde.KWin /KWin queryWindowInfo"
 
 # ================================================================
 # Programs
