@@ -124,5 +124,11 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/fastfetch",
     "original_path": "~/.config/fastfetch"
+  },
+  {
+    "name": "mpv",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/mpv",
+    "original_path": "~/.config/mpv"
   }
 ]
