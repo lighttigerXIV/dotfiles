@@ -1,0 +1,29 @@
+#!/bin/python3
+
+import os
+import subprocess
+
+mode_path = "/tmp/gaming-mode.txt"
+
+def write(gaming):
+    with open(mode_path, "w") as file:
+        file.write(str(gaming))
+
+def read():
+    with open(mode_path, "r") as file:
+        return file.read() == "True"
+
+
+if not os.path.exists(mode_path):
+    write(False)
+
+
+gaming_mode = read()
+print("gaming mode:", gaming_mode)
+
+if gaming_mode:
+    subprocess.run("kscreen-doctor output.2.mode.2", shell=True)
+    write(False)
+else:
+    subprocess.run("kscreen-doctor output.2.mode.7", shell=True)
+    write(True)
