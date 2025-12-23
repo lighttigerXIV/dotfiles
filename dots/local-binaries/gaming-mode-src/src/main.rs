@@ -63,11 +63,13 @@ fn main() -> Result<(), Box<dyn Error>>{
     if gaming_mode{
         fs::write(&mode_path, "false")?;
         Command::new("kscreen-doctor").arg(format!("output.{screen_id}.mode.{work_quality_id}")).spawn()?;
+        Command::new("notify-send").arg("🧳 Gaming Mode Disabled").spawn()?;
         return Ok(())
     }
 
     fs::write(&mode_path, "true")?;
     Command::new("kscreen-doctor").arg(format!("output.{screen_id}.mode.{gaming_quality_id}")).spawn()?;
+    Command::new("notify-send").arg("🎮 Gaming Mode Enabled").spawn()?;
 
     Ok(())
 }
