@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+import subprocess
+import json
+
+def get_output(command) -> str:
+    return subprocess.run(command, shell=True, capture_output=True, text=True).stdout.strip()
+
+layout = get_output("niri msg -j keyboard-layouts | jq -r '.names[.current_idx]'")
+
+text = "󰌌 🇵🇹 " if layout == "Portuguese" else "󰌌 🇺🇸 "
+
+print(json.dumps({"text": text}))
+

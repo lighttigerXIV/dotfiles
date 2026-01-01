@@ -79,5 +79,3 @@ antidote load
 
 # Enable Starship Prompt
 eval "$(starship init zsh)"
-
-

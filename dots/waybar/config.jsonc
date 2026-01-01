@@ -1,50 +1,32 @@
 {
   "layer": "top",
-  "position": "bottom",
+  "position": "top",
   "reload_style_on_change": true,
   "spacing": 4,
-  "margin-top": 0,
-  "margin-right": 0,
+  "margin-top": 8,
+  "margin-right": 16,
   "margin-bottom": 0,
-  "margin-left": 0,
+  "margin-left": 16,
   "modules-left": [
-	"tray"
+	"tray",
+	"custom/waymedia"
   ],
   "modules-center": [
 	  "clock"
   ],
   "modules-right": [
-    "hyprland/language",
+	"custom/keyboard-layout",
+	"custom/resources",
     "pulseaudio",
     "battery"
   ],
-  "hyprland/window":{
-	"format": "{}",
-	"max-length": 40
-  },
-  "hyprland/workspaces":{
-	  "format": "{icon}",
-	  "format-icons": {
-		  "1": "",
-		  "2": "",
-		  "3": "󰇘",
-		  "4": "󰍥",
-		  "5": "󰎉",
-		  "6": "",
-		  "7": "",
-		  "8": "󰇘",
-		  "9": "󰍥",
-		  "10": "󰎉"
-	  },
-	  "active-only": false
-  },
   "pulseaudio": {
-    "format": "<span foreground='#F2F2F2'></span>   {volume}%",
-    "format-muted": "<span foreground='#F2F2F2'></span>    {volume}%",
+    "format": " {volume}%",
+    "format-muted": " {volume}%",
     "on-click": "pavucontrol"
   },
   "battery": {
-    "format": "{icon}   {capacity}%",
+    "format": "{icon} {capacity}%",
     "format-icons": [
       "<span foreground='#F2F2F2'></span>",
       "<span foreground='#F2F2F2'></span>",
@@ -52,7 +34,7 @@
       "<span foreground='#F2F2F2'></span>",
       "<span foreground='#F2F2F2'></span>"
     ],
-    "format-charging": "<span foreground='#F2F2F2'>󰂅 </span>{capacity}%"
+    "format-charging": "󰂅 {capacity}%"
   },
   "tray": {
     "icon-size": 16,
@@ -60,24 +42,38 @@
   },
   "clock": {
     "format": "{:%H:%M}",
-    "tooltip-format": "<span foreground='#F2F2F2'></span>   {:%A - %d/%m/%Y}",
+    "tooltip-format": " {:%A - %d/%m/%Y}",
     "on-click": "merkuro-calendar"
-  },
-  "hyprland/language": {
-    "format": "<span foreground='#F2F2F2'>󰌌</span>   {}",
-    "format-en": "US",
-    "format-pt": "PT",
-    "on-click": "exec hyprctl switchxkblayout current next"
   },
   "custom/logo": {
     "format": "   ",
     "tooltip": false,
     "on-click": "exec wofi --show drun"
   },
-  "bluetooth": {
-    "format": "<span foreground='#F2F2F2'> </span>",
-    "format-connected": "<span foreground='#F2F2F2'>󰂯</span>  On",
-    "format-disabled": "<span foreground='#F2F2F2'>󰂲</span>  Off",
-    "on-click": "blueman-manager"
+  "custom/waymedia": {
+	"format": "{}",
+    "formatting": "{icon}{artist}{divider}{title}",
+    "exec": "~/.config/waybar/scripts/waymedia/waymedia",
+	"return-type": "json",
+    "interval": 1,
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous",
+	"play-icon": " ",
+	"pause-icon": " "
+  },
+  "custom/keyboard-layout": {
+	"format": "{}",
+    "exec": "~/.config/waybar/scripts/keyboard-layout/keyboard-layout",
+	"return-type": "json",
+    "interval": 1,
+    "on-click": ""
+  },
+  "custom/resources": {
+	"format": "{}",
+    "exec": "~/.config/waybar/scripts/resources/resources",
+	"return-type": "json",
+    "interval": 1,
+    "on-click": ""
   }
 }
