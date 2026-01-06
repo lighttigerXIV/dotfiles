@@ -6,7 +6,7 @@ import json
 def get_output(command) -> str:
     return subprocess.run(command, shell=True, capture_output=True, text=True).stdout.strip()
 
-layout = get_output("niri msg -j keyboard-layouts | jq -r '.names[.current_idx]'")
+layout = get_output("hyprctl devices -j | jq -r '.keyboards[] | select(.main == true) | .active_keymap'")
 
 text = "󰌌 🇵🇹 " if layout == "Portuguese" else "󰌌 🇺🇸 "
 

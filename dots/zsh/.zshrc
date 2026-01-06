@@ -63,13 +63,10 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 
 export PATH="$HOME/.cargo/bin:$PATH"
-
 export PATH="$HOME/.local/bin:$PATH"
-
-export QML_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
-export QML2_IMPORT_PATH=/usr/lib/Qt/6.6.0/gcc_64/qml
-
 export PATH="/opt/nvim/bin:$PATH"
+export PATH="$HOME/.config/hypr/hyprland/scripts:$PATH"
+
 
 # Enable Sudo Colors
 export SUDO_PROMPT="$(tput setaf 3 bold)Password:$(tput sgr0) "

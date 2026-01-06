@@ -1,0 +1,18 @@
+#!/bin/python
+
+import sys, os, subprocess, threading
+
+path = sys.argv[1]
+home = os.path.expanduser("~")
+
+if not os.path.exists(path):
+    print("❌ Invalid Path")
+    exit(1)
+
+path = os.path.abspath(path)
+
+
+subprocess.run(["cp", path, f"{home}/.config/wallpaper"])
+subprocess.run(["killall", "hyprpaper"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,)
+subprocess.Popen(["hyprpaper"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
+
