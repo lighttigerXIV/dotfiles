@@ -28,7 +28,8 @@ window#waybar {
 #custom-waymedia,
 #custom-waymedia-buttons,
 #custom-keyboard-layout,
-#custom-resources
+#custom-resources,
+#custom-notifications
 {
 	background-color: rgba(20,20,20, 0.9);
 	padding: 4px;
@@ -36,6 +37,23 @@ window#waybar {
 	padding-right: 8px;
 	padding-top: 6px;
 	padding-bottom: 6px;
+	border-radius: 6px;
+	border: 1px solid #1F1F1F;
+}
+
+#tray, #custom-notifications{
+	border-radius: 16px 6px 6px 16px
+}
+
+#custom-waymedia{
+	border-radius: 6px 16px 16px 6px
+}
+
+#battery{
+	border-radius: 6px 16px 16px 6px
+}
+
+#clock{
 	border-radius: 99px;
 }
 
