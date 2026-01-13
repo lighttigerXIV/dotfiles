@@ -10,5 +10,6 @@ if dnd:
 
 
 count = subprocess.run(["swaync-client", "-c"], capture_output=True, text=True).stdout.strip()
+symbol = "" if count == "0" else ""
 
-print(json.dumps({"text": f"  {count}"}),flush=True)
+print(json.dumps({"text": symbol}),flush=True)
