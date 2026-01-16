@@ -54,6 +54,7 @@ alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
 alias update="yay -Syyu; flatpak update"
 alias sennheiser-info="bluetoothctl info 00:1B:66:EA:8F:98"
 alias get-window-class="qdbus org.kde.KWin /KWin queryWindowInfo"
+alias enable-localsend="sudo firewall-cmd --add-port=53317/tcp --timeout=300"
 
 # ================================================================
 # Programs

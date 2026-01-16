@@ -1,12 +1,20 @@
 {
-  "icon_theme": "Catppuccin Macchiato",
-  "vim_mode": true,
+  "session": {
+    "trust_all_worktrees": false
+  },
+  "base_keymap": "JetBrains",
+  "icon_theme": {
+    "mode": "light",
+    "light": "Catppuccin Macchiato",
+    "dark": "Catppuccin Macchiato"
+  },
+  "vim_mode": false,
   "ui_font_size": 18,
   "buffer_font_size": 18,
   "theme": {
-    "mode": "system",
+    "mode": "light",
     "light": "One Light",
-    "dark": "Catppuccin Macchiato - No Italics"
+    "dark": "One Dark"
   },
   "buffer_font_family": "FiraCode Nerd Font Mono",
   "ui_font_family": "Inter",

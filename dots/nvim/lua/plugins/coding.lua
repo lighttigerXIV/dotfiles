@@ -141,19 +141,18 @@ return {
 				},
 			})
 
-			require("lspconfig").rust_analyzer.setup({
+			vim.lsp.config("rust_analyzer", {
 				settings = {
 					cargo = { allFeatures = true },
 				},
 			})
+			vim.lsp.enable("rust_analyzer")
 
-			require("lspconfig").svelte.setup({
+			vim.lsp.config("svelte", {
 				settings = {
 					svelte = {
 						plugin = {
-							typescript = {
-								enable = true,
-							},
+							typescript = { enable = true },
 						},
 					},
 				},
@@ -167,12 +166,22 @@ return {
 				end,
 			})
 
-			require("lspconfig").qmlls.setup({
-				cmd = { "qmlls" },
-				filetypes = { "qml", "qtquick" },
-				root_dir = require("lspconfig.util").root_pattern("qmlls.ini", ".git", "."),
-				single_file_support = true,
+			vim.lsp.enable("svelte")
+
+			vim.lsp.config("tailwindcss", {
+				filetypes = {
+					"html",
+					"css",
+					"javascript",
+					"javascriptreact",
+					"typescript",
+					"typescriptreact",
+					"vue",
+					"svelte",
+				},
+				root_markers = { "tailwind.config.js", "tailwind.config.ts", "postcss.config.js", "package.json" },
 			})
+			vim.lsp.enable("tailwindcss")
 		end,
 	},
 	{
