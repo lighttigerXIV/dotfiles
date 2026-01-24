@@ -1,12 +1,12 @@
 {
   "layer": "top",
-  "position": "top",
+  "position": "bottom",
   "reload_style_on_change": true,
-  "spacing": 2,
-  "margin-top": 8,
-  "margin-right": 16,
-  "margin-bottom": 0,
-  "margin-left": 16,
+  "spacing": 4,
+  "margin-top": 0,
+  "margin-right": 24,
+  "margin-bottom": 8,
+  "margin-left": 24,
   "modules-left": [
 	"tray",
 	"custom/waymedia"

@@ -1,4 +1,4 @@
-// Vencord 799ecc3
+// Vencord fbfc38a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
