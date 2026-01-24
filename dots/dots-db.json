@@ -136,5 +136,11 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/swaync",
     "original_path": "~/.config/swaync"
+  },
+  {
+    "name": "antidote",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/antidote",
+    "original_path": "~/.antidote"
   }
 ]
