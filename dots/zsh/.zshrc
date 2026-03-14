@@ -60,9 +60,6 @@ alias enable-localsend="sudo firewall-cmd --add-port=53317/tcp --timeout=300"
 # Programs
 # ================================================================
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-
 export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="/opt/nvim/bin:$PATH"
@@ -77,3 +74,10 @@ antidote load
 
 # Enable Starship Prompt
 eval "$(starship init zsh)"
+
+# fnm
+FNM_PATH="/home/lighttigerxiv/.local/share/fnm"
+if [ -d "$FNM_PATH" ]; then
+  export PATH="$FNM_PATH:$PATH"
+  eval "$(fnm env --shell zsh)"
+fi

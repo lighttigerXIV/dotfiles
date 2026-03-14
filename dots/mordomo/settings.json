@@ -1,0 +1,53 @@
+{
+  "width": 600,
+  "height": 400,
+  "theme": {
+    "dark": true,
+    "main": "#141414",
+    "secondary": "#1F1F1F",
+    "tertiary": "#383838",
+    "text_main": "#F2F2F2",
+    "text_secondary": "#E5E5E5",
+    "text_disabled": "#9F9F9F"
+  },
+  "keywords": [
+    {
+      "plugin_id": "core-session",
+      "keyword": "sm"
+    },
+    {
+      "plugin_id": "core-emojis",
+      "keyword": "em"
+    },
+    {
+      "plugin_id": "core-bookmarks",
+      "keyword": "bm"
+    }
+  ],
+  "plugins": [
+    {
+      "plugin_id": "core-emojis",
+      "setting_id": "skin_tone",
+      "value": "light"
+    },
+    {
+      "plugin_id": "core-emojis",
+      "setting_id": "show_recent",
+      "value": "true"
+    }
+  ],
+  "search_engines": [
+    {
+      "id": 0,
+      "keyword": "ec",
+      "name": "Ecosia",
+      "query": "https://www.ecosia.org/search?q=%s"
+    },
+    {
+      "id": 1,
+      "keyword": "dd",
+      "name": "DuckDuckGo",
+      "query": "https://duckduckgo.com/?q=%s"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 
 [env]
-TERM = "xterm-256color"
+TERM = "alacritty"
 
 
 [font]	
 size = 13
-normal = {family = "FiraCode Nerd Font Mono"}
+normal = {family = "0xProto Nerd Font"}
 
 
 

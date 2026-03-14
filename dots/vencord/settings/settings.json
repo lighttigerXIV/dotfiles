@@ -244,7 +244,7 @@
             "enabled": false
         },
         "LastFMRichPresence": {
-            "enabled": false,
+            "enabled": true,
             "hideWithActivity": true,
             "hideWithSpotify": true,
             "shareUsername": true,
@@ -278,9 +278,6 @@
             "enabled": false
         },
         "MessageLogger": {
-            "enabled": false
-        },
-        "MessageTags": {
             "enabled": false
         },
         "MutualGroupDMs": {
@@ -356,7 +353,7 @@
             "enabled": false
         },
         "petpet": {
-            "enabled": false
+            "enabled": true
         },
         "PictureInPicture": {
             "enabled": false
@@ -569,6 +566,12 @@
         },
         "MoreQuickReactions": {
             "enabled": false
+        },
+        "NoDefaultHangStatus": {
+            "enabled": false
+        },
+        "CustomCommands": {
+            "enabled": false
         }
     },
     "notifications": {
@@ -581,7 +584,7 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1767195762247
+        "settingsSyncVersion": 1773428547300
     },
     "uiElements": {
         "chatBarButtons": {},
