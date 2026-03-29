@@ -181,6 +181,9 @@ return {
 					-- Python
 					"pylsp",
 
+					-- CSS
+					"cssls",
+
 					-- General
 					"prettier",
 				},
