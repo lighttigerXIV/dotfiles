@@ -12,7 +12,7 @@ vim.keymap.set("n", "<C-k>", "<C-w><C-k>", { desc = "Move focus to the upper win
 
 vim.keymap.set("n", "<leader>tr", function()
 	for k, _ in pairs(package.loaded) do
-		if k:find("monocode%-scheme") then
+		if k:find("monocode-scheme") then
 			package.loaded[k] = nil
 		end
 	end

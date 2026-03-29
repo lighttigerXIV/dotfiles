@@ -178,7 +178,7 @@
             "enabled": false
         },
         "FavoriteGifSearch": {
-            "enabled": false
+            "enabled": true
         },
         "FixCodeblockGap": {
             "enabled": false
@@ -211,7 +211,7 @@
             "enabled": false
         },
         "GifPaste": {
-            "enabled": false
+            "enabled": true
         },
         "GreetStickerPicker": {
             "enabled": false
@@ -245,7 +245,7 @@
         },
         "LastFMRichPresence": {
             "enabled": true,
-            "hideWithActivity": true,
+            "hideWithActivity": false,
             "hideWithSpotify": true,
             "shareUsername": true,
             "shareSong": true,
@@ -584,7 +584,7 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1773428547300
+        "settingsSyncVersion": 1774727924056
     },
     "uiElements": {
         "chatBarButtons": {},

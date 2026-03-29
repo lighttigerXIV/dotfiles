@@ -1,4 +1,4 @@
--- Responsible for installing plugins
+----------------------- Plugin Manager ----------------------------
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 
@@ -18,4 +18,11 @@ end
 
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup("plugins")
+require("lazy").setup({
+	{ import = "plugins/lsp/core" },
+	{ import = "plugins/lsp/suggestions" },
+	{ import = "plugins/lsp/qol" },
+	{ import = "plugins/ui/panels" },
+	{ import = "plugins/ui/themes" },
+	{ import = "plugins/ui/others" },
+})

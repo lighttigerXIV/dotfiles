@@ -44,17 +44,28 @@ setopt HIST_SAVE_NO_DUPS      # Do not write a duplicate event to the history fi
 setopt INC_APPEND_HISTORY     # Add commands to HISTFILE in order of execution (immediately)
 setopt SHARE_HISTORY          # Share history between all sessions (recommended for multiple terminals)
 
+
+# ===============================================================
+# System BS
+# ===============================================================
+
+# Disable startx messages
+if [ -z "$DISPLAY" ] && [ "$XDG_VTNR" = 1 ]; then
+  exec startx &>/dev/null
+fi
+
+
 # ================================================================
 # Aliases
 # ================================================================
 
-alias suvim="sudo nvim"
+alias sv="sudo nvim"
 alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
 alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
-alias update="yay -Syyu; flatpak update"
-alias sennheiser-info="bluetoothctl info 00:1B:66:EA:8F:98"
 alias get-window-class="qdbus org.kde.KWin /KWin queryWindowInfo"
-alias enable-localsend="sudo firewall-cmd --add-port=53317/tcp --timeout=300"
+alias rebuild-initram="sudo mkinitcpio -P"
+
+alias up="yay -Syyu --noconfirm; flatpak update -y;"
 
 # ================================================================
 # Programs
