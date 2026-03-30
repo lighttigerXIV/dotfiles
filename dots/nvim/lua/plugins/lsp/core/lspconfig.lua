@@ -184,6 +184,9 @@ return {
 					-- CSS
 					"cssls",
 
+					-- JSON
+					"jq",
+
 					-- General
 					"prettier",
 				},

@@ -22,6 +22,10 @@
     {
       "plugin_id": "core-bookmarks",
       "keyword": "bm"
+    },
+    {
+      "plugin_id": "test",
+      "keyword": "t"
     }
   ],
   "plugins": [
