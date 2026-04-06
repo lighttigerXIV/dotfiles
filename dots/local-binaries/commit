@@ -60,4 +60,12 @@ while not valid:
         check=True
     )
 
+    push = input("Would you like to push? [Y/n] ").lower().strip()
+
+    if push in ['y', '']:
+        try:
+            subprocess.run(["git", "push"], check=True)
+        except Exception:
+            print("Push failed")
+
     valid = True
