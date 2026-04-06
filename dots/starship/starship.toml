@@ -1,145 +1,64 @@
-palette = "whiskers_panther"
+palette = "monocode_panther"
 
-
-add_newline = true
-
+format = """
+$directory\
+$line_break\
+$character\
+"""
 
 [directory]
-
-truncation_symbol = '../'
-
+truncation_length = 3
+truncate_to_repo = false
+truncation_symbol = "../"
 
 [character]
-
-success_symbol = "[](green)"
-
-error_symbol = "[](red)"
+success_symbol = "[󰣇](blue)"
+error_symbol = "[󰣇](red)"
 
 
 [git_branch]
-
 symbol = '󰘬 '
 
 
 [package]
-
-style = "tangerine bold"
-
+disabled = true
 
 
-[palettes.whiskers_panther]
+[palettes.monocode_panther]
+yellow = "#FFDE72"
+blue = "#72BBFF"
+cyan = "#72E0FF"
+red = "#FF7272"
+purple = "#C272FF"
+green = "#A8FF72"
+white = "#F2F2F2"
+black = "#383838"
+bright-yellow = "#FFDE72"
+bright-blue = "#72BBFF"
+bright-cyan = "#72E0FF"
+bright-red = "#FF7272"
+bright-purple = "#C272FF"
+bright-green = "#A8FF72"
+bright-white = "#F2F2F2"
+bright-black = "#383838"
 
-# Starship Default Colors Replaced With Whiskers
 
-yellow = "#FFE072"
-
-blue = "#A5CEFF"
-
-cyan = "#A5CEFF"
-
-red = "#FF8C7C"
-
-purple = "#FFAAF5"
-
-green = "#B1E380"
-
-white = "#FFEEE2"
-
+[palettes.monocode_lynx]
+yellow = "#9A7100"
+blue = "#00679A"
+cyan = "#008B9A"
+red = "#9A0000"
+purple = "#62009A"
+green = "#5F9A00"
+white = "#D8D8D8"
 black = "#000000"
-
-# Whiskers Colors
-
-banana = "#FFE072"
-
-blueberry = "#A5CEFF"
-
-cherry = "#FF8C7C"
-
-grape = "#FFAAF5"
-
-kiwi = "#B1E380"
-
-tangerine = "#FFB26C"
-
-neutral = "#000000"
-
-neutral_two = "#0E0600"
-
-neutral_three = "#140800"
-
-neutral_for = "#1B0B00"
-
-neutral_five = "#210D00"
-
-neutral_six = "#301300"
-
-neutral_seven = "#401A00"
-
-neutral_eight = "#502000"
-
-text = "#FFEEE2"
-
-text_two = "#E5D2C5"
-
-text_three = "#CFBBAD"
-
-text_for = "#B5A8A0"
+bright-yellow = "#9A7100"
+bright-blue = "#00679A"
+bright-cyan = "#008B9A"
+bright-red = "#9A0000"
+bright-purple = "#62009A"
+bright-green = "#5F9A00"
+bright-white = "#D8D8D8"
+bright-black = "#000000"
 
 
-[palettes.whiskers_lynx]
-
-# Starship Default Colors Replaced With Whiskers
-
-yellow = "#A87B0A"
-
-blue = "#5284BE"
-
-cyan = "#5284BE"
-
-red = "#B43A2A"
-
-purple = "#7D0E70"
-
-green = "#6A9534"
-
-white = "#FFFCF8"
-
-black = "#3E1900"
-
-# Whiskers Colors
-
-banana = "#A87B0A"
-
-blueberry = "#5284BE"
-
-cherry = "#B43A2A"
-
-grape = "#7D0E70"
-
-kiwi = "#6A9534"
-
-tangerine = "#C15D01"
-
-neutral = "#FFFCF8"
-
-neutral_two = "#FFF9F0"
-
-neutral_three = "#FFF5E7"
-
-neutral_for = "#FFF3E2"
-
-neutral_five = "#FFF1DD"
-
-neutral_six = "#FFF0DA"
-
-neutral_seven = "#FFEFD7"
-
-neutral_eight = "#FFECCF"
-
-text = "#3E1900"
-
-text_two = "#865C3A"
-
-text_three = "#A17A5A"
-
-text_for = "#AE917C" 

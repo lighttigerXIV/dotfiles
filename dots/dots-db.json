@@ -60,12 +60,6 @@
     "original_path": "~/.ideavimrc"
   },
   {
-    "name": "starship",
-    "is_dir": true,
-    "target_path": "~/dotfiles/dots/starship",
-    "original_path": "~/.config/starship"
-  },
-  {
     "name": "zsh-plugins",
     "is_dir": false,
     "target_path": "~/dotfiles/dots/zsh-plugins/.zsh_plugins.txt",
@@ -148,5 +142,11 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/mordomo-emojis",
     "original_path": "~/.config/mordomo-emojis"
+  },
+  {
+    "name": "starship",
+    "is_dir": false,
+    "target_path": "~/dotfiles/dots/starship/starship.toml",
+    "original_path": "~/.config/starship.toml"
   }
 ]

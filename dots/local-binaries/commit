@@ -1,0 +1,63 @@
+#!/bin/python
+
+import subprocess
+
+menu = """
+1) Add
+2) Feature
+3) Update
+4) Fix
+5) Refactor
+6) Custom
+0) Exit
+
+=> """
+
+valid = False
+prefix = ""
+
+while not valid:
+    try:
+        option = int(input((menu)))
+    except Exception:
+        print("Invalid Option !!")
+
+    if option < 0 or option > 6:
+        raise Exception
+
+    valid = True
+
+    if option == 1:
+        prefix = "add: "
+
+    if option == 2:
+        prefix = "feat: "
+
+    if option == 3:
+        prefix = "update: "
+
+    if option == 4:
+        prefix = "fix:"
+
+    if option == 5:
+        prefix = "refactor: "
+
+    try:
+        if option == 6:
+            message = input("Custom Message => ")
+        else:
+            message = input("Message => ")
+    except Exception:
+        print("Failed to get message")
+
+    commit_message = f"{prefix}{message}"
+
+    subprocess.run(
+        ["git", "add", "-A"],
+        check=True
+    )
+
+    subprocess.run(
+        ["git", "commit", "-m", f"{commit_message}"],
+        check=True
+    )
