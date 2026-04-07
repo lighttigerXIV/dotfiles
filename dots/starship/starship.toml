@@ -3,17 +3,20 @@ palette = "monocode_panther"
 format = """
 $directory\
 $line_break\
+$line_break\
 $character\
 """
 
 [directory]
+format="[](fg:blue bg:none)[](fg:#000000 bg:blue)($style)[ $path]($style)[](fg:blue bg:none)"
+style = "bg:blue fg:#000000"
 truncation_length = 3
 truncate_to_repo = false
 truncation_symbol = "../"
 
 [character]
-success_symbol = "[󰣇](blue)"
-error_symbol = "[󰣇](red)"
+success_symbol = "[](green)"
+error_symbol = "[](red)"
 
 
 [git_branch]

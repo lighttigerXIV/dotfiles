@@ -13,10 +13,9 @@ menu = """
 
 => """
 
-valid = False
 prefix = ""
 
-while not valid:
+while True:
     try:
         option = int(input((menu)))
     except Exception:
@@ -24,6 +23,9 @@ while not valid:
 
     if option < 0 or option > 6:
         raise Exception
+
+    if option == 0:
+        break
 
     if option == 1:
         prefix = "add: "
@@ -68,4 +70,4 @@ while not valid:
         except Exception:
             print("Push failed")
 
-    valid = True
+    break
