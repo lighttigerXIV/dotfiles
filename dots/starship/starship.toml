@@ -14,13 +14,10 @@ truncation_length = 3
 truncate_to_repo = false
 truncation_symbol = "../"
 
+
 [character]
-success_symbol = "[](green)"
-error_symbol = "[](red)"
-
-
-[git_branch]
-symbol = '󰘬 '
+success_symbol = "[](green)"
+error_symbol = "[](red)"
 
 
 [package]

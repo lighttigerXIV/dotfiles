@@ -60,12 +60,16 @@ fi
 # ================================================================
 
 alias sv="sudo nvim"
+
 alias vencord='sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"'
-alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+
 alias get-window-class="qdbus org.kde.KWin /KWin queryWindowInfo"
+
 alias rebuild-initram="sudo mkinitcpio -P"
 
 alias up="xdg-open 'https://archlinux.org/news/';yay -Syyu --noconfirm; flatpak update -y;"
+
+alias kill-mordomo="killall mordomo; rm /tmp/mordomo/main.sock;"
 
 # ================================================================
 # Programs
