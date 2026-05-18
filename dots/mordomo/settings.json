@@ -18,26 +18,13 @@
     {
       "plugin_id": "core-emojis",
       "keyword": "em"
-    },
-    {
-      "plugin_id": "core-bookmarks",
-      "keyword": "bm"
-    },
-    {
-      "plugin_id": "test",
-      "keyword": "t"
     }
   ],
   "plugins": [
     {
       "plugin_id": "core-emojis",
       "setting_id": "skin_tone",
-      "value": "light"
-    },
-    {
-      "plugin_id": "core-emojis",
-      "setting_id": "show_recent",
-      "value": "true"
+      "value": "medium_light"
     }
   ],
   "search_engines": [
@@ -52,6 +39,13 @@
       "keyword": "dd",
       "name": "DuckDuckGo",
       "query": "https://duckduckgo.com/?q=%s"
+    },
+    {
+      "id": 2,
+      "keyword": "g",
+      "name": "Google",
+      "query": "https://www.google.com/search?q=%s"
     }
-  ]
+  ],
+  "default_engine": 2
 }

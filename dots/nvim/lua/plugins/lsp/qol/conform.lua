@@ -37,6 +37,7 @@ return {
 			formatters_by_ft = {
 				lua = { "stylua" },
 				json = { "prettier" },
+				python = { "ruff", "ruff_organize_imports", "ruff_format" },
 			},
 		},
 	},

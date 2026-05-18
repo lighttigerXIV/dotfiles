@@ -67,8 +67,6 @@ alias get-window-class="qdbus org.kde.KWin /KWin queryWindowInfo"
 
 alias rebuild-initram="sudo mkinitcpio -P"
 
-alias up="xdg-open 'https://archlinux.org/news/';yay -Syyu --noconfirm; flatpak update -y;"
-
 alias kill-mordomo="killall mordomo; rm /tmp/mordomo/main.sock;"
 
 # ================================================================

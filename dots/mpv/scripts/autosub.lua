@@ -3,7 +3,7 @@
 --=============================================================================
 --          This script uses Subliminal to download subtitles,
 --          so make sure to specify your system's Subliminal location below:
-local subliminal = "/home/lighttigerxiv/.local/bin/subliminal"
+local subliminal = "/usr/bin/subliminal"
 --=============================================================================
 -->>    SUBTITLE LANGUAGE:
 --=============================================================================
@@ -15,16 +15,8 @@ local languages = {
 	--          other languages will NOT be downloaded,
 	--          so put your preferred language first:
 	{ "English", "en", "eng" },
-	{ "Dutch", "nl", "dut" },
-	--          { 'Spanish', 'es', 'spa' },
-	--          { 'French', 'fr', 'fre' },
-	--          { 'German', 'de', 'ger' },
-	--          { 'Italian', 'it', 'ita' },
-	--          { 'Portuguese', 'pt', 'por' },
-	--          { 'Polish', 'pl', 'pol' },
-	--          { 'Russian', 'ru', 'rus' },
-	--          { 'Chinese', 'zh', 'chi' },
-	--          { 'Arabic', 'ar', 'ara' },
+	{ "Portuguese (PT)", "pt", "por" },
+	{ "Portuguese (BR)", "pt-BR", "pob" },
 }
 --=============================================================================
 -->>    PROVIDER LOGINS:
@@ -122,6 +114,10 @@ end
 -- Manually download second language subs by pressing 'n':
 function download_subs2()
 	download_subs(languages[2])
+end
+
+function download_subs3()
+	download_subs(languages[3])
 end
 
 -- Control function: only download if necessary
@@ -260,4 +256,5 @@ end
 
 mp.add_key_binding("b", "download_subs", download_subs)
 mp.add_key_binding("n", "download_subs2", download_subs2)
+mp.add_key_binding("m", "download_subs2", download_subs3)
 mp.register_event("file-loaded", control_downloads)

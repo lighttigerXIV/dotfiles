@@ -37,7 +37,7 @@ while True:
         prefix = "update: "
 
     if option == 4:
-        prefix = "fix:"
+        prefix = "fix: "
 
     if option == 5:
         prefix = "refactor: "
@@ -52,19 +52,13 @@ while True:
 
     commit_message = f"{prefix}{message}"
 
-    subprocess.run(
-        ["git", "add", "-A"],
-        check=True
-    )
+    subprocess.run(["git", "add", "-A"], check=True)
 
-    subprocess.run(
-        ["git", "commit", "-m", f"{commit_message}"],
-        check=True
-    )
+    subprocess.run(["git", "commit", "-m", f"{commit_message}"], check=True)
 
     push = input("Would you like to push? [Y/n] ").lower().strip()
 
-    if push in ['y', '']:
+    if push in ["y", ""]:
         try:
             subprocess.run(["git", "push"], check=True)
         except Exception:

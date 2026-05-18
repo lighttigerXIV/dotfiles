@@ -179,7 +179,7 @@ return {
 					"tailwindcss-language-server",
 
 					-- Python
-					"pylsp",
+					"pyright",
 
 					-- CSS
 					"cssls",
