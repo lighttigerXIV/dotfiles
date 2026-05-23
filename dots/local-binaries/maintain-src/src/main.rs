@@ -1,9 +1,15 @@
 use std::process::{Command, Stdio, exit};
 
-use dialoguer::{Select, console::Style, theme::ColorfulTheme};
+use dialoguer::{FuzzySelect, Select, console::Style, theme::ColorfulTheme};
 
 fn main() {
-    let options = vec!["Update", "Refresh Mirrors", "Refresh GPG Keys", "Exit"];
+    let options = vec![
+        "Update",
+        "Refresh Mirrors",
+        "Refresh GPG Keys",
+        "Uninstall Aur Package",
+        "Exit",
+    ];
 
     let mut theme = ColorfulTheme::default();
     theme.active_item_style = Style::new().yellow();
@@ -38,6 +44,38 @@ fn main() {
         }
         2 => {
             run(vec!["sudo", "pacman-key", "--refresh-keys"]);
+        }
+        3 => {
+            let command = Command::new("pacman").arg("-Qm").output().unwrap();
+
+            if !command.status.success() {
+                return;
+            }
+
+            let output = String::from_utf8_lossy(&command.stdout);
+            let output_lines = output.lines();
+            let packages = output_lines
+                .map(|line| {
+                    return line.split_whitespace().next().unwrap().to_string();
+                })
+                .collect::<Vec<String>>();
+
+            let package_selection = FuzzySelect::with_theme(&theme)
+                .with_prompt("Select package to uninstall")
+                .items(&packages)
+                .default(0)
+                .interact()
+                .unwrap();
+
+            let package = packages.get(package_selection).unwrap();
+            let debug_package = format!("{package}-debug");
+
+            if packages.contains(&debug_package) {
+                run(vec!["yay", "-Rns", &package, &debug_package]);
+                return;
+            }
+
+            run(vec!["yay", "-Rns", &package]);
         }
         _ => {
             exit(0);

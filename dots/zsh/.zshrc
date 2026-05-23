@@ -68,6 +68,7 @@ alias get-window-class="qdbus org.kde.KWin /KWin queryWindowInfo"
 alias rebuild-initram="sudo mkinitcpio -P"
 
 alias kill-mordomo="killall mordomo; rm /tmp/mordomo/main.sock;"
+alias fix-bluetooth="sudo systemctl restart bluetooth"
 
 # ================================================================
 # Programs
