@@ -8,6 +8,7 @@ fn main() {
         "Refresh Mirrors",
         "Refresh GPG Keys",
         "Uninstall Aur Package",
+        "Uninstall Flatpak",
         "Exit",
     ];
 
@@ -76,6 +77,32 @@ fn main() {
             }
 
             run(vec!["yay", "-Rns", &package]);
+        }
+        4 => {
+            let command = Command::new("flatpak")
+                .args(["list", "--columns=application"])
+                .output()
+                .unwrap();
+
+            if !command.status.success() {
+                return;
+            }
+
+            let output = String::from_utf8_lossy(&command.stdout);
+
+            let packages: Vec<String> =
+                output.lines().map(|line| line.trim().to_string()).collect();
+
+            let package_selection = FuzzySelect::with_theme(&theme)
+                .with_prompt("Select Flatpak to uninstall")
+                .items(&packages)
+                .default(0)
+                .interact()
+                .unwrap();
+
+            let package = packages.get(package_selection).unwrap();
+
+            run(vec!["flatpak", "uninstall", "-y", package]);
         }
         _ => {
             exit(0);
