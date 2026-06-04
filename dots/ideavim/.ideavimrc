@@ -1,4 +1,10 @@
+let mapleader=" "
+
+nnoremap <Leader>cb :action CloseEditor<CR>
+nnoremap <Leader>p :action GotoFile<CR>
+
 set clipboard=unnamedplus
 set highlightedyank
 set visualbell
-set noerrorbellsset clipboard^=ideaput
+# set noerrorbellsset clipboard^=ideaput
+

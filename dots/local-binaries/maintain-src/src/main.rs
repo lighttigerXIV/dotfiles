@@ -9,6 +9,7 @@ fn main() {
         "Refresh GPG Keys",
         "Uninstall Aur Package",
         "Uninstall Flatpak",
+        "Restart Bluetooth",
         "Exit",
     ];
 
@@ -103,6 +104,9 @@ fn main() {
             let package = packages.get(package_selection).unwrap();
 
             run(vec!["flatpak", "uninstall", "-y", package]);
+        }
+        5 => {
+            run(vec!["sudo", "systemctl", "restart", "bluetooth"]);
         }
         _ => {
             exit(0);

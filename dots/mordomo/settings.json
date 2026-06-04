@@ -18,6 +18,18 @@
     {
       "plugin_id": "core-emojis",
       "keyword": "em"
+    },
+    {
+      "plugin_id": "core-bookmarks",
+      "keyword": "bm"
+    },
+    {
+      "plugin_id": "gaming-mode",
+      "keyword": "gam"
+    },
+    {
+      "plugin_id": "lorem-ipsum",
+      "keyword": "lorem"
     }
   ],
   "plugins": [
