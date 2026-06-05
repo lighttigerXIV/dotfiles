@@ -11,7 +11,6 @@ return {
 			},
 		})
 
-		vim.keymap.set({ "n", "t", "i" }, "<c-`>", "<cmd>ToggleTerm<cr>", { desc = "Toggle terminal (US Layout)" })
-		vim.keymap.set({ "n", "t", "i" }, "<c-\\>", "<cmd>ToggleTerm<cr>", { desc = "Toggle terminal (PT Layout)" })
+		vim.keymap.set({ "n", "t", "i" }, "<F2>", "<cmd>ToggleTerm<cr>", { desc = "Toggle terminal" })
 	end,
 }

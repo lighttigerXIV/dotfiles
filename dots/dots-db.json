@@ -148,5 +148,11 @@
     "is_dir": false,
     "target_path": "~/dotfiles/dots/starship/starship.toml",
     "original_path": "~/.config/starship.toml"
+  },
+  {
+    "name": "kitty",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/kitty",
+    "original_path": "~/.config/kitty"
   }
 ]
