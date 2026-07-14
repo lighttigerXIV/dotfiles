@@ -154,5 +154,11 @@
     "is_dir": true,
     "target_path": "~/dotfiles/dots/kitty",
     "original_path": "~/.config/kitty"
+  },
+  {
+    "name": "scripts",
+    "is_dir": true,
+    "target_path": "~/dotfiles/dots/scripts",
+    "original_path": "~/Projects/scripts"
   }
 ]

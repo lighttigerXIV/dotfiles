@@ -4,20 +4,15 @@
   "reload_style_on_change": true,
   "spacing": 4,
   "margin-top": 0,
-  "margin-right": 24,
+  "margin-right": 16,
   "margin-bottom": 8,
-  "margin-left": 24,
-  "modules-left": [
-	"tray",
-	"custom/waymedia"
-  ],
-  "modules-center": [
-	  "clock"
-  ],
+  "margin-left": 16,
+  "modules-left": ["tray", "custom/waymedia"],
+  "modules-center": ["clock"],
   "modules-right": [
-	"custom/notifications",
-	"custom/keyboard-layout",
-	"custom/resources",
+    "custom/notifications",
+    "custom/keyboard-layout",
+    "custom/resources",
     "pulseaudio",
     "battery"
   ],
@@ -29,11 +24,11 @@
   "battery": {
     "format": "{icon} {capacity}%",
     "format-icons": [
-      "<span foreground='#F2F2F2'></span>",
-      "<span foreground='#F2F2F2'></span>",
-      "<span foreground='#F2F2F2'></span>",
-      "<span foreground='#F2F2F2'></span>",
-      "<span foreground='#F2F2F2'></span>"
+      "<span foreground='#000000'></span>",
+      "<span foreground='#000000'></span>",
+      "<span foreground='#000000'></span>",
+      "<span foreground='#000000'></span>",
+      "<span foreground='#000000'></span>"
     ],
     "format-charging": "󰂅 {capacity}%"
   },
@@ -47,36 +42,36 @@
     "on-click": "merkuro-calendar"
   },
   "custom/waymedia": {
-	"format": "{}",
+    "format": "{}",
     "formatting": "{icon}{artist}{divider}{title}",
     "exec": "~/.config/waybar/scripts/waymedia/waymedia",
-	"return-type": "json",
+    "return-type": "json",
     "interval": 1,
     "on-click": "playerctl play-pause",
     "on-scroll-up": "playerctl next",
     "on-scroll-down": "playerctl previous",
-	"play-icon": " ",
-	"pause-icon": " ",
-	"empty-message": "  Nothing Playing"
+    "play-icon": " ",
+    "pause-icon": " ",
+    "empty-message": "  Nothing Playing"
   },
   "custom/keyboard-layout": {
-	"format": "{}",
+    "format": "{}",
     "exec": "~/.config/waybar/scripts/keyboard-layout/keyboard-layout",
-	"return-type": "json",
+    "return-type": "json",
     "interval": 1,
     "on-click": ""
   },
   "custom/resources": {
-	"format": "{}",
+    "format": "{}",
     "exec": "~/.config/waybar/scripts/resources/resources",
-	"return-type": "json",
+    "return-type": "json",
     "interval": 1,
     "on-click": ""
   },
   "custom/notifications": {
-	"format": "{}",
+    "format": "{}",
     "exec": "~/.config/waybar/scripts/notifications/notifications",
-	"return-type": "json",
+    "return-type": "json",
     "interval": 1,
     "on-click": "swaync-client -t"
   }

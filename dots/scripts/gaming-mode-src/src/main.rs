@@ -49,11 +49,11 @@ fn main() -> Result<(), Box<dyn Error>> {
                 let mode_id = mode_split.get(0).unwrap().to_string();
                 let resolution = mode_split.get(1).unwrap().to_string();
 
-                if resolution.starts_with("2560x1440@1") {
+                if resolution.starts_with("2560x1440@59") {
                     work_quality_id = mode_id.parse().unwrap();
                 }
 
-                if resolution.starts_with("1920x1080@1") {
+                if resolution.starts_with("1920x1080@60") {
                     gaming_quality_id = mode_id.parse().unwrap();
                 }
             }

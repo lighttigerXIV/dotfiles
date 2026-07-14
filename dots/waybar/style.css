@@ -1,12 +1,12 @@
 * {
-	color: #F2F2F2;
+	color: #000000;
 	font-weight: 600;
 	font-size: 14px;
-    font-family: 'Nunito, FiraCode Nerd Font Propo';
+    font-family: 'Nunito, 0xProto Nerd Font Propo';
 }
 
 window#waybar {
-	background-color: rgba(20, 20, 20, 1);
+	background-color: rgba(246, 246, 246, 1);
 	border-radius: 8px;
 }
 

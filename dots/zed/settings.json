@@ -1,18 +1,20 @@
 {
+  "cli_default_open_behavior": "existing_window",
+  "format_on_save": "on",
   "session": {
-    "trust_all_worktrees": false
+    "trust_all_worktrees": true
   },
   "base_keymap": "JetBrains",
   "icon_theme": {
-    "mode": "light",
-    "light": "Catppuccin Macchiato",
+    "mode": "system",
+    "light": "Catppuccin Latte",
     "dark": "Catppuccin Macchiato"
   },
-  "vim_mode": false,
+  "vim_mode": true,
   "ui_font_size": 18,
   "buffer_font_size": 18,
   "theme": {
-    "mode": "light",
+    "mode": "system",
     "light": "One Light",
     "dark": "One Dark"
   },
