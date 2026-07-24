@@ -1,7 +1,7 @@
 use std::{
     error::Error,
     path::PathBuf,
-    process::{Command, exit},
+    process::{Command, Stdio, exit},
 };
 
 use colored::Colorize;
@@ -30,6 +30,12 @@ enum CommitType {
     Custom,
 }
 
+#[derive(Debug)]
+struct Commit {
+    pub id: String,
+    pub message: String,
+}
+
 impl FileChange {
     fn display(&self) -> String {
         match self.code {
@@ -50,6 +56,7 @@ fn main() -> Result<(), Box<dyn Error>> {
             "Commit",
             "Pull Refresh",
             "See Changes",
+            "See Commits",
             "Open Repository",
             "Exit",
         ];
@@ -167,7 +174,12 @@ fn main() -> Result<(), Box<dyn Error>> {
                 println!();
             }
             1 => {
-                Command::new("git").arg("pull").output()?;
+                Command::new("git")
+                    .arg("pull")
+                    .stdout(Stdio::inherit())
+                    .output()?;
+
+                println!();
             }
             2 => {
                 for change in &changes {
@@ -177,6 +189,62 @@ fn main() -> Result<(), Box<dyn Error>> {
                 println!();
             }
             3 => {
+                let output = Command::new("git")
+                    .args(vec![
+                        "--no-pager",
+                        "log",
+                        "--oneline",
+                        "--no-decorate",
+                        "-n",
+                        "10",
+                    ])
+                    .output()?;
+
+                let output_str = String::from_utf8_lossy(&output.stdout).trim().to_string();
+
+                let commits: Vec<Commit> = output_str
+                    .lines()
+                    .map(|line| {
+                        let split: Vec<&str> = line.split_whitespace().collect();
+                        let (id, message) = split.split_first().unwrap();
+
+                        Commit {
+                            id: id.to_string(),
+                            message: message.join(" ").to_string(),
+                        }
+                    })
+                    .collect();
+
+                let mut options = vec!["Back".to_string()];
+
+                for commit in &commits {
+                    options.push(format!("{} - {}", commit.id, commit.message));
+                }
+
+                let selection_index = Select::with_theme(&get_theme())
+                    .items(&options)
+                    .default(0)
+                    .interact()?;
+
+                if selection_index == 0 {
+                    continue;
+                }
+
+                let repo_url_output = Command::new("git")
+                    .args(vec!["remote", "get-url", "origin"])
+                    .output()?;
+
+                let repo_url = String::from_utf8_lossy(&repo_url_output.stdout)
+                    .trim()
+                    .to_string()
+                    .replace(".git", "");
+
+                let commit = &commits[selection_index].id;
+                let commit_url = format!("{repo_url}/commits/{commit}");
+
+                open::that_detached(&commit_url)?;
+            }
+            4 => {
                 let repo_url_output = Command::new("git")
                     .args(vec!["remote", "get-url", "origin"])
                     .output()?;
