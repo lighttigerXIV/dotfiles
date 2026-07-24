@@ -45,8 +45,8 @@ impl FileChange {
 fn main() -> Result<(), Box<dyn Error>> {
     loop {
         let changes = get_changes()?;
-        let options = vec!["See Changes", "Commit", "Exit"];
-        let commit_options = vec!["Feature", "Update", "Fix", "Refactor", "Custom", "Exit"];
+        let options = vec!["Commit", "See Changes", "Open Repository", "Exit"];
+        let commit_options = vec!["Feature", "Update", "Fix", "Refactor", "Custom", "Back"];
 
         match Select::with_theme(&get_theme())
             .items(&options)
@@ -54,13 +54,6 @@ fn main() -> Result<(), Box<dyn Error>> {
             .interact()?
         {
             0 => {
-                for change in &changes {
-                    println!("{}", change.display());
-                }
-
-                println!();
-            }
-            1 => {
                 let commit_type = match Select::with_theme(&get_theme())
                     .items(&commit_options)
                     .default(0)
@@ -163,7 +156,28 @@ fn main() -> Result<(), Box<dyn Error>> {
                     .current_dir(&root_path)
                     .status()?;
 
-                exit(0);
+                println!();
+            }
+            1 => {
+                for change in &changes {
+                    println!("{}", change.display());
+                }
+
+                println!();
+            }
+            2 => {
+                let repo_url_output = Command::new("git")
+                    .args(vec!["remote", "get-url", "origin"])
+                    .output()?;
+
+                let repo_url = String::from_utf8_lossy(&repo_url_output.stdout)
+                    .trim()
+                    .to_string();
+
+                open::that_detached(&repo_url)?;
+
+                println!("Opened: {repo_url}");
+                println!();
             }
             _ => exit(0),
         }
