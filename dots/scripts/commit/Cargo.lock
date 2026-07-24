@@ -24,15 +24,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "commit"
-version = "0.1.0"
-dependencies = [
- "colored",
- "dialoguer",
- "open",
-]
-
-[[package]]
 name = "console"
 version = "0.16.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -97,6 +88,15 @@ dependencies = [
  "cfg-if",
  "libc",
  "r-efi",
+]
+
+[[package]]
+name = "gitter"
+version = "1.0.0"
+dependencies = [
+ "colored",
+ "dialoguer",
+ "open",
 ]
 
 [[package]]
