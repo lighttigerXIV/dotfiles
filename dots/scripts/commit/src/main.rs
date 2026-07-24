@@ -45,7 +45,15 @@ impl FileChange {
 fn main() -> Result<(), Box<dyn Error>> {
     loop {
         let changes = get_changes()?;
-        let options = vec!["Commit", "See Changes", "Open Repository", "Exit"];
+
+        let options = vec![
+            "Commit",
+            "Pull Refresh",
+            "See Changes",
+            "Open Repository",
+            "Exit",
+        ];
+
         let commit_options = vec!["Feature", "Update", "Fix", "Refactor", "Custom", "Back"];
 
         match Select::with_theme(&get_theme())
@@ -159,13 +167,16 @@ fn main() -> Result<(), Box<dyn Error>> {
                 println!();
             }
             1 => {
+                Command::new("git").arg("pull").output()?;
+            }
+            2 => {
                 for change in &changes {
                     println!("{}", change.display());
                 }
 
                 println!();
             }
-            2 => {
+            3 => {
                 let repo_url_output = Command::new("git")
                     .args(vec!["remote", "get-url", "origin"])
                     .output()?;
