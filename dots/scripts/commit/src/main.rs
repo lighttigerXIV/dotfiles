@@ -163,6 +163,8 @@ fn main() -> Result<(), Box<dyn Error>> {
                     .current_dir(&root_path)
                     .status()?;
 
+                // Teste Ficheiros
+
                 exit(0);
             }
             _ => exit(0),
