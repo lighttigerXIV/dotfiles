@@ -140,14 +140,10 @@ fn main() -> Result<(), Box<dyn Error>> {
 
                 let root_path = PathBuf::from(&root_path_str);
 
-                println!("{}", &root_path.display());
-
                 let selected_changes: Vec<&str> = selected_files_indexes
                     .into_iter()
                     .map(|index| files[index])
                     .collect();
-
-                println!("gengar");
 
                 for change in &selected_changes {
                     Command::new("git")
@@ -157,21 +153,15 @@ fn main() -> Result<(), Box<dyn Error>> {
                         .status()?;
                 }
 
-                println!("oshawott");
-
                 Command::new("git")
                     .args(vec!["commit", "-m", &final_message])
                     .current_dir(&root_path)
                     .status()?;
 
-                println!("bulbasaur");
-
                 Command::new("git")
                     .arg("push")
                     .current_dir(&root_path)
                     .status()?;
-
-                println!("charmander");
 
                 exit(0);
             }
