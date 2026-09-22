@@ -21,7 +21,7 @@ hl.bind("SUPER + F", hl.dsp.window.fullscreen({ mode = "fullscreen", action = "t
 hl.bind(
 	"SUPER + PRINT",
 	hl.dsp.exec_cmd(
-		[[file="$HOME/Pictures/Screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png"; mkdir -p "$HOME/Pictures"; grim -g "$(hyprctl monitors -j | jq -r '.[] | select(.focused) | "\(.x),\(.y) \(.width)x\(.height)"')" - | tee "$file" | wl-copy --type image/png && notify-send "Screenshot saved" "$file"]]
+		[[file="$HOME/Pictures/Screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png"; mkdir -p "$HOME/Pictures/Screenshots"; grim -g "$(hyprctl monitors -j | jq -r '.[] | select(.focused) | "\(.x),\(.y) \(.width)x\(.height)"')" - | tee "$file" | wl-copy --type image/png && notify-send "Screenshot saved" "$file"]]
 	)
 )
 
@@ -29,7 +29,7 @@ hl.bind(
 hl.bind(
 	"SUPER + SHIFT + PRINT",
 	hl.dsp.exec_cmd(
-		[[file="$HOME/Pictures/Screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png"; mkdir -p "$HOME/Pictures"; grim -g "$(slurp)" - | tee "$file" | wl-copy --type image/png && notify-send "Screenshot saved" "$file"]]
+		[[file="$HOME/Pictures/Screenshots/screenshot-$(date +%Y%m%d-%H%M%S).png"; mkdir -p "$HOME/Pictures/Screenshots"; grim -g "$(slurp)" - | tee "$file" | wl-copy --type image/png && notify-send "Screenshot saved" "$file"]]
 	)
 )
 
