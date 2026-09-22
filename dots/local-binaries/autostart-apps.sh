@@ -1,4 +1,4 @@
 #!/bin/bash
 
-flatpak run com.discordapp.Discord --start-minimized &
+flatpak run dev.vencord.Vesktop --start-minimized &
 steam -silent &

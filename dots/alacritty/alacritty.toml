@@ -11,7 +11,7 @@ normal = {family = "0xProto Nerd Font"}
 
 [window]
 padding = { x = 8, y = 8 }
-opacity = 1
+opacity = 0.9
 decorations = "None"
 
 [general]

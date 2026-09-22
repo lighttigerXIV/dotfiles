@@ -113,7 +113,12 @@ return {
 			local language_servers = {
 				lua_ls = {
 					settings = {
-						Lua = { completion = { callSnippet = "Replace" } },
+						Lua = {
+							completion = { callSnippet = "Replace" },
+							diagnostics = {
+								globals = { "vim" },
+							},
+						},
 					},
 				},
 				rust_analyzer = {

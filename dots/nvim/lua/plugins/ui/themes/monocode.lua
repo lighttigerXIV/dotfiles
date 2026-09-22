@@ -5,6 +5,7 @@ return {
 		priority = 1000,
 		config = function()
 			vim.cmd.colorscheme("monocode-scheme")
+			require("monocode-scheme").setup()
 		end,
 	},
 }

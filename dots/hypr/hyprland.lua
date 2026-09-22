@@ -1,0 +1,7 @@
+require("hyprland-confs.env")
+require("hyprland-confs.autostart")
+require("hyprland-confs.keyboard_shortcuts")
+require("hyprland-confs.workspaces")
+require("hyprland-confs.look_and_feel")
+require("hyprland-confs.monitors")
+require("hyprland-confs.input")

@@ -2,163 +2,163 @@
   {
     "name": "fontconfig",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/fontconfig",
+    "target_path": "~/.dotfiles/dots/fontconfig",
     "original_path": "~/.config/fontconfig"
   },
   {
     "name": "nvim",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/nvim",
+    "target_path": "~/.dotfiles/dots/nvim",
     "original_path": "~/.config/nvim"
   },
   {
     "name": "waybar",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/waybar",
+    "target_path": "~/.dotfiles/dots/waybar",
     "original_path": "~/.config/waybar"
   },
   {
     "name": "zed",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/zed",
+    "target_path": "~/.dotfiles/dots/zed",
     "original_path": "~/.config/zed"
   },
   {
     "name": "cargo",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/cargo/config.toml",
+    "target_path": "~/.dotfiles/dots/cargo/config.toml",
     "original_path": "~/.cargo/config.toml"
   },
   {
     "name": "bash",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/bash/.bashrc",
+    "target_path": "~/.dotfiles/dots/bash/.bashrc",
     "original_path": "~/.bashrc"
   },
   {
     "name": "zsh",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/zsh/.zshrc",
+    "target_path": "~/.dotfiles/dots/zsh/.zshrc",
     "original_path": "~/.zshrc"
   },
   {
     "name": "local-binaries",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/local-binaries",
+    "target_path": "~/.dotfiles/dots/local-binaries",
     "original_path": "~/.local/bin"
   },
   {
     "name": "vencord",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/vencord",
+    "target_path": "~/.dotfiles/dots/vencord",
     "original_path": "~/.config/Vencord"
   },
   {
     "name": "ideavim",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/ideavim/.ideavimrc",
+    "target_path": "~/.dotfiles/dots/ideavim/.ideavimrc",
     "original_path": "~/.ideavimrc"
   },
   {
     "name": "zsh-plugins",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/zsh-plugins/.zsh_plugins.txt",
+    "target_path": "~/.dotfiles/dots/zsh-plugins/.zsh_plugins.txt",
     "original_path": "~/.zsh_plugins.txt"
   },
   {
     "name": "alacritty",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/alacritty",
+    "target_path": "~/.dotfiles/dots/alacritty",
     "original_path": "~/.config/alacritty"
   },
   {
     "name": "konsole",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/konsole",
+    "target_path": "~/.dotfiles/dots/konsole",
     "original_path": "~/.local/share/konsole"
   },
   {
     "name": "hypr",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/hypr",
+    "target_path": "~/.dotfiles/dots/hypr",
     "original_path": "~/.config/hypr"
   },
   {
     "name": "dunst",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/dunst",
+    "target_path": "~/.dotfiles/dots/dunst",
     "original_path": "~/.config/dunst"
   },
   {
     "name": "samsung-g5-color",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/samsung-g5-color/samsung-g5-color-profile.icm",
+    "target_path": "~/.dotfiles/dots/samsung-g5-color/samsung-g5-color-profile.icm",
     "original_path": "~/.config/samsung-g5-color-profile.icm"
   },
   {
     "name": "legion-5-color",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/legion-5-color/legion5-color-profile.icm",
+    "target_path": "~/.dotfiles/dots/legion-5-color/legion5-color-profile.icm",
     "original_path": "~/.config/legion5-color-profile.icm"
   },
   {
     "name": "discord",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/discord/settings.json",
+    "target_path": "~/.dotfiles/dots/discord/settings.json",
     "original_path": "~/.config/discord/settings.json"
   },
   {
     "name": "fastfetch",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/fastfetch",
+    "target_path": "~/.dotfiles/dots/fastfetch",
     "original_path": "~/.config/fastfetch"
   },
   {
     "name": "mpv",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/mpv",
+    "target_path": "~/.dotfiles/dots/mpv",
     "original_path": "~/.config/mpv"
   },
   {
     "name": "swaync",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/swaync",
+    "target_path": "~/.dotfiles/dots/swaync",
     "original_path": "~/.config/swaync"
   },
   {
     "name": "antidote",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/antidote",
+    "target_path": "~/.dotfiles/dots/antidote",
     "original_path": "~/.antidote"
   },
   {
     "name": "mordomo",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/mordomo",
+    "target_path": "~/.dotfiles/dots/mordomo",
     "original_path": "~/.config/mordomo"
   },
   {
     "name": "mordomo-emojis",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/mordomo-emojis",
+    "target_path": "~/.dotfiles/dots/mordomo-emojis",
     "original_path": "~/.config/mordomo-emojis"
   },
   {
     "name": "starship",
     "is_dir": false,
-    "target_path": "~/dotfiles/dots/starship/starship.toml",
+    "target_path": "~/.dotfiles/dots/starship/starship.toml",
     "original_path": "~/.config/starship.toml"
   },
   {
     "name": "kitty",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/kitty",
+    "target_path": "~/.dotfiles/dots/kitty",
     "original_path": "~/.config/kitty"
   },
   {
-    "name": "scripts",
+    "name": "mako",
     "is_dir": true,
-    "target_path": "~/dotfiles/dots/scripts",
-    "original_path": "~/Projects/scripts"
+    "target_path": "~/.dotfiles/dots/mako",
+    "original_path": "~/.config/mako"
   }
 ]

@@ -2,12 +2,12 @@
 	color: #000000;
 	font-weight: 600;
 	font-size: 14px;
-    font-family: 'Nunito, 0xProto Nerd Font Propo';
+	font-family: 'Nunito, 0xProto Nerd Font Propo';
 }
 
 window#waybar {
 	background-color: rgba(246, 246, 246, 1);
-	border-radius: 8px;
+	border-radius: 16px;
 }
 
 #custom-logo {
@@ -29,8 +29,7 @@ window#waybar {
 #custom-waymedia-buttons,
 #custom-keyboard-layout,
 #custom-resources,
-#custom-notifications
-{
+#custom-notifications {
 	/* background-color: rgba(20,20,20, 0.95); */
 	padding: 4px;
 	padding-left: 8px;
@@ -41,19 +40,20 @@ window#waybar {
 	/* border: 1px solid #1F1F1F; */
 }
 
-#tray, #custom-notifications{
+#tray,
+#custom-notifications {
 	border-radius: 16px 6px 6px 16px
 }
 
-#custom-waymedia{
+#custom-waymedia {
 	border-radius: 6px 16px 16px 6px
 }
 
-#battery{
+#battery {
 	border-radius: 6px 16px 16px 6px
 }
 
-#clock{
+#clock {
 	border-radius: 99px;
 }
 
