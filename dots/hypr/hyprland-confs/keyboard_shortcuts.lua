@@ -11,6 +11,11 @@ hl.bind("SUPER + right", hl.dsp.focus({ direction = "right" }))
 hl.bind("SUPER + up", hl.dsp.focus({ direction = "up" }))
 hl.bind("SUPER + down", hl.dsp.focus({ direction = "down" }))
 
+hl.bind("SUPER + SHIFT + left", hl.dsp.window.move({ direction = "l" }))
+hl.bind("SUPER + SHIFT + right", hl.dsp.window.move({ direction = "r" }))
+hl.bind("SUPER + SHIFT + up", hl.dsp.window.move({ direction = "u" }))
+hl.bind("SUPER + SHIFT + down", hl.dsp.window.move({ direction = "d" }))
+
 hl.bind("SUPER + mouse:272", hl.dsp.window.drag(), { mouse = true })
 hl.bind("SUPER + mouse:273", hl.dsp.window.resize(), { mouse = true })
 

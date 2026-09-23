@@ -1,63 +1,53 @@
 {
-  "width": 600,
-  "height": 400,
-  "theme": {
-    "dark": false,
-    "main": "#F6F6F6",
-    "secondary": "#EBEBEB",
-    "tertiary": "#D8D8D8",
-    "text_main": "#000000",
-    "text_secondary": "#1A1A1A",
-    "text_disabled": "#606060"
-  },
-  "keywords": [
-    {
-      "plugin_id": "core-session",
-      "keyword": "sm"
+    "showFooter": true,
+    "pluginsSettings": {
+        "core-testing": {
+            "username": "XXlorem_ipsumXX",
+            "age": "25.0",
+            "eula": "true",
+            "starter": "oshawott",
+            "[keyword]": "test"
+        },
+        "core-session": {
+            "[keyword]": "sm"
+        },
+        "your-plugin-id": {
+            "username": "XXlorem_ipsumXX",
+            "age": "25.0",
+            "eula": "true",
+            "starter": "oshawott",
+            "[keyword]": "ex"
+        },
+        "lighttigerxiv-gaming-mode": {
+            "[keyword]": "gm"
+        }
     },
-    {
-      "plugin_id": "core-emojis",
-      "keyword": "em"
-    },
-    {
-      "plugin_id": "core-bookmarks",
-      "keyword": "bm"
-    },
-    {
-      "plugin_id": "gaming-mode",
-      "keyword": "gam"
-    },
-    {
-      "plugin_id": "lorem-ipsum",
-      "keyword": "lorem"
-    }
-  ],
-  "plugins": [
-    {
-      "plugin_id": "core-emojis",
-      "setting_id": "skin_tone",
-      "value": "medium_light"
-    }
-  ],
-  "search_engines": [
-    {
-      "id": 0,
-      "keyword": "ec",
-      "name": "Ecosia",
-      "query": "https://www.ecosia.org/search?q=%s"
-    },
-    {
-      "id": 1,
-      "keyword": "dd",
-      "name": "DuckDuckGo",
-      "query": "https://duckduckgo.com/?q=%s"
-    },
-    {
-      "id": 2,
-      "keyword": "g",
-      "name": "Google",
-      "query": "https://www.google.com/search?q=%s"
-    }
-  ],
-  "default_engine": 1
+    "searchKeyword": "s",
+    "defaultSearchEngine": 1,
+    "searchEngines": [
+        {
+            "id": 1,
+            "name": "DuckDuckGo (No AI)",
+            "query": "https://noai.duckduckgo.com/?q=%s",
+            "keyword": "!d"
+        },
+        {
+            "id": 1,
+            "name": "Google",
+            "query": "https://www.google.com/search?q=%s",
+            "keyword": "!g"
+        },
+        {
+            "id": 1,
+            "name": "Ecosia",
+            "query": "https://www.ecosia.org/search?q=%s",
+            "keyword": "!e"
+        },
+        {
+            "id": 1,
+            "name": "Startpage",
+            "query": "https://www.startpage.com/sp/search?query=%s",
+            "keyword": "!s"
+        }
+    ]
 }
