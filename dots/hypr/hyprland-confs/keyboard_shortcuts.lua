@@ -2,6 +2,8 @@
 hl.bind("SUPER + S", hl.dsp.exec_cmd("gio launch $HOME/.local/share/applications/mordomo.desktop"))
 hl.bind("SUPER + T", hl.dsp.exec_cmd("alacritty"))
 hl.bind("SUPER + E", hl.dsp.exec_cmd("dolphin"))
+hl.bind("SUPER + P", hl.dsp.exec_cmd("pavucontrol"))
+hl.bind("SUPER + B", hl.dsp.exec_cmd("blueman-manager"))
 
 -- Window Management
 hl.bind("SUPER + Q", hl.dsp.window.close())
