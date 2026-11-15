@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+
+import subprocess
+import json
+
+def get_output(command) -> str:
+    return subprocess.run(command, shell=True, capture_output=True, text=True).stdout.strip()
+
+def get_layout() -> str:
+    try:
+        keyboards = json.loads(get_output("hyprctl devices -j")).get("keyboards", [])
+    except json.JSONDecodeError:
+        return ""
+    main = next((k for k in keyboards if k.get("main")), keyboards[0] if keyboards else {})
+    return main.get("active_keymap", "")
+
+layout = get_layout()
+
+text = "󰌌 🇵🇹 " if layout.startswith("Portuguese") else "󰌌 🇺🇸 "
+
+print(json.dumps({"text": text}))
+

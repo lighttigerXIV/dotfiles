@@ -1,0 +1,64 @@
+palette = "monocode_lynx"
+
+format = """
+$directory\
+$line_break\
+$line_break\
+$character\
+"""
+
+[directory]
+format="[](fg:blue bg:none)[](fg:#f2f2f2 bg:blue)($style)[ $path]($style)[](fg:blue bg:none)"
+style = "bg:blue fg:#f2f2f2"
+truncation_length = 3
+truncate_to_repo = false
+truncation_symbol = "../"
+
+
+[character]
+success_symbol = "[](green)"
+error_symbol = "[](red)"
+
+
+[package]
+disabled = true
+
+
+[palettes.monocode_panther]
+yellow = "#FFDE72"
+blue = "#72BBFF"
+cyan = "#72E0FF"
+red = "#FF7272"
+purple = "#C272FF"
+green = "#A8FF72"
+white = "#F2F2F2"
+black = "#383838"
+bright-yellow = "#FFDE72"
+bright-blue = "#72BBFF"
+bright-cyan = "#72E0FF"
+bright-red = "#FF7272"
+bright-purple = "#C272FF"
+bright-green = "#A8FF72"
+bright-white = "#F2F2F2"
+bright-black = "#383838"
+
+
+[palettes.monocode_lynx]
+yellow = "#9A7100"
+blue = "#00679A"
+cyan = "#008B9A"
+red = "#9A0000"
+purple = "#62009A"
+green = "#5F9A00"
+white = "#D8D8D8"
+black = "#000000"
+bright-yellow = "#9A7100"
+bright-blue = "#00679A"
+bright-cyan = "#008B9A"
+bright-red = "#9A0000"
+bright-purple = "#62009A"
+bright-green = "#5F9A00"
+bright-white = "#D8D8D8"
+bright-black = "#000000"
+
+

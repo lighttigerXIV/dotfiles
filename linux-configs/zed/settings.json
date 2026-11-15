@@ -1,0 +1,27 @@
+{
+  "cli_default_open_behavior": "existing_window",
+  "format_on_save": "on",
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "base_keymap": "JetBrains",
+  "icon_theme": {
+    "mode": "system",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Macchiato"
+  },
+  "vim_mode": true,
+  "ui_font_size": 18,
+  "buffer_font_size": 18,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark"
+  },
+  "buffer_font_family": "FiraCode Nerd Font Mono",
+  "ui_font_family": "Inter",
+  "terminal": {
+    "font_family": "FiraCode Nerd Font Mono",
+    "font_size": 18
+  }
+}

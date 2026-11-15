@@ -1,0 +1,77 @@
+{
+  "layer": "top",
+  "position": "top",
+  "reload_style_on_change": true,
+  "spacing": 4,
+  "margin-top": 0,
+  "margin-right": 0,
+  "margin-bottom": 0,
+  "margin-left": 0,
+  "modules-left": ["tray", "custom/waymedia"],
+  "modules-center": ["clock"],
+  "modules-right": [
+    "custom/keyboard-layout",
+    "custom/resources",
+    "pulseaudio",
+    "battery"
+  ],
+  "pulseaudio": {
+    "format": " {volume}%",
+    "format-muted": " {volume}%",
+    "on-click": "pavucontrol"
+  },
+  "battery": {
+    "format": "{icon} {capacity}%",
+    "format-icons": [
+      "<span foreground='#000'></span>",
+      "<span foreground='#000'></span>",
+      "<span foreground='#000'></span>",
+      "<span foreground='#000'></span>",
+      "<span foreground='#000'></span>"
+    ],
+    "format-charging": "󰂅 {capacity}%"
+  },
+  "tray": {
+    "icon-size": 16,
+    "spacing": 8
+  },
+  "clock": {
+    "format": "{:%H:%M}",
+    "tooltip-format": " {:%A - %d/%m/%Y}",
+    "on-click": "merkuro-calendar"
+  },
+  "custom/waymedia": {
+    "format": "{}",
+    "formatting": "{icon}{artist}{divider}{title}",
+    "exec": "~/.config/waybar/scripts/waymedia/waymedia",
+    "return-type": "json",
+    "interval": 1,
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous",
+    "play-icon": " ",
+    "pause-icon": " ",
+    "empty-message": "  Nothing Playing"
+  },
+  "custom/keyboard-layout": {
+    "format": "{}",
+    "exec": "~/.config/waybar/scripts/keyboard-layout/keyboard-layout",
+    "return-type": "json",
+    "interval": 1,
+    "on-click": ""
+  },
+  "custom/resources": {
+    "format": "{}",
+    "exec": "~/.config/waybar/scripts/resources/resources",
+    "return-type": "json",
+    "interval": 1,
+    "on-click": ""
+  },
+  "custom/notifications": {
+    "format": "{}",
+    "exec": "~/.config/waybar/scripts/notifications/notifications",
+    "return-type": "json",
+    "interval": 1,
+    "on-click": "swaync-client -t"
+  }
+}

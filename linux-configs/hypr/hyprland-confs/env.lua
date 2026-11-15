@@ -1,0 +1,5 @@
+hl.env("QT_QPA_PLATFORMTHEME", "kde", true)
+hl.env("XDG_MENU_PREFIX", "plasma-", true)
+hl.env("ELECTRON_OZONE_PLATFORM_HINT", "auto")
+hl.env("XCURSOR_THEME", "capitaine-cursors")
+hl.env("XCURSOR_SIZE", "28")

@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+
+import subprocess
+import json
+
+def get_output(command) -> str:
+    return subprocess.run(command, shell=True, capture_output=True, text=True).stdout.strip()
+
+
+cpu_usage = get_output("""top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8 "%"}'""")
+ram_usage = get_output("""free | awk '/Mem/ {printf "%.0f%%", $3/$2 * 100}'""")
+gpu_usage = get_output("""nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader,nounits""")
+
+text = f" {cpu_usage}    {ram_usage}   󰢮 {gpu_usage}%"
+
+print(json.dumps({"text": text}))
+

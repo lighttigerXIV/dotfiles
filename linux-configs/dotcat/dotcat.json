@@ -1,0 +1,130 @@
+{
+  "dots_dir": "~/Dotfiles/linux-configs",
+  "dots": [
+    {
+      "id": "bash",
+      "source": "bash/.bashrc",
+      "target": "~/.bashrc"
+    },
+    {
+      "id": "antidote",
+      "source": "antidote",
+      "target": "~/.antidote"
+    },
+    {
+      "id": "cargo",
+      "source": "cargo",
+      "target": "~/.cargo"
+    },
+    {
+      "id": "fastfetch",
+      "source": "fastfetch",
+      "target": "~/.config/fastfetch"
+    },
+    {
+      "id": "fontconfig",
+      "source": "fontconfig",
+      "target": "~/.config/fontconfig"
+    },
+    {
+      "id": "hypr",
+      "source": "hypr",
+      "target": "~/.config/hypr"
+    },
+    {
+      "id": "ideavim",
+      "source": "ideavim/.ideavimrc",
+      "target": "~/.ideavimrc"
+    },
+    {
+      "id": "dunst",
+      "source": "dunst",
+      "target": "~/.config/dunst"
+    },
+    {
+      "id": "kitty",
+      "source": "kitty",
+      "target": "~/.config/kitty"
+    },
+    {
+      "id": "konsole",
+      "source": "konsole",
+      "target": "~/.local/share/konsole"
+    },
+    {
+      "id": "legion-5-color",
+      "source": "legion-5-color/legion5-color-profile.icm",
+      "target": "~/.config/legion5-color-profile.icm"
+    },
+    {
+      "id": "local-binaries",
+      "source": "local-binaries",
+      "target": "~/.local/bin"
+    },
+    {
+      "id": "mako",
+      "source": "mako",
+      "target": "~/.config/mako"
+    },
+    {
+      "id": "mordomo",
+      "source": "mordomo",
+      "target": "~/.config/mordomo"
+    },
+    {
+      "id": "mordomo-bookmarks",
+      "source": "mordomo-bookmarks",
+      "target": "~/.config/mordomo-bookmarks"
+    },
+    {
+      "id": "mpv",
+      "source": "mpv",
+      "target": "~/.config/mpv"
+    },
+    {
+      "id": "nvim",
+      "source": "nvim",
+      "target": "~/.config/nvim"
+    },
+    {
+      "id": "samsung-g5-color",
+      "source": "samsung-g5-color/samsung-g5-color-profile.icm",
+      "target": "~/.config/samsung-g5-color-profile.icm"
+    },
+    {
+      "id": "starship",
+      "source": "starship/starship.toml",
+      "target": "~/.config/starship.toml"
+    },
+    {
+      "id": "swaync",
+      "source": "swaync",
+      "target": "~/.config/swaync"
+    },
+    {
+      "id": "waybar",
+      "source": "waybar",
+      "target": "~/.config/waybar"
+    },
+    {
+      "id": "zed",
+      "source": "zed",
+      "target": "~/.config/zed"
+    },
+    {
+      "id": "zsh",
+      "source": "zsh/.zshrc",
+      "target": "~/.zshrc"
+    },
+    {
+      "id": "zsh-plugins",
+      "source": "zsh-plugins/.zsh_plugins.txt",
+      "target": "~/.zsh_plugins.txt"
+    },
+    {
+      "id": "alacritty",
+      "source": "alacritty",
+      "target": "~/.config/alacritty"
+    }
+  ]
+}

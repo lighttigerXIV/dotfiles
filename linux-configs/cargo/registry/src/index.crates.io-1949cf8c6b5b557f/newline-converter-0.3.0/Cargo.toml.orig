@@ -1,0 +1,28 @@
+[package]
+name = "newline-converter"
+version = "0.3.0"
+authors = ["Michal Borejszo <michael.borejszo@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "Newline byte converter library"
+repository = "https://github.com/spitfire05/rnc/tree/master/crates/newline-converter"
+readme = "README.md"
+keywords = ["newline", "linebreak", "conversion"]
+categories = ["encoding", "text-processing"]
+
+[dependencies]
+unicode-segmentation = "1.10"
+
+[dev-dependencies]
+criterion = "0.4.0"
+lazy-regex = "2.3"
+once_cell = "1.15"
+fancy-regex = "0.10"
+quickcheck = "1"
+
+[lib]
+bench = false
+
+[[bench]]
+name = "bench"
+harness = false
