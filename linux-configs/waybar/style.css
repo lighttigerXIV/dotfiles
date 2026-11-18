@@ -7,10 +7,10 @@
 }
 
 window#waybar {
-	background-color: rgba(246, 246, 246, 1);
-	/* background-color: rgba(246, 246, 246, 0.5); */
+	/* background-color: rgba(0, 0, 0, 0.5); */
+	background-color: rgba(235, 235, 235, 1);
 	border-radius: 0px;
-	border-bottom: 1px solid #D8D8D8;
+	/* border-bottom: 1px solid #D8D8D8; */
 }
 
 #custom-logo {

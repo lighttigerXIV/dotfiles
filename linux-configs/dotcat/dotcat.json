@@ -12,11 +12,6 @@
       "target": "~/.antidote"
     },
     {
-      "id": "cargo",
-      "source": "cargo",
-      "target": "~/.cargo"
-    },
-    {
       "id": "fastfetch",
       "source": "fastfetch",
       "target": "~/.config/fastfetch"
@@ -125,6 +120,11 @@
       "id": "alacritty",
       "source": "alacritty",
       "target": "~/.config/alacritty"
+    },
+    {
+      "id": "cargo",
+      "source": "cargo/config.toml",
+      "target": "~/.cargo/config.toml"
     }
   ]
 }

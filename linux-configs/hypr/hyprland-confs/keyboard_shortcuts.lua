@@ -78,3 +78,6 @@ for i = 1, 10 do
 	hl.bind("SUPER + " .. key, hl.dsp.focus({ workspace = i }))
 	hl.bind("SUPER + SHIFT + " .. key, hl.dsp.window.move({ workspace = i }))
 end
+
+-- Locking
+hl.bind("SUPER + L", hl.dsp.exec_cmd("hyprlock"))
